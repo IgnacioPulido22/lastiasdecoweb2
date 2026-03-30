@@ -3,10 +3,9 @@ import { Link, useLocation, useNavigate } from "react-router-dom";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { BOOKING_EVENT } from "@/components/BookingModal";
-import logo from "@/assets/logo.jpg";
+import logo from "@/assets/logo.png";
 
 const navItems = [
-  { label: "Servicios",        href: "servicios" },
   { label: "Cómo trabajamos",  href: "como-trabajamos" },
   { label: "FAQ",              href: "faq" },
   { label: "Contacto",         href: "contacto" },
@@ -83,16 +82,6 @@ const Header = () => {
           {/* Desktop CTAs */}
           <div className="hidden md:flex items-center gap-3">
             <Button
-              variant="heroOutline"
-              size="sm"
-              className="rounded-none font-display uppercase tracking-widest text-xs"
-              asChild
-            >
-              <a href="#servicios" onClick={(e) => handleNavClick(e, "servicios")}>
-                Ver planes
-              </a>
-            </Button>
-            <Button
               variant="hero"
               size="sm"
               onClick={openBooking}
@@ -127,15 +116,6 @@ const Header = () => {
                 </a>
               ))}
               <div className="flex flex-col gap-3 pt-5 mt-2 border-t border-border">
-                <Button
-                  variant="heroOutline"
-                  className="rounded-none font-display uppercase tracking-widest text-xs"
-                  asChild
-                >
-                  <a href="#servicios" onClick={(e) => handleNavClick(e, "servicios")}>
-                    Ver planes
-                  </a>
-                </Button>
                 <Button
                   variant="hero"
                   onClick={openBooking}

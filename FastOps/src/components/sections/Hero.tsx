@@ -1,4 +1,4 @@
-import { ArrowRight, Zap, Clock, TrendingUp } from "lucide-react";
+import { Zap, Clock, TrendingUp } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { BOOKING_EVENT } from "@/components/BookingModal";
 import HeroScene from "@/components/three/HeroScene";
@@ -73,17 +73,6 @@ const Hero = () => {
             style={{ animationDelay: "0.24s" }}
           >
             <Button
-              variant="hero"
-              size="xl"
-              asChild
-              className="rounded-none font-display font-bold uppercase tracking-widest text-base group"
-            >
-              <a href="#servicios">
-                Ver planes
-                <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-              </a>
-            </Button>
-            <Button
               variant="heroOutline"
               size="xl"
               onClick={openBooking}
@@ -100,7 +89,7 @@ const Hero = () => {
           >
             {[
               { value: "Meta Ads", label: "gestión completa de publicidad", icon: TrendingUp },
-              { value: "n8n + IA", label: "automatización inteligente", icon: Zap },
+              { value: "+Rendimiento", label: "resultados que escalan", icon: Zap },
               { value: "Finanzas", label: "control y análisis del negocio", icon: Clock },
             ].map((stat, i) => (
               <div key={i} className="flex items-center gap-4 px-5 py-5 md:px-8 group hover:bg-primary/5 transition-colors">

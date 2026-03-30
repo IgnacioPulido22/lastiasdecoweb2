@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect, useCallback } from "react";
-import { Bot, Workflow, TrendingUp, BarChart3, Megaphone, DollarSign } from "lucide-react";
+import { TrendingUp, BarChart3, Megaphone, DollarSign } from "lucide-react";
 
 interface CardState {
   rotX: number;
@@ -26,24 +26,12 @@ const services = [
   },
   {
     number: "03",
-    icon: Workflow,
-    title: "Automatización con n8n",
-    description: "Conectamos tus herramientas para que trabajen solas: respuestas automáticas, captación de leads, seguimientos y reportes — todo sin que muevas un dedo.",
-  },
-  {
-    number: "04",
-    icon: Bot,
-    title: "Inteligencia artificial",
-    description: "Usamos IA para clasificar leads, responder consultas, generar contenido y tomar decisiones automáticas que aceleran el crecimiento de tu negocio.",
-  },
-  {
-    number: "05",
     icon: DollarSign,
     title: "Finanzas del negocio",
     description: "Ordenamos tus números: flujo de caja, rentabilidad por producto, métricas clave y reportes claros para que tomes decisiones basadas en datos reales.",
   },
   {
-    number: "06",
+    number: "04",
     icon: BarChart3,
     title: "Análisis & reportes",
     description: "Dashboards en tiempo real con tus métricas más importantes: ROAS, CAC, LTV, margen neto y más. Sabés exactamente dónde está tu dinero y hacia dónde va.",
@@ -160,7 +148,7 @@ const WhatWeDo = () => {
         </div>
 
         {/* Cards */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-0 border border-border/60">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-0 border border-border/60">
           {services.map((service, i) => {
             const s = states[i];
             const active = s.isHovered || s.isDragging;
@@ -172,8 +160,8 @@ const WhatWeDo = () => {
                 onMouseEnter={() => handleMouseEnter(i)}
                 onMouseLeave={() => handleMouseLeave(i)}
                 className={`relative p-7 bg-gradient-card select-none
-                  ${[0,1,3,4].includes(i) ? "border-r border-border/60" : ""}
-                  ${i < 3 ? "border-b border-border/60" : ""}
+                  ${[0, 2].includes(i) ? "border-r border-border/60" : ""}
+                  ${i < 2 ? "border-b border-border/60" : ""}
                 `}
                 style={{
                   cursor: s.isDragging ? "grabbing" : "grab",

@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { Check, ArrowRight, Zap } from "lucide-react";
+import { Check, ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const Plans = () => {
@@ -88,22 +88,6 @@ const Plans = () => {
                 }
               `}
             >
-              {/* Tag */}
-              <div className="flex items-center justify-between mb-6">
-                <span
-                  className={`font-code text-[10px] tracking-[0.18em] uppercase px-2.5 py-1 border
-                    ${plan.highlighted
-                      ? "text-primary border-primary/50 bg-primary/10"
-                      : "text-muted-foreground border-border/60"
-                    }`}
-                >
-                  {plan.tag}
-                </span>
-                {plan.highlighted && (
-                  <Zap className="w-4 h-4 text-primary animate-pulse" />
-                )}
-              </div>
-
               {/* Plan name */}
               <h3 className="font-display font-black uppercase text-3xl md:text-4xl text-foreground leading-tight mb-2 whitespace-pre-line">
                 {plan.name}
