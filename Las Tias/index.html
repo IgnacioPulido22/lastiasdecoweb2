@@ -1367,6 +1367,48 @@
       font-size: 0.65rem; display: flex; align-items: center; justify-content: center;
       cursor: pointer; border: none;
     }
+    /* URL input for external images */
+    .admin-url-input {
+      width: 100%; padding: 10px 12px;
+      border: 1px solid var(--gray-light);
+      background: var(--white);
+      font-family: var(--font-sans);
+      font-size: 0.78rem;
+      color: var(--dark);
+      outline: none;
+      transition: border-color var(--transition);
+      box-sizing: border-box;
+    }
+    .admin-url-input:focus { border-color: var(--gold); }
+    .admin-url-input::placeholder { color: var(--gray); font-size: 0.72rem; }
+    .admin-or-divider {
+      text-align: center;
+      font-size: 0.68rem;
+      color: var(--gray);
+      letter-spacing: 0.1em;
+      padding: 8px 0 4px;
+    }
+    .admin-url-hint {
+      font-size: 0.68rem;
+      color: var(--gray);
+      margin-top: 4px;
+      line-height: 1.4;
+    }
+    .admin-gal-urls {
+      width: 100%; min-height: 72px; padding: 8px 12px;
+      border: 1px solid var(--gray-light);
+      background: var(--white);
+      font-family: var(--font-sans);
+      font-size: 0.72rem;
+      color: var(--dark);
+      outline: none;
+      resize: vertical;
+      line-height: 1.6;
+      transition: border-color var(--transition);
+      box-sizing: border-box;
+    }
+    .admin-gal-urls:focus { border-color: var(--gold); }
+    .admin-gal-urls::placeholder { color: var(--gray); }
     .admin-color-preview {
       width: 100%; height: 60px;
       margin-top: 4px;
@@ -2115,11 +2157,16 @@
 
           <!-- FOTO PRINCIPAL -->
           <div class="admin-field full">
-            <label>Foto principal del producto <small style="font-weight:300;color:var(--gray)">(reemplaza la ilustración SVG)</small></label>
+            <label>Foto principal del producto</label>
+            <input type="text" id="af-img-url" class="admin-url-input"
+              placeholder="/images/nombre-foto.jpg  o  https://res.cloudinary.com/tu-cuenta/..."
+              oninput="handleImgUrlInput(this.value)" autocomplete="off" />
+            <p class="admin-url-hint">Usá la carpeta <strong>images/</strong> del proyecto (gratis, sin límite) o Cloudinary.</p>
+            <div class="admin-or-divider">— o subí desde el dispositivo (máx. 5MB) —</div>
             <div class="admin-img-upload-zone" id="af-img-zone" onclick="document.getElementById('af-img-file').click()">
               <input type="file" id="af-img-file" accept="image/*" style="display:none" onchange="handleMainImageUpload(event)" />
               <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="var(--gray)" stroke-width="1.4" id="af-img-icon"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
-              <span class="upload-hint" id="af-img-hint">Clic para subir imagen<br><span style="font-size:0.68rem;opacity:0.7">JPG, PNG, WEBP — máx. 5MB</span></span>
+              <span class="upload-hint" id="af-img-hint">Clic para subir imagen</span>
             </div>
             <img id="af-img-preview" class="admin-img-preview" alt="Vista previa" />
             <span class="admin-img-remove" id="af-img-remove" onclick="removeMainImage()">✕ Quitar foto</span>
@@ -2127,11 +2174,15 @@
 
           <!-- FOTOS DE DETALLE -->
           <div class="admin-field full">
-            <label>Fotos de detalle <small style="font-weight:300;color:var(--gray)">(galería en el modal del producto)</small></label>
+            <label>Fotos de detalle <small style="font-weight:300;color:var(--gray)">(galería en el modal)</small></label>
+            <textarea id="af-gal-urls" class="admin-gal-urls"
+              placeholder="Pegá URLs, una por línea:&#10;/images/detalle-1.jpg&#10;/images/detalle-2.jpg&#10;https://res.cloudinary.com/..."></textarea>
+            <p class="admin-url-hint">Pegá las URLs de las fotos de detalle, una por línea. Sin límite de cantidad.</p>
+            <div class="admin-or-divider">— o subí desde el dispositivo (máx. 8 fotos) —</div>
             <div class="admin-img-upload-zone" id="af-gal-zone" onclick="document.getElementById('af-gal-file').click()">
               <input type="file" id="af-gal-file" accept="image/*" multiple style="display:none" onchange="handleGalleryUpload(event)" />
               <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--gray)" stroke-width="1.4"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg>
-              <span class="upload-hint">Agregar fotos de detalle<br><span style="font-size:0.68rem;opacity:0.7">Podés subir varias a la vez</span></span>
+              <span class="upload-hint">Agregar fotos de detalle</span>
             </div>
             <div class="admin-gallery-strip" id="af-gal-strip"></div>
           </div>
@@ -2542,9 +2593,9 @@
     function badgeCls(b) { return BADGE_CLASS_MAP[b] || b.toLowerCase().replace(/[^a-z0-9]/g,''); }
 
     function getSVG(p) {
-      /* if a custom photo was uploaded, show it as <img> */
-      if (PRODUCT_IMAGES[p.id]) {
-        return `<img src="${PRODUCT_IMAGES[p.id]}" alt="${p.name}" style="width:100%;height:100%;object-fit:cover;display:block;" />`;
+      const imgSrc = p.img || PRODUCT_IMAGES[p.id];
+      if (imgSrc) {
+        return `<img src="${imgSrc}" alt="${p.name}" style="width:100%;height:100%;object-fit:cover;display:block;" />`;
       }
       const type = PRODUCT_SVG_MAP[p.id] || 'default';
       const fn = SVG[type] || SVG.default;
@@ -3417,14 +3468,21 @@
         document.getElementById('af-color').value      = p.color || '#E8DDD0';
         document.getElementById('af-svg').value        = PRODUCT_SVG_MAP[p.id] || 'default';
         // load existing images
-        _adminImgBase64 = PRODUCT_IMAGES[p.id] || null;
-        _adminGalBase64 = (PRODUCT_GALLERY[p.id] || []).slice();
-        syncMainImgUI(_adminImgBase64);
+        const existingUrl = p.img || '';
+        document.getElementById('af-img-url').value = existingUrl;
+        _adminImgBase64 = existingUrl ? null : (PRODUCT_IMAGES[p.id] || null);
+        const allGal = PRODUCT_GALLERY[p.id] || [];
+        const galUrls = allGal.filter(s => !s.startsWith('data:'));
+        _adminGalBase64 = allGal.filter(s => s.startsWith('data:'));
+        document.getElementById('af-gal-urls').value = galUrls.join('\n');
+        syncMainImgUI(existingUrl || _adminImgBase64);
         syncGalleryUI(_adminGalBase64);
       } else {
         document.getElementById('adminFormTitle').textContent = 'Nuevo Producto';
         document.getElementById('af-color').value = '#E8DDD0';
         document.getElementById('af-svg').value   = 'default';
+        document.getElementById('af-img-url').value = '';
+        document.getElementById('af-gal-urls').value = '';
       }
       updateColorPreview();
 
@@ -3470,25 +3528,35 @@
         PRODUCT_SVG_MAP[_editingProductId] = svgType;
         if (detail) PRODUCT_DETAILS[_editingProductId] = detail;
         // persist images
-        if (_adminImgBase64) PRODUCT_IMAGES[_editingProductId] = _adminImgBase64;
-        else delete PRODUCT_IMAGES[_editingProductId];
-        if (_adminGalBase64.length) PRODUCT_GALLERY[_editingProductId] = _adminGalBase64;
+        const imgUrlVal = document.getElementById('af-img-url').value.trim();
+        const galUrlsVal = document.getElementById('af-gal-urls').value.trim();
+        const galUrlsList = galUrlsVal ? galUrlsVal.split('\n').map(s=>s.trim()).filter(Boolean) : [];
+        if (imgUrlVal) { PRODUCTS[idx].img = imgUrlVal; delete PRODUCT_IMAGES[_editingProductId]; }
+        else if (_adminImgBase64) { PRODUCT_IMAGES[_editingProductId] = _adminImgBase64; delete PRODUCTS[idx].img; }
+        else { delete PRODUCTS[idx].img; delete PRODUCT_IMAGES[_editingProductId]; }
+        const allGal = [...galUrlsList, ..._adminGalBase64];
+        if (allGal.length) PRODUCT_GALLERY[_editingProductId] = allGal;
         else delete PRODUCT_GALLERY[_editingProductId];
       } else {
         const newId = adminGenerateId(category);
-        PRODUCTS.push({
+        const imgUrlValN = document.getElementById('af-img-url').value.trim();
+        const galUrlsValN = document.getElementById('af-gal-urls').value.trim();
+        const galUrlsListN = galUrlsValN ? galUrlsValN.split('\n').map(s=>s.trim()).filter(Boolean) : [];
+        const newProd = {
           id: newId,
           name:        document.getElementById('af-name').value.trim(),
           category, sectionId,
           description: document.getElementById('af-desc').value.trim(),
           price:       parseInt(document.getElementById('af-price').value),
           price_old, badge, color, icon: '✨',
-        });
+        };
+        if (imgUrlValN) newProd.img = imgUrlValN;
+        PRODUCTS.push(newProd);
         PRODUCT_SVG_MAP[newId] = svgType;
         if (detail) PRODUCT_DETAILS[newId] = detail;
-        // persist images
-        if (_adminImgBase64) PRODUCT_IMAGES[newId] = _adminImgBase64;
-        if (_adminGalBase64.length) PRODUCT_GALLERY[newId] = _adminGalBase64;
+        if (!imgUrlValN && _adminImgBase64) PRODUCT_IMAGES[newId] = _adminImgBase64;
+        const allGalN = [...galUrlsListN, ..._adminGalBase64];
+        if (allGalN.length) PRODUCT_GALLERY[newId] = allGalN;
       }
 
       saveProductsToStorage();
@@ -3547,6 +3615,16 @@
       }
     }
 
+    function handleImgUrlInput(val) {
+      const url = val.trim();
+      if (url) {
+        _adminImgBase64 = null;
+        syncMainImgUI(url);
+      } else {
+        syncMainImgUI(null);
+      }
+    }
+
     function handleMainImageUpload(evt) {
       const file = evt.target.files[0];
       if (!file) return;
@@ -3554,6 +3632,7 @@
       const reader = new FileReader();
       reader.onload = e => {
         _adminImgBase64 = e.target.result;
+        document.getElementById('af-img-url').value = '';
         syncMainImgUI(_adminImgBase64);
       };
       reader.readAsDataURL(file);
@@ -3562,6 +3641,7 @@
 
     function removeMainImage() {
       _adminImgBase64 = null;
+      document.getElementById('af-img-url').value = '';
       syncMainImgUI(null);
     }
 
