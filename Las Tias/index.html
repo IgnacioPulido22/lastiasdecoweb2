@@ -1158,6 +1158,55 @@
     }
     .btn-admin-reset:hover { border-color: #e74c3c; color: #e74c3c; }
 
+    /* GitHub Sync bar */
+    .admin-sync-bar {
+      padding: 12px 32px;
+      background: #f0f7ff;
+      border-bottom: 1px solid #cce0ff;
+      display: flex; align-items: center; gap: 12px;
+      flex-shrink: 0; flex-wrap: wrap;
+    }
+    .admin-sync-label {
+      font-size: 0.72rem; font-weight: 600;
+      letter-spacing: 0.1em; text-transform: uppercase;
+      color: #2563EB; flex-shrink: 0;
+    }
+    .admin-sync-token {
+      flex: 1; min-width: 180px; max-width: 300px;
+      padding: 7px 10px;
+      border: 1px solid #cce0ff;
+      font-family: var(--font-sans); font-size: 0.75rem;
+      color: var(--dark); background: var(--white);
+      outline: none;
+    }
+    .admin-sync-token:focus { border-color: #2563EB; }
+    .btn-sync-save {
+      padding: 7px 14px;
+      background: #2563EB; color: #fff;
+      font-size: 0.7rem; font-weight: 600;
+      letter-spacing: 0.08em;
+      transition: background var(--transition);
+      flex-shrink: 0;
+    }
+    .btn-sync-save:hover { background: #1d4ed8; }
+    .btn-sync-now {
+      padding: 7px 14px;
+      border: 1px solid #2563EB; color: #2563EB;
+      font-size: 0.7rem; font-weight: 600;
+      letter-spacing: 0.08em;
+      transition: all var(--transition);
+      flex-shrink: 0;
+    }
+    .btn-sync-now:hover { background: #2563EB; color: #fff; }
+    .admin-sync-status {
+      font-size: 0.72rem; flex-shrink: 0;
+      padding: 4px 10px; border-radius: 20px;
+    }
+    .admin-sync-status.ok    { background: #dcfce7; color: #166534; }
+    .admin-sync-status.error { background: #fee2e2; color: #991b1b; }
+    .admin-sync-status.busy  { background: #fef9c3; color: #854d0e; }
+    .admin-sync-status.idle  { background: #f1f5f9; color: #64748b; }
+
     /* Table */
     .admin-table-wrap {
       flex: 1;
@@ -2032,6 +2081,18 @@
           <button class="btn-admin-logout" onclick="adminLogout()">Salir</button>
         </div>
       </header>
+
+      <!-- SYNC BAR -->
+      <div class="admin-sync-bar">
+        <span class="admin-sync-label">🔄 Sincronización</span>
+        <input type="password" id="syncTokenInput" class="admin-sync-token"
+          placeholder="GitHub Token (ghp_...)"
+          title="Personal Access Token de GitHub con permiso 'repo'" />
+        <button class="btn-sync-save" onclick="saveGitHubToken()">Guardar Token</button>
+        <button class="btn-sync-now" onclick="syncToGitHub(true)">↑ Subir cambios</button>
+        <button class="btn-sync-now" onclick="pullFromGitHub(true)" style="border-color:var(--gold);color:var(--gold-dark);">↓ Bajar cambios</button>
+        <span id="syncStatus" class="admin-sync-status idle">Sin sincronizar</span>
+      </div>
 
       <div class="admin-toolbar">
         <input type="search" class="admin-search" id="adminSearch" placeholder="Buscar por nombre o descripción..." oninput="renderAdminTable()" />
@@ -3385,6 +3446,8 @@
     }
 
     function showAdminDashboard() {
+      const token = getGHToken();
+      if (token) document.getElementById('syncTokenInput').placeholder = 'Token guardado — reemplazalo si querés cambiarlo';
       document.getElementById('admin-login-screen').style.display = 'none';
       document.getElementById('admin-dashboard').style.display = 'flex';
       populateSVGSelect();
@@ -3564,6 +3627,7 @@
       closeAdminForm();
       renderAdminTable();
       showToast(_editingProductId ? '✓ Producto actualizado' : '✓ Producto agregado');
+      syncToGitHub(false);
     }
 
     function deleteAdminProduct(id) {
@@ -3579,6 +3643,7 @@
       buildCatalog();
       renderAdminTable();
       showToast(`"${p.name}" eliminado`);
+      syncToGitHub(false);
     }
 
     function resetToDefaultProducts() {
@@ -3776,16 +3841,125 @@
     });
 
     /* ===========================
+       GITHUB SYNC
+    =========================== */
+    const GH_REPO = 'IgnacioPulido22/lastiasdecoweb2';
+    const GH_FILE = 'Las Tias/products.json';
+    const GH_API  = `https://api.github.com/repos/${GH_REPO}/contents/${encodeURIComponent(GH_FILE)}`;
+
+    function getGHToken() {
+      return localStorage.getItem('ltd_gh_token') || '';
+    }
+
+    function saveGitHubToken() {
+      const val = document.getElementById('syncTokenInput').value.trim();
+      if (!val) { showToast('⚠ Ingresá un token'); return; }
+      localStorage.setItem('ltd_gh_token', val);
+      document.getElementById('syncTokenInput').value = '';
+      setSyncStatus('ok', '✓ Token guardado');
+      showToast('✓ Token de GitHub guardado');
+    }
+
+    function setSyncStatus(cls, msg) {
+      const el = document.getElementById('syncStatus');
+      if (!el) return;
+      el.className = `admin-sync-status ${cls}`;
+      el.textContent = msg;
+    }
+
+    function buildSyncPayload() {
+      const galUrlsOnly = Object.fromEntries(
+        Object.entries(PRODUCT_GALLERY).map(([k, v]) =>
+          [k, v.filter(s => !s.startsWith('data:'))]
+        ).filter(([, v]) => v.length)
+      );
+      return { products: PRODUCTS, gallery: galUrlsOnly, details: PRODUCT_DETAILS, svgMap: PRODUCT_SVG_MAP };
+    }
+
+    async function syncToGitHub(manual = false) {
+      const token = getGHToken();
+      if (!token) {
+        if (manual) showToast('⚠ Guardá primero el Token de GitHub');
+        return false;
+      }
+      setSyncStatus('busy', '⏳ Subiendo…');
+      try {
+        const headers = { Authorization: `token ${token}`, Accept: 'application/vnd.github.v3+json', 'Content-Type': 'application/json' };
+        const getResp = await fetch(GH_API, { headers });
+        const getSha  = getResp.ok ? (await getResp.json()).sha : undefined;
+
+        const payload  = buildSyncPayload();
+        const jsonStr  = JSON.stringify(payload, null, 2);
+        const content  = btoa(unescape(encodeURIComponent(jsonStr)));
+        const body     = { message: `Actualizar catálogo — ${new Date().toLocaleString('es-AR')}`, content };
+        if (getSha) body.sha = getSha;
+
+        const putResp = await fetch(GH_API, { method: 'PUT', headers, body: JSON.stringify(body) });
+        if (putResp.ok) {
+          setSyncStatus('ok', `✓ Sincronizado ${new Date().toLocaleTimeString('es-AR')}`);
+          if (manual) showToast('✓ Catálogo subido a GitHub');
+          return true;
+        }
+        const err = await putResp.json();
+        throw new Error(err.message || putResp.status);
+      } catch(e) {
+        setSyncStatus('error', '✗ Error al sincronizar');
+        if (manual) showToast(`✗ Error: ${e.message}`);
+        return false;
+      }
+    }
+
+    async function pullFromGitHub(manual = false) {
+      const token = getGHToken();
+      setSyncStatus('busy', '⏳ Bajando…');
+      try {
+        const headers = { Accept: 'application/vnd.github.v3+json' };
+        if (token) headers.Authorization = `token ${token}`;
+        const resp = await fetch(GH_API + '?t=' + Date.now(), { headers });
+        if (!resp.ok) throw new Error('Archivo no encontrado en GitHub');
+        const json    = await resp.json();
+        const decoded = decodeURIComponent(escape(atob(json.content.replace(/\n/g, ''))));
+        const data    = JSON.parse(decoded);
+        if (!data.products?.length) throw new Error('Datos vacíos');
+        PRODUCTS         = data.products;
+        if (data.gallery) {
+          Object.assign(PRODUCT_GALLERY, data.gallery);
+        }
+        if (data.details) Object.assign(PRODUCT_DETAILS, data.details);
+        if (data.svgMap)  Object.assign(PRODUCT_SVG_MAP, data.svgMap);
+        saveProductsToStorage();
+        buildCatalog();
+        renderAdminTable();
+        setSyncStatus('ok', `✓ Actualizado ${new Date().toLocaleTimeString('es-AR')}`);
+        if (manual) showToast('✓ Catálogo actualizado desde GitHub');
+        return true;
+      } catch(e) {
+        setSyncStatus('error', `✗ ${e.message}`);
+        if (manual) showToast(`✗ No se pudo bajar: ${e.message}`);
+        return false;
+      }
+    }
+
+    async function initGitHubSync() {
+      const token = getGHToken();
+      if (token) document.getElementById('syncTokenInput').placeholder = 'Token guardado (●●●●●●●●)';
+      await pullFromGitHub(false);
+    }
+
+    /* ===========================
        INIT
     =========================== */
-    document.addEventListener('DOMContentLoaded', () => {
-      loadProductsFromStorage();   // ← carga cambios del admin si existen
+    document.addEventListener('DOMContentLoaded', async () => {
+      loadProductsFromStorage();
       buildCatalog();
       cart.render();
       initNavbar();
       initScrollSpy();
       initFadeInSections();
       if (window.location.hash === '#admin') openAdmin();
+      // Fetch latest catalog from GitHub in background, re-render if updated
+      const updated = await pullFromGitHub(false);
+      if (updated) buildCatalog();
     });
   </script>
 </body>
