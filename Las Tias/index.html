@@ -1699,24 +1699,90 @@
       .nav-links { display: none; }
       .nav-mobile-toggle { display: flex; }
       .footer-top { grid-template-columns: 1fr; gap: 32px; }
-      .modal-inner { grid-template-columns: 1fr; }
+      .modal-inner { grid-template-columns: 1fr; max-height: 100dvh; overflow-y: auto; }
       .modal-img-wrap { min-height: 260px; max-height: 260px; }
       .modal-img-wrap svg { min-height: 260px; }
-      .modal-details { padding: 28px 24px; }
+      .modal-details { padding: 24px 20px 32px; }
+      .btn-modal-add, .btn-modal-whatsapp { padding: 14px 20px; }
     }
     @media (max-width: 768px) {
-      .products-grid { grid-template-columns: repeat(2, 1fr); }
+      .products-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
       .why-grid { grid-template-columns: 1fr 1fr; }
-      .section-inner { padding: 0 20px; }
+      .section-inner { padding: 0 16px; }
       .hero-inner { padding: 0 20px; }
-      .nav-inner { padding: 0 20px; }
-      .catalog-section { padding: 64px 0; }
+      .nav-inner { padding: 0 16px; }
+      .catalog-section { padding: 56px 0; }
+      .section-header { margin-bottom: 28px; }
+      .section-title { font-size: 2rem; }
+      .section-controls { gap: 8px; }
+      .sort-select { font-size: 0.75rem; padding: 7px 10px; }
+      .product-count { font-size: 0.7rem; }
+      .product-info { padding: 12px 12px 14px; }
+      .product-name { font-size: 0.93rem; line-height: 1.2; margin-bottom: 3px; }
+      .product-desc { font-size: 0.72rem; margin-bottom: 10px; }
+      .product-price { font-size: 1rem; }
+      .btn-add-cart { padding: 8px 10px; font-size: 0.65rem; }
+      .nav-cart-btn { gap: 6px; padding: 7px 12px; font-size: 0.72rem; }
     }
     @media (max-width: 480px) {
-      .products-grid { grid-template-columns: 1fr; }
+      .products-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
       .why-grid { grid-template-columns: 1fr; }
-      .hero-headline { font-size: 2.6rem; }
+      .hero-headline { font-size: 2.2rem; }
+      .hero-sub { font-size: 0.92rem; }
+      .hero-text { padding: 32px 0; }
       #cart-drawer { width: 100vw; }
+      .cart-header { padding: 18px 20px; }
+      .cart-items { padding: 0 4px; }
+      .section-inner { padding: 0 12px; }
+      .catalog-section { padding: 44px 0; }
+      .section-title { font-size: 1.7rem; }
+      .section-desc { font-size: 0.85rem; }
+      .product-info { padding: 10px 10px 12px; }
+      .product-name { font-size: 0.85rem; }
+      .product-desc { display: none; }
+      .product-price { font-size: 0.95rem; }
+      .product-footer { flex-direction: column; align-items: flex-start; gap: 6px; }
+      .btn-add-cart { width: 100%; text-align: center; padding: 9px 8px; font-size: 0.68rem; }
+      .nav-logo .logo-main { font-size: 1.3rem; }
+      .why-item { padding: 24px; }
+      .footer-top { gap: 24px; }
+      #product-modal { width: 100vw; height: 100dvh; max-height: 100dvh; border-radius: 0; top: 0; left: 0; transform: translateY(100%); border: none; border-top: 2px solid var(--gold); overflow-y: auto; }
+      #product-modal.open { transform: translateY(0); }
+      #modal-overlay { display: none; }
+      .modal-close { top: 12px; right: 12px; width: 36px; height: 36px; }
+      .modal-details { padding: 16px 16px 80px; }
+      .modal-name { font-size: 1.4rem; }
+      .modal-price-display { font-size: 1.6rem; }
+      .search-box { border-radius: 0; }
+      .nav-mobile-toggle span { width: 22px; }
+    }
+    /* Mobile nav dropdown */
+    #navLinks.mobile-open {
+      display: flex !important;
+      flex-direction: column;
+      position: fixed;
+      top: var(--nav-h);
+      left: 0; right: 0;
+      background: var(--white);
+      padding: 8px 0 16px;
+      border-bottom: 1px solid var(--gray-light);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+      z-index: 999;
+      gap: 0;
+    }
+    #navLinks.mobile-open li a {
+      display: block;
+      padding: 13px 24px;
+      font-size: 0.88rem;
+      border-bottom: 1px solid var(--gray-light);
+    }
+    #navLinks.mobile-open li:last-child a { border-bottom: none; }
+    .nav-mobile-toggle.active span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .nav-mobile-toggle.active span:nth-child(2) { opacity: 0; }
+    .nav-mobile-toggle.active span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+    @media (max-width: 900px) {
+      #navbar.scrolled { height: var(--nav-h-compact); }
+      #navLinks.mobile-open { top: var(--nav-h-compact); }
     }
   </style>
 </head>
@@ -1732,13 +1798,13 @@
         <div class="logo-tagline">Decoración</div>
       </a>
       <ul class="nav-links" id="navLinks">
-        <li><a href="#sala" data-section="sala">Sala</a></li>
-        <li><a href="#dormitorio" data-section="dormitorio">Dormitorio</a></li>
-        <li><a href="#cocina" data-section="cocina">Cocina</a></li>
-        <li><a href="#bano" data-section="bano">Baño</a></li>
-        <li><a href="#jardin" data-section="jardin">Jardín</a></li>
-        <li><a href="#iluminacion" data-section="iluminacion">Iluminación</a></li>
-        <li><a href="#arte" data-section="arte">Arte</a></li>
+        <li><a href="#sala" data-section="sala" onclick="closeMobileNav()">Sala</a></li>
+        <li><a href="#dormitorio" data-section="dormitorio" onclick="closeMobileNav()">Dormitorio</a></li>
+        <li><a href="#cocina" data-section="cocina" onclick="closeMobileNav()">Cocina</a></li>
+        <li><a href="#bano" data-section="bano" onclick="closeMobileNav()">Baño</a></li>
+        <li><a href="#jardin" data-section="jardin" onclick="closeMobileNav()">Jardín</a></li>
+        <li><a href="#iluminacion" data-section="iluminacion" onclick="closeMobileNav()">Iluminación</a></li>
+        <li><a href="#arte" data-section="arte" onclick="closeMobileNav()">Arte</a></li>
       </ul>
       <button class="nav-search-btn" onclick="openSearch()" aria-label="Buscar producto" title="Buscar">
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6">
@@ -2913,16 +2979,18 @@
 
     function toggleMobileNav() {
       const links = document.getElementById('navLinks');
-      links.style.display = links.style.display === 'flex' ? 'none' : 'flex';
-      links.style.flexDirection = 'column';
-      links.style.position = 'absolute';
-      links.style.top = 'var(--nav-h)';
-      links.style.left = '0';
-      links.style.right = '0';
-      links.style.background = 'var(--white)';
-      links.style.padding = '16px 32px';
-      links.style.borderBottom = '1px solid var(--gray-light)';
-      links.style.zIndex = '999';
+      const btn = document.querySelector('.nav-mobile-toggle');
+      const isOpen = links.classList.toggle('mobile-open');
+      btn.classList.toggle('active', isOpen);
+      document.body.style.overflow = isOpen ? 'hidden' : '';
+    }
+
+    function closeMobileNav() {
+      const links = document.getElementById('navLinks');
+      const btn = document.querySelector('.nav-mobile-toggle');
+      links.classList.remove('mobile-open');
+      btn.classList.remove('active');
+      document.body.style.overflow = '';
     }
 
     /* ===========================
@@ -3044,7 +3112,7 @@
             observer.unobserve(entry.target);
           }
         });
-      }, { threshold: 0.08 });
+      }, { threshold: 0, rootMargin: '0px 0px -5% 0px' });
       sections.forEach(el => observer.observe(el));
     }
 
@@ -3196,9 +3264,17 @@
     }
 
     function saveProductsToStorage() {
-      localStorage.setItem('ltd_products', JSON.stringify(PRODUCTS));
-      localStorage.setItem('ltd_images',   JSON.stringify(PRODUCT_IMAGES));
-      localStorage.setItem('ltd_gallery',  JSON.stringify(PRODUCT_GALLERY));
+      try {
+        localStorage.setItem('ltd_products', JSON.stringify(PRODUCTS));
+        localStorage.setItem('ltd_images',   JSON.stringify(PRODUCT_IMAGES));
+        try {
+          localStorage.setItem('ltd_gallery', JSON.stringify(PRODUCT_GALLERY));
+        } catch(e) {
+          showToast('⚠ Espacio lleno: las fotos no se guardaron. Eliminá algunas fotos antiguas.');
+        }
+      } catch(e) {
+        showToast('⚠ Error al guardar. Liberá espacio borrando fotos del panel.');
+      }
     }
 
     function adminGenerateId(category) {
@@ -3498,12 +3574,23 @@
         </div>`).join('');
     }
 
+    const MAX_GALLERY_PHOTOS = 8;
+
     function handleGalleryUpload(evt) {
       const files = [...evt.target.files];
-      let pending = files.length;
+      evt.target.value = '';
+      const slots = MAX_GALLERY_PHOTOS - _adminGalBase64.length;
+      if (slots <= 0) {
+        showToast(`⚠ Límite de ${MAX_GALLERY_PHOTOS} fotos alcanzado. Eliminá alguna primero.`);
+        return;
+      }
+      const toLoad = files.slice(0, slots);
+      if (files.length > slots) showToast(`Solo se agregarán ${slots} foto${slots>1?'s':''} (límite de ${MAX_GALLERY_PHOTOS})`);
+      let pending = toLoad.length;
+      if (pending === 0) return;
       const newImgs = [];
-      files.forEach((file, fi) => {
-        if (file.size > 5 * 1024 * 1024) { showToast('⚠ Una imagen supera los 5MB y fue omitida'); pending--; return; }
+      toLoad.forEach((file, fi) => {
+        if (file.size > 5 * 1024 * 1024) { showToast('⚠ Una imagen supera los 5MB y fue omitida'); pending--; if (pending === 0) syncGalleryUI(_adminGalBase64); return; }
         const reader = new FileReader();
         reader.onload = e => {
           newImgs[fi] = e.target.result;
@@ -3515,7 +3602,6 @@
         };
         reader.readAsDataURL(file);
       });
-      evt.target.value = '';
     }
 
     function removeGalleryPhoto(idx) {
