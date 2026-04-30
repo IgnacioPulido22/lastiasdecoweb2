@@ -327,8 +327,10 @@
       "description": "Set 2 candelabros aluminio dorado, 26 y 37 cm",
       "price": 60000,
       "badge": "Destacado",
-      "color": "#E8DDD0",
-      "icon": "🕯️"
+      "color": "#e8ddd0",
+      "icon": "🕯️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CANDELABRO%20GOLD.jpg"
     },
     {
       "id": "sala-031",
@@ -3053,6 +3055,7 @@
     "sala-106": "default",
     "coc-022": "default",
     "coc-023": "default",
-    "sala-031": "default"
+    "sala-031": "default",
+    "sala-030": "default"
   }
 }
