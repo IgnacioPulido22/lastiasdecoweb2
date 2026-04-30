@@ -386,8 +386,10 @@
       "description": "Candelabro portavela blanco y plata, 30 cm",
       "price": 32000,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🕯️"
+      "color": "#e8ddd0",
+      "icon": "🕯️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CANDELABRO%20BLANCO%20Y%20PLATA%202.jpg"
     },
     {
       "id": "sala-036",
@@ -3056,6 +3058,7 @@
     "coc-022": "default",
     "coc-023": "default",
     "sala-031": "default",
-    "sala-030": "default"
+    "sala-030": "default",
+    "sala-035": "default"
   }
 }
