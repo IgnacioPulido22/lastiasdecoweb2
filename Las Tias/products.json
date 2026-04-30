@@ -1825,8 +1825,9 @@
       "description": "Jarra térmica blanca, 24x13 cm",
       "price": 30000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "☕"
+      "color": "#e8e4dc",
+      "icon": "☕",
+      "price_old": null
     },
     {
       "id": "coc-045",
@@ -3102,6 +3103,7 @@
     "coc-035": "default",
     "sala-079": "default",
     "coc-049": "default",
-    "coc-048": "default"
+    "coc-048": "default",
+    "coc-044": "default"
   }
 }
