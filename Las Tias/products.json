@@ -884,8 +884,9 @@
       "description": "Jarrón dorado con hojitas, 26x11 cm",
       "price": 45000,
       "badge": "Destacado",
-      "color": "#DDD0BF",
-      "icon": "🌸"
+      "color": "#ddd0bf",
+      "icon": "🌸",
+      "price_old": null
     },
     {
       "id": "sala-080",
@@ -2825,6 +2826,7 @@
     "sala-022": "Lámpara de mesa con base de mármol Carrara natural y pantalla de lino crudo. Cable textil dorado. Incluye bombilla LED E27 cálida. Altura total: 52 cm. Interruptor en el cable.",
     "dorm-001": "Almohadón king de pluma y plumón natural con funda de algodón mercerizado 600 hilos. Relleno que se adapta a tu posición de descanso. Lavable en máquina hasta 40°C. Medidas: 90×70 cm.",
     "dorm-002": "Espejo de tocador con marco ovalado de madera tallada con acabado dorado art-déco. Doble cara: normal y aumento ×5. Sistema giratorio 360°. Alto 65 cm, ancho 25 cm. Con base de mármol.",
+    "dorm-003": "Velador con pantalla de seda cruda color marfil y base de mármol negro natural. Cable textil negro. Incluye bombilla LED E14 cálida 4W. Altura 42 cm. Interruptor en el cable. Elegancia máxima.",
     "dorm-004": "Perfumero de cristal facetado con tapón dorado macizo. Fragancia \"Noche de Viena\": ámbar, sándalo y vainilla. 50 ml de Eau de Parfum concentrado. Presentado en estuche de regalo con lazo dorado.",
     "dorm-005": "Set de 5 organizadores de acrílico transparente con bases doradas para tocador. Incluye: porta-joyería, porta-perfumes, bandeja, vasos y cajita con tapa. Fácil de limpiar. Diseño modular.",
     "dorm-006": "Cubrecama de lino lavado 100% natural, king size (260×240 cm). Color arena envejecida natural. Textura rústica y suave al tacto. Lavable en máquina fría. Con fundas de almohada incluidas.",
@@ -2960,6 +2962,7 @@
     "sala-022": "table_lamp",
     "dorm-001": "pillow_large",
     "dorm-002": "mirror_oval",
+    "dorm-003": "table_lamp",
     "dorm-004": "perfume",
     "dorm-005": "tray",
     "dorm-006": "blanket",
@@ -3092,6 +3095,7 @@
     "coc-034": "default",
     "coc-032": "default",
     "coc-033": "default",
-    "coc-035": "default"
+    "coc-035": "default",
+    "sala-079": "default"
   }
 }
