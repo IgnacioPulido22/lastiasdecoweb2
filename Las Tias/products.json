@@ -2570,8 +2570,9 @@
       "description": "Figura buda plata con rombito, 19 cm",
       "price": 30000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🙏"
+      "color": "#e8e4dc",
+      "icon": "🙏",
+      "price_old": null
     },
     {
       "id": "arte-002",
