@@ -2188,8 +2188,10 @@
       "description": "Burlete para puerta o ventana",
       "price": 12000,
       "badge": null,
-      "color": "#DAE8D6",
-      "icon": "🚪"
+      "color": "#dae8d6",
+      "icon": "🚪",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BURLETES.jpg"
     },
     {
       "id": "jard-004",
