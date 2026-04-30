@@ -380,8 +380,9 @@
       "description": "Candelabro dorado con caireles, 31x10 cm",
       "price": 71000,
       "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🕯️"
+      "color": "#ddd0bf",
+      "icon": "🕯️",
+      "price_old": null
     },
     {
       "id": "sala-035",
@@ -3143,6 +3144,7 @@
     "sala-070": "default",
     "sala-065": "default",
     "sala-050": "default",
-    "sala-028": "default"
+    "sala-028": "default",
+    "sala-034": "default"
   }
 }
