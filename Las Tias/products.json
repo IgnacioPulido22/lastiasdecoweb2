@@ -1625,8 +1625,10 @@
       "description": "Coctelera acero inoxidable, 25x9 cm",
       "price": 38000,
       "badge": null,
-      "color": "#EDE8E0",
-      "icon": "🍹"
+      "color": "#ede8e0",
+      "icon": "🍹",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/COCTELERA%20PLATA.jpg"
     },
     {
       "id": "coc-028",
@@ -3068,6 +3070,7 @@
     "sala-032": "default",
     "sala-037": "default",
     "sala-039": "default",
-    "sala-049": "default"
+    "sala-049": "default",
+    "coc-027": "default"
   }
 }
