@@ -785,8 +785,9 @@
       "description": "Jarrón caramel, 29x14 cm",
       "price": 29000,
       "badge": null,
-      "color": "#E5D9C8",
-      "icon": "🌸"
+      "color": "#e5d9c8",
+      "icon": "🌸",
+      "price_old": null
     },
     {
       "id": "sala-071",
@@ -3135,6 +3136,7 @@
     "sala-099": "default",
     "sala-100": "default",
     "sala-076": "default",
-    "sala-075": "default"
+    "sala-075": "default",
+    "sala-070": "default"
   }
 }
