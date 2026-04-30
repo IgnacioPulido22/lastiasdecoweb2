@@ -1320,7 +1320,8 @@
       "badge": null,
       "color": "#e8e4dc",
       "icon": "⚖️",
-      "price_old": null
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BALANZA%20COCINA%20CUADRADA.jpg"
     },
     {
       "id": "coc-003",
