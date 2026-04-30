@@ -1638,8 +1638,10 @@
       "description": "Coctelera con base negra, 26x9 cm",
       "price": 38000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🍹"
+      "color": "#e8e4dc",
+      "icon": "🍹",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/COCTELERA%20PLATA%20Y%20NEGRO.jpg"
     },
     {
       "id": "coc-029",
@@ -3071,6 +3073,7 @@
     "sala-037": "default",
     "sala-039": "default",
     "sala-049": "default",
-    "coc-027": "default"
+    "coc-027": "default",
+    "coc-028": "default"
   }
 }
