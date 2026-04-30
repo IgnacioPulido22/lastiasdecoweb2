@@ -730,8 +730,9 @@
       "description": "Jarrón caramel labrado, 22x15 cm",
       "price": 30000,
       "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🌸"
+      "color": "#ddd0bf",
+      "icon": "🌸",
+      "price_old": null
     },
     {
       "id": "sala-066",
@@ -3137,6 +3138,7 @@
     "sala-100": "default",
     "sala-076": "default",
     "sala-075": "default",
-    "sala-070": "default"
+    "sala-070": "default",
+    "sala-065": "default"
   }
 }
