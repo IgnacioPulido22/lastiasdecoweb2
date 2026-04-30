@@ -364,8 +364,10 @@
       "description": "Candelabro dorado con caireles, 35x10 cm",
       "price": 69000,
       "badge": "Destacado",
-      "color": "#E5D9C8",
-      "icon": "🕯️"
+      "color": "#e5d9c8",
+      "icon": "🕯️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CANDELABRO%20DORADO.jpg"
     },
     {
       "id": "sala-034",
@@ -3059,6 +3061,7 @@
     "coc-023": "default",
     "sala-031": "default",
     "sala-030": "default",
-    "sala-035": "default"
+    "sala-035": "default",
+    "sala-033": "default"
   }
 }
