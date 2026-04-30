@@ -353,8 +353,10 @@
       "description": "Set 2 candelabros blanco, 10x7 cm",
       "price": 9800,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🕯️"
+      "color": "#e8ddd0",
+      "icon": "🕯️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CANDELABROS%20BLANCOS%20X2.jpg"
     },
     {
       "id": "sala-033",
@@ -3065,6 +3067,7 @@
     "sala-030": "default",
     "sala-035": "default",
     "sala-033": "default",
-    "sala-036": "default"
+    "sala-036": "default",
+    "sala-032": "default"
   }
 }
