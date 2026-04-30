@@ -552,8 +552,10 @@
       "description": "Set 3 cestas con tapa, 41-34-31 cm",
       "price": 152000,
       "badge": null,
-      "color": "#E5D9C8",
-      "icon": "🧺"
+      "color": "#e5d9c8",
+      "icon": "🧺",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CESTA%20YUTE%20CON%20TAPA.jpg"
     },
     {
       "id": "sala-050",
@@ -3065,6 +3067,7 @@
     "sala-036": "default",
     "sala-032": "default",
     "sala-037": "default",
-    "sala-039": "default"
+    "sala-039": "default",
+    "sala-049": "default"
   }
 }
