@@ -1570,8 +1570,10 @@
       "description": "Bandeja pluma dorada, 25 cm",
       "price": 30000,
       "badge": null,
-      "color": "#EDE8E0",
-      "icon": "🍽️"
+      "color": "#ede8e0",
+      "icon": "🍽️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20PLUMA%20DORADA.jpg"
     },
     {
       "id": "coc-024",
@@ -3047,6 +3049,7 @@
     "coc-051": "default",
     "coc-052": "default",
     "sala-106": "default",
-    "coc-022": "default"
+    "coc-022": "default",
+    "coc-023": "default"
   }
 }
