@@ -840,8 +840,9 @@
       "description": "Jarrón cilíndrico labrado alto, 29x11 cm",
       "price": 30000,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🌸"
+      "color": "#e8ddd0",
+      "icon": "🌸",
+      "price_old": null
     },
     {
       "id": "sala-076",
@@ -3133,6 +3134,7 @@
     "sala-103": "default",
     "sala-099": "default",
     "sala-100": "default",
-    "sala-076": "default"
+    "sala-076": "default",
+    "sala-075": "default"
   }
 }
