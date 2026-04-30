@@ -1392,8 +1392,10 @@
       "description": "Bandeja plateada redonda, 33 cm diám.",
       "price": 14000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🍽️"
+      "color": "#e8e4dc",
+      "icon": "🍽️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20PLATO%20PLATEADO.jpg"
     },
     {
       "id": "coc-009",
