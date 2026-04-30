@@ -305,8 +305,9 @@
       "description": "Botella decorativa vidrio 1 litro, 27 cm",
       "price": 11000,
       "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🫙"
+      "color": "#ddd0bf",
+      "icon": "🫙",
+      "price_old": null
     },
     {
       "id": "sala-029",
@@ -3141,6 +3142,7 @@
     "sala-075": "default",
     "sala-070": "default",
     "sala-065": "default",
-    "sala-050": "default"
+    "sala-050": "default",
+    "sala-028": "default"
   }
 }
