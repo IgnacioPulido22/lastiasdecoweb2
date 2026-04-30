@@ -338,8 +338,10 @@
       "description": "Set 2 candelabros negro, 10x7 cm",
       "price": 9800,
       "badge": null,
-      "color": "#DDD5C8",
-      "icon": "🕯️"
+      "color": "#ddd5c8",
+      "icon": "🕯️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CANDELABRO%20BLACK.jpg"
     },
     {
       "id": "sala-032",
@@ -3050,6 +3052,7 @@
     "coc-052": "default",
     "sala-106": "default",
     "coc-022": "default",
-    "coc-023": "default"
+    "coc-023": "default",
+    "sala-031": "default"
   }
 }
