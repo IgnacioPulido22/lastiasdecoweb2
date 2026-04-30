@@ -1814,8 +1814,9 @@
       "description": "Jarra térmica negra, 24x13 cm",
       "price": 30000,
       "badge": null,
-      "color": "#EDE8E0",
-      "icon": "☕"
+      "color": "#ede8e0",
+      "icon": "☕",
+      "price_old": null
     },
     {
       "id": "coc-044",
@@ -2803,6 +2804,18 @@
       "badge": null,
       "color": "#E8E4DC",
       "icon": "🔮"
+    },
+    {
+      "id": "coc-058",
+      "name": "Jarra Térmica Negra",
+      "category": "Cocina & Comedor",
+      "sectionId": "cocina",
+      "description": "Jarra térmica negra, 24x13 cm",
+      "price": 30000,
+      "price_old": null,
+      "badge": null,
+      "color": "#ede8e0",
+      "icon": "✨"
     }
   ],
   "gallery": {},
@@ -3104,6 +3117,8 @@
     "sala-079": "default",
     "coc-049": "default",
     "coc-048": "default",
-    "coc-044": "default"
+    "coc-044": "default",
+    "coc-043": "default",
+    "coc-058": "default"
   }
 }
