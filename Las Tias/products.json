@@ -2613,8 +2613,10 @@
       "description": "Set 5 cuadros ciudades, 28x20 y 40x28 cm",
       "price": 50000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🎨"
+      "color": "#e8e4dc",
+      "icon": "🎨",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CUADROS%20PARIS.jpg"
     },
     {
       "id": "arte-006",
