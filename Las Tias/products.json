@@ -1869,8 +1869,9 @@
       "description": "Pava eléctrica",
       "price": 40000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "☕"
+      "color": "#e8e4dc",
+      "icon": "☕",
+      "price_old": null
     },
     {
       "id": "coc-049",
@@ -3100,6 +3101,7 @@
     "coc-033": "default",
     "coc-035": "default",
     "sala-079": "default",
-    "coc-049": "default"
+    "coc-049": "default",
+    "coc-048": "default"
   }
 }
