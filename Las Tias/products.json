@@ -2581,8 +2581,9 @@
       "description": "Figura buda plata con strass, 20 cm",
       "price": 32000,
       "badge": null,
-      "color": "#EDE9E1",
-      "icon": "🙏"
+      "color": "#ede9e1",
+      "icon": "🙏",
+      "price_old": null
     },
     {
       "id": "arte-003",
