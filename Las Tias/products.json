@@ -1412,8 +1412,10 @@
       "description": "Bandeja chica forma hoja, 16x29 cm",
       "price": 21000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🍽️"
+      "color": "#e8e4dc",
+      "icon": "🍽️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20OVALADA%20BLACA%20Y%20ORO.jpg"
     },
     {
       "id": "coc-011",
