@@ -1149,8 +1149,9 @@
       "description": "Puff redondo con hilos natural, 40x60 cm",
       "price": 85000,
       "badge": "Destacado",
-      "color": "#DDD0BF",
-      "icon": "🛋️"
+      "color": "#ddd0bf",
+      "icon": "🛋️",
+      "price_old": null
     },
     {
       "id": "sala-104",
@@ -3125,6 +3126,7 @@
     "coc-058": "default",
     "coc-042": "default",
     "coc-026": "default",
-    "coc-025": "default"
+    "coc-025": "default",
+    "sala-103": "default"
   }
 }
