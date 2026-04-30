@@ -416,8 +416,10 @@
       "description": "Candelabro decorativo con strass, 14x9 cm",
       "price": 29000,
       "badge": null,
-      "color": "#E5D9C8",
-      "icon": "🕯️"
+      "color": "#e5d9c8",
+      "icon": "🕯️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CANDELABROS%20STRASS.jpg"
     },
     {
       "id": "sala-038",
@@ -3068,6 +3070,7 @@
     "sala-035": "default",
     "sala-033": "default",
     "sala-036": "default",
-    "sala-032": "default"
+    "sala-032": "default",
+    "sala-037": "default"
   }
 }
