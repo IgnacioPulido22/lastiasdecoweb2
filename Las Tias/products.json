@@ -1684,8 +1684,10 @@
       "description": "Set 6 copas doradas lisas, 21x6 cm",
       "price": 40000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🥂"
+      "color": "#e8e4dc",
+      "icon": "🥂",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/COPAS%20CARAMEL.jpg"
     },
     {
       "id": "coc-033",
@@ -3077,6 +3079,7 @@
     "sala-049": "default",
     "coc-027": "default",
     "coc-028": "default",
-    "coc-034": "default"
+    "coc-034": "default",
+    "coc-032": "default"
   }
 }
