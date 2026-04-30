@@ -1244,8 +1244,10 @@
       "description": "Caja joyero rectangular, 21x13x9 cm",
       "price": 50000,
       "badge": null,
-      "color": "#DDD8D2",
-      "icon": "💍"
+      "color": "#ddd8d2",
+      "icon": "💍",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CAJA%20JOYERO%20RECTANGULAR.jpg"
     },
     {
       "id": "dorm-005",
