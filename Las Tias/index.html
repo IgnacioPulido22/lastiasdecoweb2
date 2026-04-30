@@ -2082,6 +2082,11 @@
         </div>
       </header>
 
+      <!-- LOCAL IMAGES WARNING -->
+      <div id="local-img-warning" style="display:none;padding:10px 32px;background:#fff8e1;border-bottom:1px solid #ffe082;font-size:0.82rem;color:#6d4c00;">
+        ⚠ <strong id="local-img-count"></strong> — editá cada producto y subí la foto de nuevo para que se vea en todos los dispositivos.
+      </div>
+
       <!-- SYNC BAR -->
       <div class="admin-sync-bar">
         <span class="admin-sync-label">🔄 Sincronización</span>
@@ -2223,7 +2228,7 @@
               placeholder="/images/nombre-foto.jpg  o  https://res.cloudinary.com/tu-cuenta/..."
               oninput="handleImgUrlInput(this.value)" autocomplete="off" />
             <p class="admin-url-hint">Usá la carpeta <strong>images/</strong> del proyecto (gratis, sin límite) o Cloudinary.</p>
-            <div class="admin-or-divider">— o subí desde el dispositivo (máx. 5MB) —</div>
+            <div class="admin-or-divider">— o subí desde el dispositivo (se sube a GitHub, visible en todos los dispositivos) —</div>
             <div class="admin-img-upload-zone" id="af-img-zone" onclick="document.getElementById('af-img-file').click()">
               <input type="file" id="af-img-file" accept="image/*" style="display:none" onchange="handleMainImageUpload(event)" />
               <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="var(--gray)" stroke-width="1.4" id="af-img-icon"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
@@ -2239,7 +2244,7 @@
             <textarea id="af-gal-urls" class="admin-gal-urls"
               placeholder="Pegá URLs, una por línea:&#10;/images/detalle-1.jpg&#10;/images/detalle-2.jpg&#10;https://res.cloudinary.com/..."></textarea>
             <p class="admin-url-hint">Pegá las URLs de las fotos de detalle, una por línea. Sin límite de cantidad.</p>
-            <div class="admin-or-divider">— o subí desde el dispositivo (máx. 8 fotos) —</div>
+            <div class="admin-or-divider">— o subí desde el dispositivo (se sube a GitHub, visible en todos los dispositivos) —</div>
             <div class="admin-img-upload-zone" id="af-gal-zone" onclick="document.getElementById('af-gal-file').click()">
               <input type="file" id="af-gal-file" accept="image/*" multiple style="display:none" onchange="handleGalleryUpload(event)" />
               <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--gray)" stroke-width="1.4"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg>
@@ -3452,6 +3457,19 @@
       document.getElementById('admin-dashboard').style.display = 'flex';
       populateSVGSelect();
       renderAdminTable();
+      checkLocalImagesWarning();
+    }
+
+    function checkLocalImagesWarning() {
+      const localIds = Object.keys(PRODUCT_IMAGES).filter(id => PRODUCT_IMAGES[id]?.startsWith('data:'));
+      const warn = document.getElementById('local-img-warning');
+      const count = document.getElementById('local-img-count');
+      if (localIds.length > 0) {
+        count.textContent = `${localIds.length} foto${localIds.length > 1 ? 's guardadas' : ' guardada'} solo en este dispositivo`;
+        warn.style.display = 'block';
+      } else {
+        warn.style.display = 'none';
+      }
     }
 
     /* ===========================
@@ -3690,18 +3708,31 @@
       }
     }
 
-    function handleMainImageUpload(evt) {
+    async function handleMainImageUpload(evt) {
       const file = evt.target.files[0];
-      if (!file) return;
-      if (file.size > 5 * 1024 * 1024) { showToast('⚠ La imagen supera los 5MB'); return; }
-      const reader = new FileReader();
-      reader.onload = e => {
-        _adminImgBase64 = e.target.result;
-        document.getElementById('af-img-url').value = '';
-        syncMainImgUI(_adminImgBase64);
-      };
-      reader.readAsDataURL(file);
       evt.target.value = '';
+      if (!file) return;
+      if (file.size > 15 * 1024 * 1024) { showToast('⚠ La imagen supera los 15MB'); return; }
+      if (!getGHToken()) { showToast('⚠ Configurá el Token de GitHub para subir fotos'); return; }
+      const hint = document.getElementById('af-img-hint');
+      const zone = document.getElementById('af-img-zone');
+      const prev = hint.textContent;
+      hint.textContent = '⏳ Subiendo a GitHub…';
+      zone.style.opacity = '0.6';
+      zone.style.pointerEvents = 'none';
+      try {
+        const url = await uploadImageToGitHub(file);
+        document.getElementById('af-img-url').value = url;
+        _adminImgBase64 = null;
+        syncMainImgUI(url);
+        showToast('✓ Imagen subida — visible en todos los dispositivos');
+      } catch(e) {
+        showToast(`✗ Error al subir imagen: ${e.message}`);
+      } finally {
+        hint.textContent = prev;
+        zone.style.opacity = '';
+        zone.style.pointerEvents = '';
+      }
     }
 
     function removeMainImage() {
@@ -3721,7 +3752,7 @@
 
     const MAX_GALLERY_PHOTOS = 8;
 
-    function handleGalleryUpload(evt) {
+    async function handleGalleryUpload(evt) {
       const files = [...evt.target.files];
       evt.target.value = '';
       const slots = MAX_GALLERY_PHOTOS - _adminGalBase64.length;
@@ -3729,24 +3760,30 @@
         showToast(`⚠ Límite de ${MAX_GALLERY_PHOTOS} fotos alcanzado. Eliminá alguna primero.`);
         return;
       }
+      if (!getGHToken()) { showToast('⚠ Configurá el Token de GitHub para subir fotos'); return; }
       const toLoad = files.slice(0, slots);
       if (files.length > slots) showToast(`Solo se agregarán ${slots} foto${slots>1?'s':''} (límite de ${MAX_GALLERY_PHOTOS})`);
-      let pending = toLoad.length;
-      if (pending === 0) return;
-      const newImgs = [];
-      toLoad.forEach((file, fi) => {
-        if (file.size > 5 * 1024 * 1024) { showToast('⚠ Una imagen supera los 5MB y fue omitida'); pending--; if (pending === 0) syncGalleryUI(_adminGalBase64); return; }
-        const reader = new FileReader();
-        reader.onload = e => {
-          newImgs[fi] = e.target.result;
-          pending--;
-          if (pending === 0) {
-            newImgs.forEach(s => { if (s) _adminGalBase64.push(s); });
-            syncGalleryUI(_adminGalBase64);
-          }
-        };
-        reader.readAsDataURL(file);
-      });
+      if (toLoad.length === 0) return;
+      const zone = document.getElementById('af-gal-zone');
+      zone.style.opacity = '0.6';
+      zone.style.pointerEvents = 'none';
+      let ok = 0;
+      const errs = [];
+      await Promise.all(toLoad.map(async file => {
+        if (file.size > 15 * 1024 * 1024) { errs.push(file.name); return; }
+        try {
+          const url = await uploadImageToGitHub(file);
+          _adminGalBase64.push(url);
+          ok++;
+        } catch(e) {
+          errs.push(file.name);
+        }
+      }));
+      zone.style.opacity = '';
+      zone.style.pointerEvents = '';
+      syncGalleryUI(_adminGalBase64);
+      if (ok > 0) showToast(`✓ ${ok} foto${ok>1?'s':''} subida${ok>1?'s':''} a GitHub`);
+      if (errs.length > 0) showToast(`✗ Error al subir: ${errs.join(', ')}`);
     }
 
     function removeGalleryPhoto(idx) {
@@ -3839,6 +3876,42 @@
     window.addEventListener('hashchange', () => {
       if (window.location.hash === '#admin') openAdmin();
     });
+
+    /* ===========================
+       GITHUB IMAGE UPLOAD
+    =========================== */
+    async function uploadImageToGitHub(file) {
+      const token = getGHToken();
+      if (!token) throw new Error('Token no configurado');
+      const ext  = (file.name.split('.').pop() || 'jpg').toLowerCase();
+      const base = file.name.replace(/\.[^/.]+$/, '').replace(/[^\wÀ-ɏ .\-]/g, '').trim().replace(/\s+/g, ' ');
+      const filename = `${base}.${ext}`;
+      const ghPath   = `Las Tias/images/${filename}`;
+      const apiUrl   = `https://api.github.com/repos/${GH_REPO}/contents/${encodeURIComponent(ghPath)}`;
+      const headers  = { Authorization: `token ${token}`, Accept: 'application/vnd.github.v3+json', 'Content-Type': 'application/json' };
+
+      const b64 = await new Promise((resolve, reject) => {
+        const r = new FileReader();
+        r.onload  = e => resolve(e.target.result.split(',')[1]);
+        r.onerror = reject;
+        r.readAsDataURL(file);
+      });
+
+      let sha;
+      const check = await fetch(apiUrl, { headers });
+      if (check.ok) sha = (await check.json()).sha;
+
+      const body = { message: `Subir imagen — ${filename}`, content: b64 };
+      if (sha) body.sha = sha;
+
+      const resp = await fetch(apiUrl, { method: 'PUT', headers, body: JSON.stringify(body) });
+      if (!resp.ok) {
+        const err = await resp.json().catch(() => ({}));
+        throw new Error(err.message || resp.status);
+      }
+      const result = await resp.json();
+      return result.content.download_url;
+    }
 
     /* ===========================
        GITHUB SYNC
