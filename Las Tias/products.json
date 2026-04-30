@@ -1803,8 +1803,9 @@
       "description": "Jarra vidrio medidora, 14x9 cm",
       "price": 11000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🫙"
+      "color": "#e8e4dc",
+      "icon": "🫙",
+      "price_old": null
     },
     {
       "id": "coc-043",
@@ -3119,6 +3120,7 @@
     "coc-048": "default",
     "coc-044": "default",
     "coc-043": "default",
-    "coc-058": "default"
+    "coc-058": "default",
+    "coc-042": "default"
   }
 }
