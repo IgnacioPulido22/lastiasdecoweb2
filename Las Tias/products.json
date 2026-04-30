@@ -1706,8 +1706,10 @@
       "description": "Set 6 copas doradas labradas, 20x6 cm",
       "price": 40000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🥂"
+      "color": "#e8e4dc",
+      "icon": "🥂",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/COPAS%20CARAMEL%203.jpg"
     },
     {
       "id": "coc-035",
@@ -3074,6 +3076,7 @@
     "sala-039": "default",
     "sala-049": "default",
     "coc-027": "default",
-    "coc-028": "default"
+    "coc-028": "default",
+    "coc-034": "default"
   }
 }
