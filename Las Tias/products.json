@@ -851,8 +851,9 @@
       "description": "Jarrón cilíndrico liso alto, 40x10 cm",
       "price": 28000,
       "badge": null,
-      "color": "#DDD5C8",
-      "icon": "🌸"
+      "color": "#ddd5c8",
+      "icon": "🌸",
+      "price_old": null
     },
     {
       "id": "sala-077",
@@ -3131,6 +3132,7 @@
     "coc-025": "default",
     "sala-103": "default",
     "sala-099": "default",
-    "sala-100": "default"
+    "sala-100": "default",
+    "sala-076": "default"
   }
 }
