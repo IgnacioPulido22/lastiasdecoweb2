@@ -1615,8 +1615,9 @@
       "description": "Cafetera émbolo bambú, 1/2 litro",
       "price": 20000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "☕"
+      "color": "#e8e4dc",
+      "icon": "☕",
+      "price_old": null
     },
     {
       "id": "coc-027",
@@ -3121,6 +3122,7 @@
     "coc-044": "default",
     "coc-043": "default",
     "coc-058": "default",
-    "coc-042": "default"
+    "coc-042": "default",
+    "coc-026": "default"
   }
 }
