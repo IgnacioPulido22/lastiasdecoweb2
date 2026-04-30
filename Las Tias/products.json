@@ -1379,8 +1379,10 @@
       "description": "Bandeja dorada redonda, 33 cm diám.",
       "price": 14000,
       "badge": null,
-      "color": "#EDE8E0",
-      "icon": "🍽️"
+      "color": "#ede8e0",
+      "icon": "🍽️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20PLATO%20DORADO.jpg"
     },
     {
       "id": "coc-008",
