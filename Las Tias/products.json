@@ -1436,7 +1436,8 @@
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🍽️",
-      "price_old": null
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20CIRCULAR%20CON%20ESPEJO%202.jpg"
     },
     {
       "id": "coc-013",
