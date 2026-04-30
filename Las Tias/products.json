@@ -305,9 +305,8 @@
       "description": "Botella decorativa vidrio 1 litro, 27 cm",
       "price": 11000,
       "badge": null,
-      "color": "#ddd0bf",
-      "icon": "🫙",
-      "price_old": null
+      "color": "#DDD0BF",
+      "icon": "🫙"
     },
     {
       "id": "sala-029",
@@ -380,9 +379,8 @@
       "description": "Candelabro dorado con caireles, 31x10 cm",
       "price": 71000,
       "badge": null,
-      "color": "#ddd0bf",
-      "icon": "🕯️",
-      "price_old": null
+      "color": "#DDD0BF",
+      "icon": "🕯️"
     },
     {
       "id": "sala-035",
@@ -431,9 +429,8 @@
       "description": "Candelabro alto base fumé, 32x11 cm",
       "price": 29000,
       "badge": null,
-      "color": "#ddd0bf",
-      "icon": "🕯️",
-      "price_old": null
+      "color": "#DDD0BF",
+      "icon": "🕯️"
     },
     {
       "id": "sala-039",
@@ -568,9 +565,8 @@
       "description": "Espejo circular con marco negro PVC, 50 cm",
       "price": 32000,
       "badge": null,
-      "color": "#e8ddd0",
-      "icon": "🪞",
-      "price_old": null
+      "color": "#E8DDD0",
+      "icon": "🪞"
     },
     {
       "id": "sala-051",
@@ -734,9 +730,8 @@
       "description": "Jarrón caramel labrado, 22x15 cm",
       "price": 30000,
       "badge": null,
-      "color": "#ddd0bf",
-      "icon": "🌸",
-      "price_old": null
+      "color": "#DDD0BF",
+      "icon": "🌸"
     },
     {
       "id": "sala-066",
@@ -790,9 +785,8 @@
       "description": "Jarrón caramel, 29x14 cm",
       "price": 29000,
       "badge": null,
-      "color": "#e5d9c8",
-      "icon": "🌸",
-      "price_old": null
+      "color": "#E5D9C8",
+      "icon": "🌸"
     },
     {
       "id": "sala-071",
@@ -846,9 +840,8 @@
       "description": "Jarrón cilíndrico labrado alto, 29x11 cm",
       "price": 30000,
       "badge": null,
-      "color": "#e8ddd0",
-      "icon": "🌸",
-      "price_old": null
+      "color": "#E8DDD0",
+      "icon": "🌸"
     },
     {
       "id": "sala-076",
@@ -858,9 +851,8 @@
       "description": "Jarrón cilíndrico liso alto, 40x10 cm",
       "price": 28000,
       "badge": null,
-      "color": "#ddd5c8",
-      "icon": "🌸",
-      "price_old": null
+      "color": "#DDD5C8",
+      "icon": "🌸"
     },
     {
       "id": "sala-077",
@@ -1113,9 +1105,8 @@
       "description": "Puff cuadrado cuero negro, 36x38 cm",
       "price": 40000,
       "badge": null,
-      "color": "#ddd0bf",
-      "icon": "🛋️",
-      "price_old": null
+      "color": "#DDD0BF",
+      "icon": "🛋️"
     },
     {
       "id": "sala-100",
@@ -1125,9 +1116,8 @@
       "description": "Puff cuadrado tela gris, 36x38 cm",
       "price": 40000,
       "badge": null,
-      "color": "#e5d9c8",
-      "icon": "🛋️",
-      "price_old": null
+      "color": "#E5D9C8",
+      "icon": "🛋️"
     },
     {
       "id": "sala-101",
@@ -1159,9 +1149,8 @@
       "description": "Puff redondo con hilos natural, 40x60 cm",
       "price": 85000,
       "badge": "Destacado",
-      "color": "#ddd0bf",
-      "icon": "🛋️",
-      "price_old": null
+      "color": "#DDD0BF",
+      "icon": "🛋️"
     },
     {
       "id": "sala-104",
@@ -1470,7 +1459,7 @@
     },
     {
       "id": "coc-013",
-      "name": "}Bandeja Rectangular con Espejo",
+      "name": "Bandeja Rectangular con Espejo",
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Bandeja rectangular con espejo, 30x18 cm",
@@ -1615,9 +1604,8 @@
       "description": "Cafetera émbolo negro, 1 litro",
       "price": 41000,
       "badge": null,
-      "color": "#ede8e0",
-      "icon": "☕",
-      "price_old": null
+      "color": "#EDE8E0",
+      "icon": "☕"
     },
     {
       "id": "coc-026",
@@ -1627,9 +1615,8 @@
       "description": "Cafetera émbolo bambú, 1/2 litro",
       "price": 20000,
       "badge": null,
-      "color": "#e8e4dc",
-      "icon": "☕",
-      "price_old": null
+      "color": "#E8E4DC",
+      "icon": "☕"
     },
     {
       "id": "coc-027",
@@ -1816,9 +1803,8 @@
       "description": "Jarra vidrio medidora, 14x9 cm",
       "price": 11000,
       "badge": null,
-      "color": "#e8e4dc",
-      "icon": "🫙",
-      "price_old": null
+      "color": "#E8E4DC",
+      "icon": "🫙"
     },
     {
       "id": "coc-043",
@@ -1828,9 +1814,8 @@
       "description": "Jarra térmica negra, 24x13 cm",
       "price": 30000,
       "badge": null,
-      "color": "#ede8e0",
-      "icon": "☕",
-      "price_old": null
+      "color": "#EDE8E0",
+      "icon": "☕"
     },
     {
       "id": "coc-044",
@@ -1840,9 +1825,8 @@
       "description": "Jarra térmica blanca, 24x13 cm",
       "price": 30000,
       "badge": null,
-      "color": "#e8e4dc",
-      "icon": "☕",
-      "price_old": null
+      "color": "#E8E4DC",
+      "icon": "☕"
     },
     {
       "id": "coc-045",
@@ -1885,9 +1869,8 @@
       "description": "Pava eléctrica",
       "price": 40000,
       "badge": null,
-      "color": "#e8e4dc",
-      "icon": "☕",
-      "price_old": null
+      "color": "#E8E4DC",
+      "icon": "☕"
     },
     {
       "id": "coc-049",
@@ -1897,9 +1880,8 @@
       "description": "Kit de asado completo",
       "price": 21000,
       "badge": null,
-      "color": "#ede8e0",
-      "icon": "🔥",
-      "price_old": null
+      "color": "#EDE8E0",
+      "icon": "🔥"
     },
     {
       "id": "coc-050",
@@ -1971,7 +1953,8 @@
       "badge": null,
       "color": "#ede8e0",
       "icon": "🥛",
-      "price_old": null
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/VASOS%20FUME%201.jpg"
     },
     {
       "id": "coc-056",
@@ -2588,9 +2571,8 @@
       "description": "Figura buda plata con rombito, 19 cm",
       "price": 30000,
       "badge": null,
-      "color": "#e8e4dc",
-      "icon": "🙏",
-      "price_old": null
+      "color": "#E8E4DC",
+      "icon": "🙏"
     },
     {
       "id": "arte-002",
@@ -2600,9 +2582,8 @@
       "description": "Figura buda plata con strass, 20 cm",
       "price": 32000,
       "badge": null,
-      "color": "#ede9e1",
-      "icon": "🙏",
-      "price_old": null
+      "color": "#EDE9E1",
+      "icon": "🙏"
     },
     {
       "id": "arte-003",
@@ -2818,18 +2799,6 @@
       "badge": null,
       "color": "#E8E4DC",
       "icon": "🔮"
-    },
-    {
-      "id": "coc-058",
-      "name": "Jarra Térmica Negra",
-      "category": "Cocina & Comedor",
-      "sectionId": "cocina",
-      "description": "Jarra térmica negra, 24x13 cm",
-      "price": 30000,
-      "price_old": null,
-      "badge": null,
-      "color": "#ede8e0",
-      "icon": "✨"
     }
   ],
   "gallery": {},
@@ -3128,25 +3097,6 @@
     "coc-032": "default",
     "coc-033": "default",
     "coc-035": "default",
-    "sala-079": "default",
-    "coc-049": "default",
-    "coc-048": "default",
-    "coc-044": "default",
-    "coc-043": "default",
-    "coc-058": "default",
-    "coc-042": "default",
-    "coc-026": "default",
-    "coc-025": "default",
-    "sala-103": "default",
-    "sala-099": "default",
-    "sala-100": "default",
-    "sala-076": "default",
-    "sala-075": "default",
-    "sala-070": "default",
-    "sala-065": "default",
-    "sala-050": "default",
-    "sala-028": "default",
-    "sala-034": "default",
-    "sala-038": "default"
+    "sala-079": "default"
   }
 }
