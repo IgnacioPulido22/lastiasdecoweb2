@@ -1549,8 +1549,10 @@
       "description": "Set 3 bandejas mimbre grass, 36-32-29 cm diám.",
       "price": 48000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🍽️"
+      "color": "#e8e4dc",
+      "icon": "🍽️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJAS%20MIMBRE.jpg"
     },
     {
       "id": "coc-023",
@@ -3036,6 +3038,7 @@
     "coc-050": "default",
     "coc-051": "default",
     "coc-052": "default",
-    "sala-106": "default"
+    "sala-106": "default",
+    "coc-022": "default"
   }
 }
