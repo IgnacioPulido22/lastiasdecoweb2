@@ -1131,8 +1131,10 @@
       "description": "Puff coteló velvet dorado, 36x38 cm",
       "price": 40000,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🛋️"
+      "color": "#e8ddd0",
+      "icon": "🛋️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/PUFF%20CUADRADO%20TELA.jpg"
     },
     {
       "id": "sala-102",
@@ -3103,6 +3105,7 @@
     "coc-035": "default",
     "sala-079": "default",
     "sala-099": "default",
-    "sala-100": "default"
+    "sala-100": "default",
+    "sala-101": "default"
   }
 }
