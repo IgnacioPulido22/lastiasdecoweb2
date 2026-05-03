@@ -1204,8 +1204,10 @@
       "description": "Reloj de arena línea blanca, 21x7 cm",
       "price": 22000,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "⏳"
+      "color": "#e8ddd0",
+      "icon": "⏳",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/RELOJ%20ARENA%20REDONDO.jpg"
     },
     {
       "id": "dorm-001",
@@ -3090,6 +3092,7 @@
     "sala-100": "default",
     "sala-101": "default",
     "sala-103": "default",
-    "sala-104": "default"
+    "sala-104": "default",
+    "sala-109": "default"
   }
 }
