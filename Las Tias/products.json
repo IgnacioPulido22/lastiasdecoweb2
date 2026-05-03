@@ -2543,8 +2543,10 @@
       "description": "Figura buda plata con rombito, 19 cm",
       "price": 30000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🙏"
+      "color": "#e8e4dc",
+      "icon": "🙏",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BUDA%20PLATA%202.jpg"
     },
     {
       "id": "arte-002",
