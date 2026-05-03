@@ -1144,8 +1144,10 @@
       "description": "Puff redondo con hilos natural, 40x60 cm",
       "price": 85000,
       "badge": "Destacado",
-      "color": "#DDD0BF",
-      "icon": "🛋️"
+      "color": "#ddd0bf",
+      "icon": "🛋️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/PUFF%20HILOS%20COLOR%20NATURAL.jpg"
     },
     {
       "id": "sala-104",
@@ -3095,6 +3097,7 @@
     "sala-079": "default",
     "sala-099": "default",
     "sala-100": "default",
-    "sala-101": "default"
+    "sala-101": "default",
+    "sala-103": "default"
   }
 }
