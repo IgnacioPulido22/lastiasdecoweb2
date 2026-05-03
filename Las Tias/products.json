@@ -1151,14 +1151,16 @@
     },
     {
       "id": "sala-104",
-      "name": "Puf Piel Blanco",
+      "name": "Puf Piel",
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Puf de piel blanco, 38x32 cm",
       "price": 70000,
       "badge": null,
-      "color": "#E5D9C8",
-      "icon": "🛋️"
+      "color": "#e5d9c8",
+      "icon": "🛋️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/PUFF%20PELUDO.jpg"
     },
     {
       "id": "sala-105",
@@ -3098,6 +3100,7 @@
     "sala-099": "default",
     "sala-100": "default",
     "sala-101": "default",
-    "sala-103": "default"
+    "sala-103": "default",
+    "sala-104": "default"
   }
 }
