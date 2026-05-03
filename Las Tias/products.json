@@ -853,17 +853,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/MACETA%20PLATA.jpg"
     },
     {
-      "id": "sala-081",
-      "name": "Maceta Dorada 13cm",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Maceta dorada, 13x11 cm",
-      "price": 21000,
-      "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🌿"
-    },
-    {
       "id": "sala-082",
       "name": "Maceta con Planta",
       "category": "Sala & Living",
