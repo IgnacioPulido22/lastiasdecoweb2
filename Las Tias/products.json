@@ -2217,8 +2217,10 @@
       "description": "Lámpara plata con cairel, 41x15 cm",
       "price": 120000,
       "badge": null,
-      "color": "#EEE4D4",
-      "icon": "💡"
+      "color": "#eee4d4",
+      "icon": "💡",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/LAMPARA%20CAIREL.jpg"
     },
     {
       "id": "ilum-003",
