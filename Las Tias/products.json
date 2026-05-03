@@ -2532,17 +2532,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FANAL%20PLATA%20Y%20NEGRO.jpg"
     },
     {
-      "id": "ilum-026",
-      "name": "Fanal Mediano",
-      "category": "Iluminación",
-      "sectionId": "iluminacion",
-      "description": "Fanal mediano, 22x44 cm",
-      "price": 120000,
-      "badge": null,
-      "color": "#EEE4D4",
-      "icon": "🪔"
-    },
-    {
       "id": "ilum-027",
       "name": "Fanal Portavela con Hilos",
       "category": "Iluminación",
