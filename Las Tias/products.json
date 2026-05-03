@@ -2194,8 +2194,10 @@
       "description": "Set 5 felpudos rectangulares premium, 60x40 cm",
       "price": 15000,
       "badge": null,
-      "color": "#D8E8D4",
-      "icon": "🚪"
+      "color": "#d8e8d4",
+      "icon": "🚪",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FELPUDOS%2060X40CM.png"
     },
     {
       "id": "jard-002",
