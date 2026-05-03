@@ -2347,8 +2347,9 @@
       "description": "Lámpara mesa luxury negra con dorado, 23x47 cm",
       "price": 80000,
       "badge": null,
-      "color": "#EEE4D4",
-      "icon": "💡"
+      "color": "#eee4d4",
+      "icon": "💡",
+      "price_old": null
     },
     {
       "id": "ilum-015",
