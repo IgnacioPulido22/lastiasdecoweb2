@@ -490,14 +490,16 @@
     },
     {
       "id": "sala-044",
-      "name": "Canastos Metal Negro Set x3",
+      "name": "Canasto Set x3",
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Set 3 canastos metal negro, 37-32-27 cm diám.",
       "price": 75000,
       "badge": null,
-      "color": "#DDD5C8",
-      "icon": "🧺"
+      "color": "#ddd5c8",
+      "icon": "🧺",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CESTA%20SET%20X3.jpg"
     },
     {
       "id": "sala-045",
@@ -3132,6 +3134,7 @@
     "sala-040": "default",
     "sala-041": "default",
     "sala-042": "default",
-    "sala-043": "default"
+    "sala-043": "default",
+    "sala-044": "default"
   }
 }
