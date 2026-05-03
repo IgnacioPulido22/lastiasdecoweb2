@@ -1899,7 +1899,8 @@
       "badge": null,
       "color": "#ede8e0",
       "icon": "☕",
-      "price_old": null
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/TACITAS%20CAFE%20CARAMEL.jpg"
     },
     {
       "id": "coc-052",
