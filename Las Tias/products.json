@@ -2001,8 +2001,9 @@
       "description": "Dispenser de baño celeste",
       "price": 7500,
       "badge": null,
-      "color": "#E2EEEC",
-      "icon": "🧴"
+      "color": "#e2eeec",
+      "icon": "🧴",
+      "price_old": null
     },
     {
       "id": "ban-009",
@@ -2714,7 +2715,11 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESCULTURA%20ESFERA.jpg"
     }
   ],
-  "gallery": {},
+  "gallery": {
+    "ban-008": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/DISPENSER%202%201.jpg"
+    ]
+  },
   "details": {
     "sala-001": "Jarrón de cerámica artesanal elaborado a mano por alfareros en tonos arena y ocre. Cada pieza es única, con pequeñas variaciones que certifican su origen artesanal. Ideal para flores secas o como pieza decorativa independiente. Altura aprox. 38 cm.",
     "sala-002": "Espejo de pared con marco de madera tallada a mano con acabado dorado envejecido. La talla presenta motivos florales con detalles finísimos. Incluye sistema de colgado horizontal y vertical. Medidas: 60×90 cm.",
