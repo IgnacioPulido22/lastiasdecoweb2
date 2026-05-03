@@ -2637,8 +2637,10 @@
       "description": "Escultura letra \"E\" decorativa, 14x11 cm",
       "price": 14000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "✨"
+      "color": "#e8e4dc",
+      "icon": "✨",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESCULTURA%20E%202.jpg"
     },
     {
       "id": "arte-010",
