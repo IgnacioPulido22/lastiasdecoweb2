@@ -954,8 +954,10 @@
       "description": "Mesa auxiliar redonda, 50 cm diám. x 45 cm alto",
       "price": 70000,
       "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🪑"
+      "color": "#ddd0bf",
+      "icon": "🪑",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/MESA%20ROMBO%20CIRCULAR%20DORADA.jpg"
     },
     {
       "id": "sala-092",
@@ -3071,6 +3073,7 @@
     "sala-089": "default",
     "sala-090": "default",
     "arte-018": "default",
-    "arte-020": "default"
+    "arte-020": "default",
+    "sala-091": "default"
   }
 }
