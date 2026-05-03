@@ -1052,8 +1052,10 @@
       "description": "Portarretrato vintage hojas oro, 13x18 cm",
       "price": 20000,
       "badge": null,
-      "color": "#DDD5C8",
-      "icon": "🖼️"
+      "color": "#ddd5c8",
+      "icon": "🖼️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/PORTARETRATO%20HOJAS.jpg"
     },
     {
       "id": "sala-095",
@@ -3103,6 +3105,7 @@
     "sala-104": "default",
     "sala-109": "default",
     "sala-107": "default",
-    "sala-092": "default"
+    "sala-092": "default",
+    "sala-094": "default"
   }
 }
