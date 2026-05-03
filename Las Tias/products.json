@@ -2541,8 +2541,10 @@
       "description": "Fanal portavela con hilos, 31x18 cm",
       "price": 40000,
       "badge": null,
-      "color": "#F2EAD8",
-      "icon": "🪔"
+      "color": "#f2ead8",
+      "icon": "🪔",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FANAL%20CON%20LUZ.jpg"
     },
     {
       "id": "ilum-028",
@@ -3119,6 +3121,7 @@
     "sala-093": "default",
     "ilum-025": "default",
     "ilum-028": "default",
-    "ilum-024": "default"
+    "ilum-024": "default",
+    "ilum-027": "default"
   }
 }
