@@ -372,17 +372,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CANDELABRO%20DORADO.jpg"
     },
     {
-      "id": "sala-034",
-      "name": "Candelabro Gold Caireles Mediano",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Candelabro dorado con caireles, 31x10 cm",
-      "price": 71000,
-      "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🕯️"
-    },
-    {
       "id": "sala-035",
       "name": "Candelabro Portavela Blanco y Plata 30cm",
       "category": "Sala & Living",
