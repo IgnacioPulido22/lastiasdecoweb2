@@ -632,17 +632,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESPEJOS%20SET%20X%203%20BLANCOS.jpg"
     },
     {
-      "id": "sala-057",
-      "name": "Espejo Marco Negro y Madera 38x127",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Espejo alto con marco negro y madera, 38x127 cm",
-      "price": 65000,
-      "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🪞"
-    },
-    {
       "id": "sala-058",
       "name": "Frasco con Tapa Labrado",
       "category": "Sala & Living",
