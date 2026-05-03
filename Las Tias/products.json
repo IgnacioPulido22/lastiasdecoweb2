@@ -769,8 +769,10 @@
       "description": "Jarrón fumé, 29x14 cm",
       "price": 29000,
       "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🌸"
+      "color": "#ddd0bf",
+      "icon": "🌸",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20FUME.jpg"
     },
     {
       "id": "sala-070",
@@ -3148,6 +3150,7 @@
     "sala-065": "default",
     "sala-066": "default",
     "sala-067": "default",
-    "sala-068": "default"
+    "sala-068": "default",
+    "sala-069": "default"
   }
 }
