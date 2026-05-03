@@ -704,8 +704,10 @@
       "description": "Jarrón tornasol labrado, 22x15 cm",
       "price": 30000,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🌸"
+      "color": "#e8ddd0",
+      "icon": "🌸",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20TRANSPARENTE%20LINEAS.jpg"
     },
     {
       "id": "sala-065",
@@ -3133,6 +3135,7 @@
     "sala-059": "default",
     "sala-060": "default",
     "sala-061": "default",
-    "sala-062": "default"
+    "sala-062": "default",
+    "sala-064": "default"
   }
 }
