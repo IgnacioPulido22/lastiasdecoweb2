@@ -477,14 +477,16 @@
     },
     {
       "id": "sala-043",
-      "name": "Canastos Ratán Set x3",
+      "name": "Canasta Paper",
       "category": "Sala & Living",
       "sectionId": "sala",
-      "description": "Set 3 canastos ratán natural",
+      "description": "Canasta Paper",
       "price": 79000,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🧺"
+      "color": "#e8ddd0",
+      "icon": "🧺",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CESTA%20PAPER.jpg"
     },
     {
       "id": "sala-044",
@@ -3129,6 +3131,7 @@
     "sala-038": "default",
     "sala-040": "default",
     "sala-041": "default",
-    "sala-042": "default"
+    "sala-042": "default",
+    "sala-043": "default"
   }
 }
