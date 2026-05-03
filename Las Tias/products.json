@@ -2565,8 +2565,10 @@
       "description": "Figura buda blanco tornasol, 21 cm",
       "price": 40000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🙏"
+      "color": "#e8e4dc",
+      "icon": "🙏",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESCULTURA%20BUDA%20BLANCO%20TORNASOL.jpg"
     },
     {
       "id": "arte-004",
