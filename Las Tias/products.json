@@ -516,14 +516,16 @@
     },
     {
       "id": "sala-046",
-      "name": "Canastos Bombé Paper Set x3",
+      "name": "Canastos Yute con tapa",
       "category": "Sala & Living",
       "sectionId": "sala",
-      "description": "Set 3 canastos bombé papel, 32-28-23 cm",
+      "description": "Canastos Yute con tapa",
       "price": 81900,
       "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🧺"
+      "color": "#ddd0bf",
+      "icon": "🧺",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CESTA%20YUTE%20CON%20TAPA.jpg"
     },
     {
       "id": "sala-047",
@@ -3138,6 +3140,7 @@
     "sala-042": "default",
     "sala-043": "default",
     "sala-044": "default",
-    "sala-045": "default"
+    "sala-045": "default",
+    "sala-046": "default"
   }
 }
