@@ -1412,17 +1412,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20METAL%20ORO.png"
     },
     {
-      "id": "coc-015",
-      "name": "Bandejas Caladas Doradas Set x2",
-      "category": "Cocina & Comedor",
-      "sectionId": "cocina",
-      "description": "Set 2 bandejas caladas doradas, 26x27 y 22x23 cm",
-      "price": 58000,
-      "badge": null,
-      "color": "#EDE8E0",
-      "icon": "🍽️"
-    },
-    {
       "id": "coc-016",
       "name": "Bandeja Oval Gold con Espejo Set x3",
       "category": "Cocina & Comedor",
@@ -2768,7 +2757,6 @@
     "coc-012": "Perchero de cocina de hierro fundido negro con 6 ganchos en S de diferentes tamaños. Montaje en pared con tornillos incluidos. Ancho: 50 cm. Capacidad: hasta 15 kg. Estilo industrial rústico.",
     "coc-013": "Set de 4 bowls de cerámica vidriada a mano por artesanos japoneses. Cada pieza con pequeñas variaciones de color que las hacen únicas. Diámetro: 15 cm. Aptos para horno, microondas y lavavajillas.",
     "coc-014": "Set de 4 cuchillos para queso con mango de madera de oliva y hoja de acero inoxidable dorado. Incluye: espada, tenedor de 2 puntas, pala y cincel. Presentados en caja de madera grabada.",
-    "coc-015": "Servilletero de acero inoxidable pintado en dorado envejecido. Para servilletas de papel y tela. Cierre magnético. Base antideslizante. Dimensiones: 11×4×7 cm. Elegante y funcional.",
     "coc-016": "Pieza única de cerámica decorativa en azul cobalto profundo con terminaciones en oro de 22 quilates aplicado a mano. Artesanía portuguesa auténtica. Ideal como centro o en repisa. Alto: 30 cm.",
     "coc-017": "Salsera de porcelana fina blanca con borde platino y cucharón incluido. Diseño neoclásico. Capacidad: 300 ml. Apta para lavavajillas en ciclo porcelana. Presentada en caja de regalo dorada.",
     "coc-018": "Bandeja de servicio de mármol negro Marquina con asas de latón dorado. Acabado pulido. Ideal para servir bebidas, desayunos o como bandeja de tocador. Medidas: 50×30 cm.",
@@ -2901,7 +2889,6 @@
     "coc-012": "shelf",
     "coc-013": "bowl",
     "coc-014": "cutlery",
-    "coc-015": "default",
     "coc-016": "vase",
     "coc-017": "jug",
     "coc-018": "tray",
