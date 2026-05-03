@@ -600,8 +600,10 @@
       "description": "Espejo dorado vintage resina ananás, 30x20 cm",
       "price": 24000,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🪞"
+      "color": "#e8ddd0",
+      "icon": "🪞",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESPEJO%20VINTAGE%20RESINA%20DORADO%20ANANA.jpg"
     },
     {
       "id": "sala-054",
@@ -3142,6 +3144,7 @@
     "sala-048": "default",
     "sala-050": "default",
     "sala-051": "default",
-    "sala-052": "default"
+    "sala-052": "default",
+    "sala-053": "default"
   }
 }
