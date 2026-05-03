@@ -853,17 +853,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/MACETA%20PLATA.jpg"
     },
     {
-      "id": "sala-082",
-      "name": "Maceta con Planta",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Maceta con planta decorativa, 18x8 cm",
-      "price": 17000,
-      "badge": null,
-      "color": "#DDD5C8",
-      "icon": "🌿"
-    },
-    {
       "id": "sala-083",
       "name": "Manta Bisón",
       "category": "Sala & Living",
