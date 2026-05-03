@@ -535,8 +535,10 @@
       "description": "Set 3 canastos rafia, 36-34-26 cm",
       "price": 67000,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🧺"
+      "color": "#e8ddd0",
+      "icon": "🧺",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CESTAS%20BLANCA%20Y%20NEGRA%20X3.jpg"
     },
     {
       "id": "sala-048",
@@ -3127,6 +3129,7 @@
     "sala-043": "default",
     "sala-044": "default",
     "sala-045": "default",
-    "sala-046": "default"
+    "sala-046": "default",
+    "sala-047": "default"
   }
 }
