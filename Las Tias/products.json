@@ -2515,8 +2515,10 @@
       "description": "Set 2 fanales aluminio dorado labrado, 64 y 46 cm",
       "price": 180000,
       "badge": "Destacado",
-      "color": "#EDE6D5",
-      "icon": "🪔"
+      "color": "#ede6d5",
+      "icon": "🪔",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FANALES%20LABRADOS%20DORADOS.jpg"
     },
     {
       "id": "ilum-025",
@@ -3116,6 +3118,7 @@
     "sala-098": "default",
     "sala-093": "default",
     "ilum-025": "default",
-    "ilum-028": "default"
+    "ilum-028": "default",
+    "ilum-024": "default"
   }
 }
