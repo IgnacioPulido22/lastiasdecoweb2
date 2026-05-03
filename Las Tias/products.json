@@ -457,8 +457,10 @@
       "description": "Caramelera fumé punta, 10x8 cm",
       "price": 11500,
       "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🍬"
+      "color": "#ddd0bf",
+      "icon": "🍬",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FRASCO%20FUME.jpg"
     },
     {
       "id": "sala-042",
@@ -3121,6 +3123,7 @@
     "ilum-024": "default",
     "ilum-027": "default",
     "sala-038": "default",
-    "sala-040": "default"
+    "sala-040": "default",
+    "sala-041": "default"
   }
 }
