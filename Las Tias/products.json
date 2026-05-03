@@ -2014,8 +2014,10 @@
       "description": "Dispenser de baño plateado",
       "price": 16500,
       "badge": null,
-      "color": "#E8F0EE",
-      "icon": "🧴"
+      "color": "#e8f0ee",
+      "icon": "🧴",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/DISPENSER%204%201.jpg"
     },
     {
       "id": "ban-010",
