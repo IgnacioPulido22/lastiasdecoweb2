@@ -2554,8 +2554,10 @@
       "description": "Figura buda plata con strass, 20 cm",
       "price": 32000,
       "badge": null,
-      "color": "#EDE9E1",
-      "icon": "🙏"
+      "color": "#ede9e1",
+      "icon": "🙏",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BUDA%20PLATA.jpg"
     },
     {
       "id": "arte-003",
