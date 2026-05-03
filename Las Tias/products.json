@@ -678,8 +678,10 @@
       "description": "Frasco vidrio plata chico, 7.5x8.5 cm",
       "price": 12000,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🫙"
+      "color": "#e8ddd0",
+      "icon": "🫙",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FRASCO VIDRIO PLATA PEQUEÑO.jpg"
     },
     {
       "id": "sala-062",
@@ -3138,6 +3140,7 @@
     "sala-056": "default",
     "sala-058": "default",
     "sala-059": "default",
-    "sala-060": "default"
+    "sala-060": "default",
+    "sala-061": "default"
   }
 }
