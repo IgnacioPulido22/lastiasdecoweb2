@@ -1164,7 +1164,7 @@
     },
     {
       "id": "sala-106",
-      "name": "Reloj Pared Símil Madera",
+      "name": "Reloj Blanco Cuadrado",
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Reloj de pared símil madera",
@@ -1172,7 +1172,8 @@
       "badge": null,
       "color": "#ddd5c8",
       "icon": "🕐",
-      "price_old": null
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/RELOJ%20BLANCO%20CUADRADO.jpg"
     },
     {
       "id": "sala-107",
