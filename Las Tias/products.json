@@ -665,8 +665,10 @@
       "description": "Frasco vidrio plata mediano, 9.5x10 cm",
       "price": 17000,
       "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🫙"
+      "color": "#ddd0bf",
+      "icon": "🫙",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FRASCO%20VIDRIO%20PLATA%20MEDIANO.jpg"
     },
     {
       "id": "sala-061",
@@ -3135,6 +3137,7 @@
     "sala-055": "default",
     "sala-056": "default",
     "sala-058": "default",
-    "sala-059": "default"
+    "sala-059": "default",
+    "sala-060": "default"
   }
 }
