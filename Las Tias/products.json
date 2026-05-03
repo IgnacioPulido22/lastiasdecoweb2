@@ -801,17 +801,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20MIMBRE.jpg"
     },
     {
-      "id": "sala-072",
-      "name": "Jarrón Copón Labrado",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Jarrón copón labrado, 30x15 cm",
-      "price": 49000,
-      "badge": null,
-      "color": "#DDD5C8",
-      "icon": "🌸"
-    },
-    {
       "id": "sala-073",
       "name": "Jarrón Trocadero Plata Grande",
       "category": "Sala & Living",
