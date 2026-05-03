@@ -1142,17 +1142,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/RELOJ%20NEGRO%20REDONDO.jpg"
     },
     {
-      "id": "sala-108",
-      "name": "Reloj Pared Línea Silver",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Reloj de pared línea plateada",
-      "price": 35000,
-      "badge": null,
-      "color": "#E5D9C8",
-      "icon": "🕐"
-    },
-    {
       "id": "sala-109",
       "name": "Reloj Arena Línea White",
       "category": "Sala & Living",
