@@ -1177,14 +1177,16 @@
     },
     {
       "id": "sala-107",
-      "name": "Reloj Pared Kensington",
+      "name": "Reloj Negro Redondo",
       "category": "Sala & Living",
       "sectionId": "sala",
-      "description": "Reloj de pared Kensington",
+      "description": "Reloj Negro Redondo",
       "price": 50000,
       "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🕐"
+      "color": "#ddd0bf",
+      "icon": "🕐",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/RELOJ%20NEGRO%20REDONDO.jpg"
     },
     {
       "id": "sala-108",
@@ -3094,6 +3096,7 @@
     "sala-101": "default",
     "sala-103": "default",
     "sala-104": "default",
-    "sala-109": "default"
+    "sala-109": "default",
+    "sala-107": "default"
   }
 }
