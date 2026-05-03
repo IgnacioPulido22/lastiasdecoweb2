@@ -1754,8 +1754,10 @@
       "description": "Jarra térmica blanca, 24x13 cm",
       "price": 30000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "☕"
+      "color": "#e8e4dc",
+      "icon": "☕",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRA%20BLANCA.jpg"
     },
     {
       "id": "coc-045",
@@ -3058,6 +3060,7 @@
     "coc-026": "default",
     "coc-037": "default",
     "coc-042": "default",
-    "coc-043": "default"
+    "coc-043": "default",
+    "coc-044": "default"
   }
 }
