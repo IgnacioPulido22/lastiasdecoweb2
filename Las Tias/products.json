@@ -2314,8 +2314,9 @@
       "description": "Lámpara mesa luxury plateada con vidrio, 30x56 cm",
       "price": 100000,
       "badge": null,
-      "color": "#F2EAD8",
-      "icon": "💡"
+      "color": "#f2ead8",
+      "icon": "💡",
+      "price_old": null
     },
     {
       "id": "ilum-012",
