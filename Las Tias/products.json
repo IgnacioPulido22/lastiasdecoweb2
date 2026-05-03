@@ -1400,14 +1400,16 @@
     },
     {
       "id": "coc-014",
-      "name": "Bandejas Caladas Plata Set x2",
+      "name": "Bandejas Caladas Dorada",
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Set 2 bandejas caladas plata, 34x24 y 28x19 cm",
       "price": 60000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🍽️"
+      "color": "#e8e4dc",
+      "icon": "🍽️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20METAL%20ORO.png"
     },
     {
       "id": "coc-015",
