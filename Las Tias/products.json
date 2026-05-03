@@ -2053,8 +2053,10 @@
       "description": "Escobilla de baño metal",
       "price": 20000,
       "badge": null,
-      "color": "#E2EEEC",
-      "icon": "🪣"
+      "color": "#e2eeec",
+      "icon": "🪣",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESCOBILLA BAÑO METALIZADA 1.jpg"
     },
     {
       "id": "ban-013",
