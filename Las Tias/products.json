@@ -1118,8 +1118,10 @@
       "description": "Puff cuadrado tela gris, 36x38 cm",
       "price": 40000,
       "badge": null,
-      "color": "#E5D9C8",
-      "icon": "🛋️"
+      "color": "#e5d9c8",
+      "icon": "🛋️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/PUFF%20CUADRADO%20TELA%20GRIS.jpg"
     },
     {
       "id": "sala-101",
@@ -3100,6 +3102,7 @@
     "coc-033": "default",
     "coc-035": "default",
     "sala-079": "default",
-    "sala-099": "default"
+    "sala-099": "default",
+    "sala-100": "default"
   }
 }
