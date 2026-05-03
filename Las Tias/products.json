@@ -2550,8 +2550,10 @@
       "description": "Fanal plateado chico, 24x11x11 cm",
       "price": 50000,
       "badge": null,
-      "color": "#EDE6D5",
-      "icon": "🪔"
+      "color": "#ede6d5",
+      "icon": "🪔",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FANALES%20PLATA.jpg"
     },
     {
       "id": "ilum-029",
@@ -3113,6 +3115,7 @@
     "sala-097": "default",
     "sala-098": "default",
     "sala-093": "default",
-    "ilum-025": "default"
+    "ilum-025": "default",
+    "ilum-028": "default"
   }
 }
