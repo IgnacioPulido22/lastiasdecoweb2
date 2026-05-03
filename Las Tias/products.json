@@ -2722,8 +2722,10 @@
       "description": "Escultura pera grande decorativa, 23x15 cm",
       "price": 35000,
       "badge": null,
-      "color": "#EDE9E1",
-      "icon": "🍐"
+      "color": "#ede9e1",
+      "icon": "🍐",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESCULTURA%20PERA.jpg"
     },
     {
       "id": "arte-019",
@@ -3103,6 +3105,7 @@
     "sala-080": "default",
     "sala-088": "default",
     "sala-089": "default",
-    "sala-090": "default"
+    "sala-090": "default",
+    "arte-018": "default"
   }
 }
