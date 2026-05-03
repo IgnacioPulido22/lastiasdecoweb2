@@ -1137,17 +1137,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/PUFF%20CUADRADO%20TELA.jpg"
     },
     {
-      "id": "sala-102",
-      "name": "Puff Cuerina Blanco",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Puff cuerina PVC blanco, 36x38 cm",
-      "price": 40000,
-      "badge": null,
-      "color": "#DDD5C8",
-      "icon": "🛋️"
-    },
-    {
       "id": "sala-103",
       "name": "Puff Redondo Tejido Natural",
       "category": "Sala & Living",
