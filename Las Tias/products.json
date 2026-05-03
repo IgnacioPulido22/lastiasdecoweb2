@@ -626,8 +626,10 @@
       "description": "Set 3 espejos blancos labrados, 25 cm c/u",
       "price": 34000,
       "badge": null,
-      "color": "#E5D9C8",
-      "icon": "🪞"
+      "color": "#e5d9c8",
+      "icon": "🪞",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESPEJOS%20SET%20X%203%20BLANCOS.jpg"
     },
     {
       "id": "sala-057",
@@ -3137,6 +3139,7 @@
     "sala-051": "default",
     "sala-052": "default",
     "sala-053": "default",
-    "sala-055": "default"
+    "sala-055": "default",
+    "sala-056": "default"
   }
 }
