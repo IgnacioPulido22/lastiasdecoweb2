@@ -2207,8 +2207,10 @@
       "description": "Felpudo rectangular premium, 75x25 cm",
       "price": 13000,
       "badge": null,
-      "color": "#D2E2CE",
-      "icon": "🚪"
+      "color": "#d2e2ce",
+      "icon": "🚪",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FELPUDO%20RECTANGULAR%2075X25CM.jpg"
     },
     {
       "id": "jard-003",
