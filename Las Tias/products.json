@@ -743,8 +743,10 @@
       "description": "Jarrón florero línea blanca onda, 24x9 cm",
       "price": 28000,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🌸"
+      "color": "#e8ddd0",
+      "icon": "🌸",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20BLANCO%20Y%20PLATA%20ROMBOS.jpg"
     },
     {
       "id": "sala-068",
@@ -3142,6 +3144,7 @@
     "sala-062": "default",
     "sala-064": "default",
     "sala-065": "default",
-    "sala-066": "default"
+    "sala-066": "default",
+    "sala-067": "default"
   }
 }
