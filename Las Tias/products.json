@@ -2728,17 +2728,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESCULTURA%20PERA.jpg"
     },
     {
-      "id": "arte-019",
-      "name": "Escultura Manzana Chica",
-      "category": "Arte & Cuadros",
-      "sectionId": "arte",
-      "description": "Escultura manzana chica decorativa, 16x10 cm",
-      "price": 21000,
-      "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🍎"
-    },
-    {
       "id": "arte-020",
       "name": "Escultura Esfera Grande",
       "category": "Arte & Cuadros",
