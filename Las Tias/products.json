@@ -2276,8 +2276,10 @@
       "description": "Lámpara centro de mesa, 27x13 cm",
       "price": 50000,
       "badge": null,
-      "color": "#F2EAD8",
-      "icon": "💡"
+      "color": "#f2ead8",
+      "icon": "💡",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/LAMPARA%20USB%20DORADA.jpg"
     },
     {
       "id": "ilum-008",
