@@ -717,8 +717,10 @@
       "description": "Jarrón caramel labrado, 22x15 cm",
       "price": 30000,
       "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🌸"
+      "color": "#ddd0bf",
+      "icon": "🌸",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20CARAMEL.jpg"
     },
     {
       "id": "sala-066",
@@ -3136,6 +3138,7 @@
     "sala-060": "default",
     "sala-061": "default",
     "sala-062": "default",
-    "sala-064": "default"
+    "sala-064": "default",
+    "sala-065": "default"
   }
 }
