@@ -2691,17 +2691,6 @@
       "icon": "🗼"
     },
     {
-      "id": "arte-015",
-      "name": "Escultura Silver Hombre Platón",
-      "category": "Arte & Cuadros",
-      "sectionId": "arte",
-      "description": "Escultura plateada hombre Platón, 16x10 cm",
-      "price": 23000,
-      "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🗿"
-    },
-    {
       "id": "arte-016",
       "name": "Escultura Ajedrez Plata 21cm",
       "category": "Arte & Cuadros",
@@ -2900,7 +2889,6 @@
     "arte-011": "Serigrafía artística sobre papel de alto gramaje con tipografía poética sobre Buenos Aires. Edición limitada de 50 ejemplares, numerada y firmada. Sin marco. Medidas: 30×40 cm.",
     "arte-012": "Colección de 7 marcos para crear una galería de pared. Mix de madera natural y dorada en formatos: 10×15 (×3), 15×20 (×2), 20×25 (×1) y 20×30 (×1). Vidrio anti-reflejo. Sistema de colgado múltiple.",
     "arte-014": "Reproducción de litografía parisina estilo Belle Époque con motivos florales. Impresión sobre papel texturado. Marco ovalado de madera dorada con filete. Medidas: 30×40 cm. Muy decorativa.",
-    "arte-015": "Móvil artístico de latón dorado con formas geométricas abstractas e hilo de nylon invisible. Se mueve con la brisa. Colgante de 80 cm. Ideal para dormitorios, espacios de meditación y jardines.",
     "arte-016": "Óleo original sobre tela de lino con texturas en relieve. Tonos terracota, siena y dorado con toques de negro. Técnica mixta con espátula. Firmado. Con certificado. Medidas: 80×100 cm. Sin marco.",
     "arte-017": "Ilustración a tinta china sobre papel de algodón 300 g. Arquitectura neoclásica romana con fina línea técnica. Edición de 30 ejemplares numerada y firmada. Marco de aluminio negro. 30×40 cm."
   },
@@ -3035,7 +3023,6 @@
     "arte-011": "frame",
     "arte-012": "frame_set",
     "arte-014": "botanical_print",
-    "arte-015": "default",
     "arte-016": "canvas_abstract",
     "arte-017": "botanical_print",
     "coc-055": "default",
