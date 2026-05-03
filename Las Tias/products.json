@@ -2739,17 +2739,6 @@
       "icon": "🔮",
       "price_old": null,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESCULTURA%20ESFERA.jpg"
-    },
-    {
-      "id": "arte-021",
-      "name": "Escultura Esfera Chica",
-      "category": "Arte & Cuadros",
-      "sectionId": "arte",
-      "description": "Escultura esfera chica decorativa, 13x13 cm",
-      "price": 20000,
-      "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🔮"
     }
   ],
   "gallery": {},
