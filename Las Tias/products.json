@@ -2287,8 +2287,10 @@
       "description": "Lámpara centro de mesa con USB, 34x15 cm",
       "price": 50000,
       "badge": null,
-      "color": "#EDE6D5",
-      "icon": "💡"
+      "color": "#ede6d5",
+      "icon": "💡",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/LAMPARA%20USB%20PLATA.jpg"
     },
     {
       "id": "ilum-009",
@@ -2741,6 +2743,9 @@
   "gallery": {
     "ban-008": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/DISPENSER%202%201.jpg"
+    ],
+    "ilum-008": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/LAMPARA%20USB%20NEGRA.jpg"
     ]
   },
   "details": {
