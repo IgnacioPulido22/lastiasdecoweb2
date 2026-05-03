@@ -795,8 +795,10 @@
       "description": "Jarrón bambú alto, 47x26 cm",
       "price": 34000,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🌸"
+      "color": "#e8ddd0",
+      "icon": "🌸",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20MIMBRE.jpg"
     },
     {
       "id": "sala-072",
@@ -3154,6 +3156,7 @@
     "sala-067": "default",
     "sala-068": "default",
     "sala-069": "default",
-    "sala-070": "default"
+    "sala-070": "default",
+    "sala-071": "default"
   }
 }
