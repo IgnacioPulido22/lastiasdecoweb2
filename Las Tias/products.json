@@ -704,8 +704,10 @@
       "description": "Jarrón tornasol liso, 26x14 cm",
       "price": 30000,
       "badge": null,
-      "color": "#E5D9C8",
-      "icon": "🌸"
+      "color": "#e5d9c8",
+      "icon": "🌸",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20TRANSPARENTE%20LINEAS.jpg"
     },
     {
       "id": "sala-064",
@@ -3144,6 +3146,7 @@
     "sala-059": "default",
     "sala-060": "default",
     "sala-061": "default",
-    "sala-062": "default"
+    "sala-062": "default",
+    "sala-063": "default"
   }
 }
