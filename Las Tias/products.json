@@ -782,8 +782,10 @@
       "description": "Jarrón caramel, 29x14 cm",
       "price": 29000,
       "badge": null,
-      "color": "#E5D9C8",
-      "icon": "🌸"
+      "color": "#e5d9c8",
+      "icon": "🌸",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20CARAMEL%202.jpg"
     },
     {
       "id": "sala-071",
@@ -3151,6 +3153,7 @@
     "sala-066": "default",
     "sala-067": "default",
     "sala-068": "default",
-    "sala-069": "default"
+    "sala-069": "default",
+    "sala-070": "default"
   }
 }
