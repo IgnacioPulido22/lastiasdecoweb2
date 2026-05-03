@@ -418,8 +418,10 @@
       "description": "Candelabro alto base fumé, 32x11 cm",
       "price": 29000,
       "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🕯️"
+      "color": "#ddd0bf",
+      "icon": "🕯️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CANDELABROS%20FUME.jpg"
     },
     {
       "id": "sala-039",
@@ -3115,6 +3117,7 @@
     "ilum-025": "default",
     "ilum-028": "default",
     "ilum-024": "default",
-    "ilum-027": "default"
+    "ilum-027": "default",
+    "sala-038": "default"
   }
 }
