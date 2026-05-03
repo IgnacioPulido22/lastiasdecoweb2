@@ -827,17 +827,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20BLANCO.jpg"
     },
     {
-      "id": "sala-076",
-      "name": "Jarrón Cilíndrico Liso Alto",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Jarrón cilíndrico liso alto, 40x10 cm",
-      "price": 28000,
-      "badge": null,
-      "color": "#DDD5C8",
-      "icon": "🌸"
-    },
-    {
       "id": "sala-077",
       "name": "Jarrón Trocadero Plata Mediano",
       "category": "Sala & Living",
