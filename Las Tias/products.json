@@ -1163,17 +1163,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/PUFF%20PELUDO.jpg"
     },
     {
-      "id": "sala-105",
-      "name": "Puf Piel Negro",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Puf de piel negro, 38x32 cm",
-      "price": 70000,
-      "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🛋️"
-    },
-    {
       "id": "sala-106",
       "name": "Reloj Pared Símil Madera",
       "category": "Sala & Living",
