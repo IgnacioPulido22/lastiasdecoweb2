@@ -937,8 +937,10 @@
       "description": "Matera cuero negra alta, 24x20 cm",
       "price": 65000,
       "badge": "Destacado",
-      "color": "#E5D9C8",
-      "icon": "🧉"
+      "color": "#e5d9c8",
+      "icon": "🧉",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/MATERA%20CUERO%20NEGRA%20ALTA.jpg"
     },
     {
       "id": "sala-089",
@@ -3112,6 +3114,7 @@
     "sala-071": "default",
     "sala-073": "default",
     "sala-074": "default",
-    "sala-080": "default"
+    "sala-080": "default",
+    "sala-088": "default"
   }
 }
