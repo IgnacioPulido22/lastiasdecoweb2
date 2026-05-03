@@ -697,19 +697,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FRASCO%20VIDRIO%20PLATA%20X3.jpg"
     },
     {
-      "id": "sala-063",
-      "name": "Jarrón Florero Tornasol Liso",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Jarrón tornasol liso, 26x14 cm",
-      "price": 30000,
-      "badge": null,
-      "color": "#e5d9c8",
-      "icon": "🌸",
-      "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20LINEAS.jpg"
-    },
-    {
       "id": "sala-064",
       "name": "Jarrón Florero Tornasol Labrado",
       "category": "Sala & Living",
@@ -3146,7 +3133,6 @@
     "sala-059": "default",
     "sala-060": "default",
     "sala-061": "default",
-    "sala-062": "default",
-    "sala-063": "default"
+    "sala-062": "default"
   }
 }
