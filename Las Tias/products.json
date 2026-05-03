@@ -444,8 +444,10 @@
       "description": "Caramelera vidrio fumé, 10x7 cm",
       "price": 11500,
       "badge": null,
-      "color": "#DDD5C8",
-      "icon": "🍬"
+      "color": "#ddd5c8",
+      "icon": "🍬",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FRASCO%20FUME%20REDONDO.jpg"
     },
     {
       "id": "sala-041",
@@ -3118,6 +3120,7 @@
     "ilum-028": "default",
     "ilum-024": "default",
     "ilum-027": "default",
-    "sala-038": "default"
+    "sala-038": "default",
+    "sala-040": "default"
   }
 }
