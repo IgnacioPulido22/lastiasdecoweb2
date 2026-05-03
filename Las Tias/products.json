@@ -2644,14 +2644,16 @@
     },
     {
       "id": "arte-010",
-      "name": "Escultura Platón Gold Hombre",
+      "name": "Escultura Platón",
       "category": "Arte & Cuadros",
       "sectionId": "arte",
       "description": "Escultura Platón dorado hombre, 16x13 cm",
       "price": 30000,
       "badge": null,
-      "color": "#EDE9E1",
-      "icon": "🗿"
+      "color": "#ede9e1",
+      "icon": "🗿",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESCULTURA%20HOMBRE%20PENSANTE.jpg"
     },
     {
       "id": "arte-011",
