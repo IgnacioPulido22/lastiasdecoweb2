@@ -730,8 +730,10 @@
       "description": "Jarrón Rivoli, 26x11 cm",
       "price": 40000,
       "badge": null,
-      "color": "#E5D9C8",
-      "icon": "🌸"
+      "color": "#e5d9c8",
+      "icon": "🌸",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20BLANCO%20Y%20PLATA.jpg"
     },
     {
       "id": "sala-067",
@@ -3139,6 +3141,7 @@
     "sala-061": "default",
     "sala-062": "default",
     "sala-064": "default",
-    "sala-065": "default"
+    "sala-065": "default",
+    "sala-066": "default"
   }
 }
