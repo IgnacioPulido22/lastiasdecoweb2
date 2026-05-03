@@ -639,8 +639,10 @@
       "description": "Frasco decorativo con tapa labrado, 20x11 cm",
       "price": 12000,
       "badge": null,
-      "color": "#DDD5C8",
-      "icon": "🫙"
+      "color": "#ddd5c8",
+      "icon": "🫙",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FRASCO%20CON%20TAPA.jpg"
     },
     {
       "id": "sala-059",
@@ -3129,6 +3131,7 @@
     "sala-052": "default",
     "sala-053": "default",
     "sala-055": "default",
-    "sala-056": "default"
+    "sala-056": "default",
+    "sala-058": "default"
   }
 }
