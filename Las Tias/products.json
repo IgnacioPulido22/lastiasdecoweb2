@@ -2024,8 +2024,10 @@
       "description": "Dispenser París decorativo",
       "price": 11000,
       "badge": null,
-      "color": "#E2EEEC",
-      "icon": "🧴"
+      "color": "#e2eeec",
+      "icon": "🧴",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/DISPENSER%203%201.jpg"
     },
     {
       "id": "ban-011",
