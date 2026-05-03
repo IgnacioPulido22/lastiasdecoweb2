@@ -613,8 +613,10 @@
       "description": "Set 3 espejos plateados, 25 cm c/u",
       "price": 34000,
       "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🪞"
+      "color": "#ddd0bf",
+      "icon": "🪞",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESPEJOS%20SET%20X%203%20BLANCOS.jpg"
     },
     {
       "id": "sala-056",
@@ -3134,6 +3136,7 @@
     "sala-050": "default",
     "sala-051": "default",
     "sala-052": "default",
-    "sala-053": "default"
+    "sala-053": "default",
+    "sala-055": "default"
   }
 }
