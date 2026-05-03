@@ -1315,8 +1315,10 @@
       "description": "Bandeja espejo blanca con dorado, 43x24 cm",
       "price": 24000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🍽️"
+      "color": "#e8e4dc",
+      "icon": "🍽️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20METAL%20ORO.png"
     },
     {
       "id": "coc-007",
