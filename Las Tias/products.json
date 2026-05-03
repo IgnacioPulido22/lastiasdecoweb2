@@ -1091,8 +1091,10 @@
       "description": "Portarretrato vintage deco plateado, 13x18 cm",
       "price": 18000,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🖼️"
+      "color": "#e8ddd0",
+      "icon": "🖼️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Portarretrato%20Vintage%2013x18cm%20Deco%2036%20PLATA.png"
     },
     {
       "id": "sala-098",
@@ -3112,6 +3114,7 @@
     "sala-092": "default",
     "sala-094": "default",
     "sala-095": "default",
-    "sala-096": "default"
+    "sala-096": "default",
+    "sala-097": "default"
   }
 }
