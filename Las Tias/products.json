@@ -561,8 +561,10 @@
       "description": "Espejo circular con marco negro PVC, 50 cm",
       "price": 32000,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🪞"
+      "color": "#e8ddd0",
+      "icon": "🪞",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESPEJO%20DE%20PARED%20BLACK.jpg"
     },
     {
       "id": "sala-051",
@@ -3133,6 +3135,7 @@
     "sala-045": "default",
     "sala-046": "default",
     "sala-047": "default",
-    "sala-048": "default"
+    "sala-048": "default",
+    "sala-050": "default"
   }
 }
