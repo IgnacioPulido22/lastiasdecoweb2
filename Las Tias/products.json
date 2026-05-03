@@ -574,8 +574,10 @@
       "description": "Espejo de pared biselado con negro, 70x90 cm",
       "price": 170000,
       "badge": "Destacado",
-      "color": "#DDD0BF",
-      "icon": "🪞"
+      "color": "#ddd0bf",
+      "icon": "🪞",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESPEJO%20DE%20PARED%20BISELADO.png"
     },
     {
       "id": "sala-052",
@@ -3136,6 +3138,7 @@
     "sala-046": "default",
     "sala-047": "default",
     "sala-048": "default",
-    "sala-050": "default"
+    "sala-050": "default",
+    "sala-051": "default"
   }
 }
