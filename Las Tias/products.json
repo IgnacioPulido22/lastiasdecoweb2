@@ -1041,8 +1041,10 @@
       "description": "Portarretrato biselado, 13x18 cm",
       "price": 22000,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🖼️"
+      "color": "#e8ddd0",
+      "icon": "🖼️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/PORTARETRATO%2010X15.png"
     },
     {
       "id": "sala-094",
@@ -3118,6 +3120,7 @@
     "sala-095": "default",
     "sala-096": "default",
     "sala-097": "default",
-    "sala-098": "default"
+    "sala-098": "default",
+    "sala-093": "default"
   }
 }
