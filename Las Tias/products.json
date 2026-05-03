@@ -464,14 +464,16 @@
     },
     {
       "id": "sala-042",
-      "name": "Canastos Lienzo Paper Set x3",
+      "name": "Canasta Blanca",
       "category": "Sala & Living",
       "sectionId": "sala",
-      "description": "Set 3 canastos papel tejido, 34-28-23 cm",
+      "description": "Canasta Blanca",
       "price": 81900,
       "badge": null,
-      "color": "#E5D9C8",
-      "icon": "🧺"
+      "color": "#e5d9c8",
+      "icon": "🧺",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CESTA%20BLANCA%20Y%20NATURAL.jpg"
     },
     {
       "id": "sala-043",
@@ -3126,6 +3128,7 @@
     "ilum-027": "default",
     "sala-038": "default",
     "sala-040": "default",
-    "sala-041": "default"
+    "sala-041": "default",
+    "sala-042": "default"
   }
 }
