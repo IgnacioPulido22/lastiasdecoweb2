@@ -587,8 +587,10 @@
       "description": "Espejo biselado grande, 60x120 cm",
       "price": 140000,
       "badge": null,
-      "color": "#E5D9C8",
-      "icon": "🪞"
+      "color": "#e5d9c8",
+      "icon": "🪞",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESPEJO%20DE%20PARED%20BISELADO%20RECTANGULAR.jpg"
     },
     {
       "id": "sala-053",
@@ -3139,6 +3141,7 @@
     "sala-047": "default",
     "sala-048": "default",
     "sala-050": "default",
-    "sala-051": "default"
+    "sala-051": "default",
+    "sala-052": "default"
   }
 }
