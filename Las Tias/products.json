@@ -827,17 +827,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20BLANCO.jpg"
     },
     {
-      "id": "sala-077",
-      "name": "Jarrón Trocadero Plata Mediano",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Jarrón Trocadero plata, 24x14 cm",
-      "price": 34000,
-      "badge": null,
-      "color": "#E5D9C8",
-      "icon": "🌸"
-    },
-    {
       "id": "sala-078",
       "name": "Jarrón Nilo Blanco con Plateado",
       "category": "Sala & Living",
