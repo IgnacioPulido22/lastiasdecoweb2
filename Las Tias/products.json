@@ -847,8 +847,10 @@
       "description": "Maceta plateada, 13x11 cm",
       "price": 21000,
       "badge": null,
-      "color": "#E5D9C8",
-      "icon": "🌿"
+      "color": "#e5d9c8",
+      "icon": "🌿",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/MACETA%20PLATA.jpg"
     },
     {
       "id": "sala-081",
@@ -3109,6 +3111,7 @@
     "sala-070": "default",
     "sala-071": "default",
     "sala-073": "default",
-    "sala-074": "default"
+    "sala-074": "default",
+    "sala-080": "default"
   }
 }
