@@ -1671,8 +1671,10 @@
       "description": "Frutera de cristal, 23x24 cm",
       "price": 56000,
       "badge": "Destacado",
-      "color": "#EDE8E0",
-      "icon": "🍎"
+      "color": "#ede8e0",
+      "icon": "🍎",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FRUTERA%20VIDRIO.jpg"
     },
     {
       "id": "coc-038",
@@ -3049,6 +3051,7 @@
     "arte-020": "default",
     "sala-091": "default",
     "coc-025": "default",
-    "coc-026": "default"
+    "coc-026": "default",
+    "coc-037": "default"
   }
 }
