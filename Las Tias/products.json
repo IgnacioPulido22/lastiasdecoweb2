@@ -832,8 +832,10 @@
       "description": "Jarrón cerámica negro o blanco labrado, 20x10 cm",
       "price": 30000,
       "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🌸"
+      "color": "#ddd0bf",
+      "icon": "🌸",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20BLANCO.jpg"
     },
     {
       "id": "sala-075",
@@ -3161,6 +3163,7 @@
     "sala-069": "default",
     "sala-070": "default",
     "sala-071": "default",
-    "sala-073": "default"
+    "sala-073": "default",
+    "sala-074": "default"
   }
 }
