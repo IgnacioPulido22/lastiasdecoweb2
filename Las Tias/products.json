@@ -887,7 +887,8 @@
       "badge": "Destacado",
       "color": "#ddd0bf",
       "icon": "🌸",
-      "price_old": null
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20HOJITAS.jpg"
     },
     {
       "id": "sala-080",
