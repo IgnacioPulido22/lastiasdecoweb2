@@ -550,19 +550,6 @@
       "icon": "🧺"
     },
     {
-      "id": "sala-049",
-      "name": "Cesta con Tapa Set x3",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Set 3 cestas con tapa, 41-34-31 cm",
-      "price": 152000,
-      "badge": null,
-      "color": "#e5d9c8",
-      "icon": "🧺",
-      "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CESTA%20YUTE%20CON%20TAPA.jpg"
-    },
-    {
       "id": "sala-050",
       "name": "Espejo Circular Marco Negro 50cm",
       "category": "Sala & Living",
@@ -3108,7 +3095,6 @@
     "sala-032": "default",
     "sala-037": "default",
     "sala-039": "default",
-    "sala-049": "default",
     "coc-027": "default",
     "coc-028": "default",
     "coc-034": "default",
