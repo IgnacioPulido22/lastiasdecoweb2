@@ -963,8 +963,10 @@
       "description": "Matera cuero marrón, 20x20 cm",
       "price": 65000,
       "badge": null,
-      "color": "#DDD5C8",
-      "icon": "🧉"
+      "color": "#ddd5c8",
+      "icon": "🧉",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/MATERA%20CUERO%20MARRON.jpg"
     },
     {
       "id": "sala-091",
@@ -3118,6 +3120,7 @@
     "sala-074": "default",
     "sala-080": "default",
     "sala-088": "default",
-    "sala-089": "default"
+    "sala-089": "default",
+    "sala-090": "default"
   }
 }
