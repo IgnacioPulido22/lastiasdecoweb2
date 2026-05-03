@@ -503,14 +503,16 @@
     },
     {
       "id": "sala-045",
-      "name": "Canasto Ratán Cuadrados Set x3",
+      "name": "Canasto Yute",
       "category": "Sala & Living",
       "sectionId": "sala",
-      "description": "Set 3 canastos ratán cuadrados",
+      "description": "Canasto Yute",
       "price": 60000,
       "badge": null,
-      "color": "#E5D9C8",
-      "icon": "🧺"
+      "color": "#e5d9c8",
+      "icon": "🧺",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CESTA%20YUTE.jpg"
     },
     {
       "id": "sala-046",
@@ -3135,6 +3137,7 @@
     "sala-041": "default",
     "sala-042": "default",
     "sala-043": "default",
-    "sala-044": "default"
+    "sala-044": "default",
+    "sala-045": "default"
   }
 }
