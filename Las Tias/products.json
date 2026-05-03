@@ -1728,8 +1728,10 @@
       "description": "Jarra vidrio medidora, 14x9 cm",
       "price": 11000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🫙"
+      "color": "#e8e4dc",
+      "icon": "🫙",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRA%20MEDIDORA.jpg"
     },
     {
       "id": "coc-043",
@@ -3052,6 +3054,7 @@
     "sala-091": "default",
     "coc-025": "default",
     "coc-026": "default",
-    "coc-037": "default"
+    "coc-037": "default",
+    "coc-042": "default"
   }
 }
