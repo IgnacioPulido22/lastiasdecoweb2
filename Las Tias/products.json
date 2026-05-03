@@ -1536,8 +1536,10 @@
       "description": "Cafetera émbolo bambú, 1/2 litro",
       "price": 20000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "☕"
+      "color": "#e8e4dc",
+      "icon": "☕",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CAFETERA%20BAMBU.jpg"
     },
     {
       "id": "coc-027",
@@ -3046,6 +3048,7 @@
     "arte-018": "default",
     "arte-020": "default",
     "sala-091": "default",
-    "coc-025": "default"
+    "coc-025": "default",
+    "coc-026": "default"
   }
 }
