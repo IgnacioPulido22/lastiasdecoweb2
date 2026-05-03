@@ -1105,8 +1105,10 @@
       "description": "Puff cuadrado cuero negro, 36x38 cm",
       "price": 40000,
       "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🛋️"
+      "color": "#ddd0bf",
+      "icon": "🛋️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/PUFF%20CUADRADO%20CUERO.jpg"
     },
     {
       "id": "sala-100",
@@ -3097,6 +3099,7 @@
     "coc-032": "default",
     "coc-033": "default",
     "coc-035": "default",
-    "sala-079": "default"
+    "sala-079": "default",
+    "sala-099": "default"
   }
 }
