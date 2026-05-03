@@ -2325,8 +2325,10 @@
       "description": "Lámpara mesa luxury plateada, 30x56 cm",
       "price": 105000,
       "badge": null,
-      "color": "#EDE6D5",
-      "icon": "💡"
+      "color": "#ede6d5",
+      "icon": "💡",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Lámpara de mesa Luxury N2 PLATEADA.png"
     },
     {
       "id": "ilum-013",
