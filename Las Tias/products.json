@@ -1308,19 +1308,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20BAMBU.jpg"
     },
     {
-      "id": "coc-006",
-      "name": "Bandeja Rectangular Espejo Blanca Dorada",
-      "category": "Cocina & Comedor",
-      "sectionId": "cocina",
-      "description": "Bandeja espejo blanca con dorado, 43x24 cm",
-      "price": 24000,
-      "badge": null,
-      "color": "#e8e4dc",
-      "icon": "🍽️",
-      "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20METAL%20ORO.png"
-    },
-    {
       "id": "coc-007",
       "name": "Bandeja Gold Redonda 33cm",
       "category": "Cocina & Comedor",
@@ -2771,7 +2758,6 @@
     "coc-003": "Set de 6 copas de vino tinto de cristal soplado a boca con base fina y cuerpo amplio. Capacidad: 400 ml. Apto para lavavajillas en ciclo delicado. Altura: 23 cm. Presentadas en caja de regalo.",
     "coc-004": "Candelabro de comedor con 3 brazos de hierro forjado artesanalmente. Acabado dorado bruñido. Base estable con patas de terciopelo. Compatible con velas de tamaño estándar. Alto: 35 cm.",
     "coc-005": "Mantel de algodón orgánico certificado GOTS. Color crudo natural sin teñir. Tejido en telar artesanal. Medidas: 150×220 cm (para mesa de 8 personas). Lavable en máquina fría con detergente suave.",
-    "coc-006": "Set de 4 posavasos de piedra travertino natural pulida. Cada pieza con veta única. Absorben humedad sin deslizarse. Incluye soporte apilador de metal dorado. Diámetro: 10 cm.",
     "coc-007": "Jarra de vidrio borosilicato con tapa de corcho natural y asa de silicona. Resistente a temperaturas de -20°C a 120°C. Perfecta para agua infusionada, té o jugo. Capacidad: 1,5 L.",
     "coc-008": "Centro de mesa con peonías artificiales premium en florero de vidrio soplado. Flores con tacto y color realista. Altura total: 40 cm. No requiere agua. Diseñado por nuestra florista.",
     "coc-009": "Fuente oval de cerámica artesanal con esmalte blanco interior y borde pintado a mano en dorado. Apta para horno y lavavajillas. Medidas: 35×24×7 cm. Para servir entradas, postres o decorar.",
@@ -2905,7 +2891,6 @@
     "coc-003": "glasses_wine",
     "coc-004": "candelabra",
     "coc-005": "tablecloth",
-    "coc-006": "coasters",
     "coc-007": "jug",
     "coc-008": "vase",
     "coc-009": "bowl",
