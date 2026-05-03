@@ -1028,8 +1028,10 @@
       "description": "Portarretrato biselado, 10x15 cm",
       "price": 20000,
       "badge": null,
-      "color": "#E5D9C8",
-      "icon": "🖼️"
+      "color": "#e5d9c8",
+      "icon": "🖼️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/PORTARETRATO%2010X15.png"
     },
     {
       "id": "sala-093",
@@ -3100,6 +3102,7 @@
     "sala-103": "default",
     "sala-104": "default",
     "sala-109": "default",
-    "sala-107": "default"
+    "sala-107": "default",
+    "sala-092": "default"
   }
 }
