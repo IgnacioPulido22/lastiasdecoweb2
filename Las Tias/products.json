@@ -2698,8 +2698,10 @@
       "description": "Escultura ajedrez plateada, 21x9 cm",
       "price": 31000,
       "badge": null,
-      "color": "#EDE9E1",
-      "icon": "♟️"
+      "color": "#ede9e1",
+      "icon": "♟️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESCULTURA%20AJEDREZ.jpg"
     },
     {
       "id": "arte-017",
