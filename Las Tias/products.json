@@ -1065,8 +1065,10 @@
       "description": "Portarretrato vintage deco dorado, 13x18 cm",
       "price": 18000,
       "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🖼️"
+      "color": "#ddd0bf",
+      "icon": "🖼️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Portarretrato%20Vintage%2013x18cm%20Deco%2014%20ORO.png"
     },
     {
       "id": "sala-096",
@@ -3106,6 +3108,7 @@
     "sala-109": "default",
     "sala-107": "default",
     "sala-092": "default",
-    "sala-094": "default"
+    "sala-094": "default",
+    "sala-095": "default"
   }
 }
