@@ -1947,8 +1947,10 @@
       "description": "Kit baño con cesto, 6 piezas negro y bambú",
       "price": 50000,
       "badge": "Destacado",
-      "color": "#E8F0EE",
-      "icon": "🛁"
+      "color": "#e8f0ee",
+      "icon": "🛁",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/SET BAÑO BLACK.jpg"
     },
     {
       "id": "ban-004",
