@@ -2831,6 +2831,18 @@
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨"
+    },
+    {
+      "id": "sala-111",
+      "name": "Borla Decorativa",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "Borla Decorativa",
+      "price": 10999,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨"
     }
   ],
   "gallery": {
@@ -3219,6 +3231,7 @@
     "sala-024": "default",
     "sala-023": "default",
     "sala-026": "default",
-    "sala-110": "default"
+    "sala-110": "default",
+    "sala-111": "default"
   }
 }
