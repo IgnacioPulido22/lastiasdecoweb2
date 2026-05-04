@@ -1628,8 +1628,10 @@
       "description": "Comedero doble perro grande, 34x17x9 cm",
       "price": 32000,
       "badge": null,
-      "color": "#EDE8E0",
-      "icon": "🐾"
+      "color": "#ede8e0",
+      "icon": "🐾",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193615.png"
     },
     {
       "id": "coc-030",
@@ -3360,6 +3362,7 @@
     "coc-040": "default",
     "coc-039": "default",
     "coc-038": "default",
-    "coc-030": "default"
+    "coc-030": "default",
+    "coc-029": "default"
   }
 }
