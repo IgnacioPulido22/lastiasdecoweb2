@@ -2452,8 +2452,10 @@
       "description": "Lámpara mesa design negra y plata, 30x64 cm",
       "price": 125000,
       "badge": "Destacado",
-      "color": "#EDE6D5",
-      "icon": "💡"
+      "color": "#ede6d5",
+      "icon": "💡",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Lámpara de mesa Design NEGRA PLATA.png"
     },
     {
       "id": "ilum-021",
@@ -3136,6 +3138,7 @@
     "coc-044": "default",
     "coc-045": "default",
     "ilum-018": "default",
-    "ilum-019": "default"
+    "ilum-019": "default",
+    "ilum-020": "default"
   }
 }
