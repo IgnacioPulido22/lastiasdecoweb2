@@ -912,8 +912,10 @@
       "description": "Manta de corderito suave",
       "price": 40000,
       "badge": null,
-      "color": "#E5D9C8",
-      "icon": "🧣"
+      "color": "#e5d9c8",
+      "icon": "🧣",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20191533.png"
     },
     {
       "id": "sala-085",
@@ -3240,6 +3242,7 @@
     "sala-110": "default",
     "sala-111": "default",
     "sala-027": "default",
-    "sala-083": "default"
+    "sala-083": "default",
+    "sala-084": "default"
   }
 }
