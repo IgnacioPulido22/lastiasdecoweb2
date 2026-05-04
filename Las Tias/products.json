@@ -2182,8 +2182,10 @@
       "description": "Pesa de puerta yute, 20x20 cm",
       "price": 20000,
       "badge": null,
-      "color": "#D8E8D4",
-      "icon": "🪴"
+      "color": "#d8e8d4",
+      "icon": "🪴",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/pesa%20de%20puerta%201%201.png"
     },
     {
       "id": "jard-006",
@@ -2748,6 +2750,9 @@
     ],
     "ilum-008": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/LAMPARA%20USB%20NEGRA.jpg"
+    ],
+    "jard-005": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/pesa%20de%20puerta%20cairel%201%201.png"
     ]
   },
   "details": {
