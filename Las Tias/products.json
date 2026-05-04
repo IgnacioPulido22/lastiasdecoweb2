@@ -1971,8 +1971,9 @@
       "description": "Cesto basura mármol blanco, 21x25 cm",
       "price": 28000,
       "badge": null,
-      "color": "#E8F0EE",
-      "icon": "🗑️"
+      "color": "#e8f0ee",
+      "icon": "🗑️",
+      "price_old": null
     },
     {
       "id": "ban-006",
