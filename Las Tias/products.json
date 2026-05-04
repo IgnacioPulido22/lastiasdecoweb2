@@ -99,8 +99,10 @@
       "description": "Almohadón largo, 40x120 cm",
       "price": 49500,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🛋️"
+      "color": "#e8ddd0",
+      "icon": "🛋️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ALMOHADON%2040X120.png"
     },
     {
       "id": "sala-010",
