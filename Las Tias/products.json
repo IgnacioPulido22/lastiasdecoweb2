@@ -357,8 +357,10 @@
       "description": "Camino tejido, 250 cm largo x 45 cm ancho",
       "price": 14500,
       "badge": null,
-      "color": "#E5D9C8",
-      "icon": "🪡"
+      "color": "#e5d9c8",
+      "icon": "🪡",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20191444.png"
     },
     {
       "id": "sala-030",
@@ -3269,6 +3271,7 @@
     "sala-086": "default",
     "sala-087": "default",
     "sala-028": "default",
-    "sala-112": "default"
+    "sala-112": "default",
+    "sala-029": "default"
   }
 }
