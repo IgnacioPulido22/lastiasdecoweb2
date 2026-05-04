@@ -2195,8 +2195,10 @@
       "description": "Pesa de puerta Florencia con puntillas, 20x20 cm",
       "price": 20000,
       "badge": null,
-      "color": "#D2E2CE",
-      "icon": "🪴"
+      "color": "#d2e2ce",
+      "icon": "🪴",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/PESA%20PUERTA%202%202.png"
     },
     {
       "id": "ilum-001",
@@ -2753,6 +2755,9 @@
     ],
     "jard-005": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/pesa%20de%20puerta%20cairel%201%201.png"
+    ],
+    "jard-006": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/PESA%20PUERTA%20CAIREL%202%201.png"
     ]
   },
   "details": {
