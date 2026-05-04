@@ -2439,8 +2439,10 @@
       "description": "Lámpara mesa modern plateada, 32x65 cm",
       "price": 120000,
       "badge": null,
-      "color": "#F2EAD8",
-      "icon": "💡"
+      "color": "#f2ead8",
+      "icon": "💡",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Lámpara de mesa Design NEGRA PLATA.png"
     },
     {
       "id": "ilum-020",
@@ -3133,6 +3135,7 @@
     "coc-043": "default",
     "coc-044": "default",
     "coc-045": "default",
-    "ilum-018": "default"
+    "ilum-018": "default",
+    "ilum-019": "default"
   }
 }
