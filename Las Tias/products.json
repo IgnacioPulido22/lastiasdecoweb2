@@ -1344,8 +1344,10 @@
       "description": "Balanza personal digital, 28x28 cm",
       "price": 40000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "⚖️"
+      "color": "#e8e4dc",
+      "icon": "⚖️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20194019.png"
     },
     {
       "id": "coc-005",
