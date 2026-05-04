@@ -24,7 +24,7 @@
       "color": "#ddd5c8",
       "icon": "🪡",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ALFOMBRA%20GEOHANDIRA%20CLASICA%201.55X2.00.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20205402.png"
     },
     {
       "id": "sala-003",
@@ -3019,6 +3019,7 @@
     "sala-003": "Cojín decorativo de algodón 100% bordado a mano por artesanas marroquíes. Diseño geométrico en hilos naturales. Incluye relleno de pluma sintética hipoalergénica. Funda con cierre invisible. Medida: 50×50 cm.",
     "sala-004": "Vela artesanal de cera de soja 100% natural con fragancia de lavanda provenzal y vainilla bourbon. Pabilo de algodón sin plomo. Tiempo de combustión: 45 horas. En recipiente de vidrio reutilizable. 200 g.",
     "sala-005": "Mesa lateral de madera de mango macizo con patas en hierro pintado en dorado mate. Diseño industrial-bohemio. Resistente y funcional. Dimensiones: 45×45×55 cm alto. Requiere armado mínimo.",
+    "sala-006": "Set de 3 portavelas de hierro forjado artesanalmente en alturas escalonadas: 15, 22 y 30 cm. Acabado negro con reflejos dorados envejecidos. Compatible con velas estándar de pilar. Base estable.",
     "sala-007": "Alfombra de fibra natural yute y algodón trenzados a mano. Diseño bohemio con motivos étnicos en colores naturales. Antideslizante natural. Lavado en seco recomendado. Medida: 120×180 cm.",
     "sala-008": "Set de 3 marcos para fotos en madera de pino lacada en dorado. Tamaños: 10×15, 15×20 y 20×25 cm. Vidrio anti-reflejo incluido. Pueden colgarse en pared o apoyarse en estante. Diseño art-déco.",
     "sala-009": "Taza de cerámica artesanal elaborada en torno de alfarero. Esmaltado interior en blanco y exterior en tonos terracota y crema. Apta para microondas y lavavajillas. Capacidad: 350 ml.",
@@ -3155,6 +3156,7 @@
     "sala-003": "pillow",
     "sala-004": "candle",
     "sala-005": "shelf",
+    "sala-006": "candle_set",
     "sala-007": "rug",
     "sala-008": "frame",
     "sala-009": "bowl",
