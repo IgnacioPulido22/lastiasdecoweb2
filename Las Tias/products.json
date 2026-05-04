@@ -1837,8 +1837,10 @@
       "description": "Organizador bambú plegable negro/gris",
       "price": 25000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🗂️"
+      "color": "#e8e4dc",
+      "icon": "🗂️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193333.png"
     },
     {
       "id": "coc-047",
@@ -3342,6 +3344,7 @@
     "coc-058": "default",
     "coc-048": "default",
     "coc-059": "default",
-    "coc-047": "default"
+    "coc-047": "default",
+    "coc-046": "default"
   }
 }
