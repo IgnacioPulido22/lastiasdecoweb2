@@ -2476,8 +2476,10 @@
       "description": "Velador vidrio diamante, 38 cm",
       "price": 70000,
       "badge": null,
-      "color": "#EEE4D4",
-      "icon": "💡"
+      "color": "#eee4d4",
+      "icon": "💡",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/LAMPARA%20VELADOR%20VIDRIO%20DIAMANTE%201.jpg"
     },
     {
       "id": "ilum-023",
@@ -3139,6 +3141,7 @@
     "coc-045": "default",
     "ilum-018": "default",
     "ilum-019": "default",
-    "ilum-020": "default"
+    "ilum-020": "default",
+    "ilum-022": "default"
   }
 }
