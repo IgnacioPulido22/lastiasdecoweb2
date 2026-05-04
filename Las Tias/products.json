@@ -235,17 +235,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20184641.png"
     },
     {
-      "id": "sala-020",
-      "name": "Almohadón Hilo Ochos 60x60",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Almohadón con hilo y ochos, 60x60 cm",
-      "price": 41000,
-      "badge": null,
-      "color": "#E5D9C8",
-      "icon": "🛋️"
-    },
-    {
       "id": "sala-021",
       "name": "Almohadón Piel Bisón 50x50",
       "category": "Sala & Living",
@@ -3033,7 +3022,6 @@
     "sala-017": "Cactus artificial de alta calidad con textura realista, en maceta de cerámica artesanal blanca. No requiere agua ni sol. Perfecto para espacios sin luz natural. Alto total: 45 cm. Libre de mantenimiento.",
     "sala-018": "Repisa flotante de madera de roble macizo con sistema de montaje oculto para aspecto limpio. Incluye tarugos y tornillos. Soporta hasta 15 kg. Largo: 60 cm, profundidad: 20 cm.",
     "sala-019": "Set de 4 portavelas de vidrio borosilicato soplado en diferentes tamaños (8, 12, 16 y 20 cm) con estructura de metal en dorado. Compatible con velas tea light y de pilar.",
-    "sala-020": "Maceta artesanal de terracota cocida a alta temperatura con motivos geométricos grabados a mano. Incluye plato base. Diámetro: 18 cm. Apta para interior y exterior. Sin tratamiento para mejor transpiración de raíces.",
     "sala-021": "Cuenco de cerámica artesanal con esmalte interior en blanco brillante y exterior en crema mate con borde dorado. Fabricado en torno. Apto para uso decorativo. Diámetro: 22 cm.",
     "sala-022": "Lámpara de mesa con base de mármol Carrara natural y pantalla de lino crudo. Cable textil dorado. Incluye bombilla LED E27 cálida. Altura total: 52 cm. Interruptor en el cable.",
     "dorm-001": "Almohadón king de pluma y plumón natural con funda de algodón mercerizado 600 hilos. Relleno que se adapta a tu posición de descanso. Lavable en máquina hasta 40°C. Medidas: 90×70 cm.",
@@ -3170,7 +3158,6 @@
     "sala-017": "cactus",
     "sala-018": "shelf",
     "sala-019": "candle_set",
-    "sala-020": "plant_pot",
     "sala-021": "bowl",
     "sala-022": "table_lamp",
     "dorm-001": "pillow_large",
