@@ -2155,8 +2155,10 @@
       "description": "Espejo baño cuadrado doble faz con base, 28x15 cm",
       "price": 16000,
       "badge": null,
-      "color": "#E8F0EE",
-      "icon": "🪞"
+      "color": "#e8f0ee",
+      "icon": "🪞",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193055.png"
     },
     {
       "id": "ban-016",
