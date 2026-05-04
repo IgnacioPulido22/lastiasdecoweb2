@@ -2489,8 +2489,10 @@
       "description": "Velador doble esfera vidrio, 29 cm",
       "price": 55000,
       "badge": null,
-      "color": "#F2EAD8",
-      "icon": "💡"
+      "color": "#f2ead8",
+      "icon": "💡",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/LAMPARA%20VELADOR%20DOBLE%20ESFERA%20VIDRIO%2029CM.jpg"
     },
     {
       "id": "ilum-024",
@@ -3142,6 +3144,7 @@
     "ilum-018": "default",
     "ilum-019": "default",
     "ilum-020": "default",
-    "ilum-022": "default"
+    "ilum-022": "default",
+    "ilum-023": "default"
   }
 }
