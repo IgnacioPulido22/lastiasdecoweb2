@@ -2166,8 +2166,10 @@
       "description": "Espejo baño circular bifaz con pie, 26x17 cm",
       "price": 16000,
       "badge": null,
-      "color": "#E2EEEC",
-      "icon": "🪞"
+      "color": "#e2eeec",
+      "icon": "🪞",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20195748.png"
     },
     {
       "id": "ban-017",
