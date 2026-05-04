@@ -86,8 +86,10 @@
       "description": "Almohadón copito gris, 50x70 cm",
       "price": 35900,
       "badge": null,
-      "color": "#DDD5C8",
-      "icon": "🛋️"
+      "color": "#ddd5c8",
+      "icon": "🛋️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ALMOHADON%2050X70%20COPITO%20GRIS.png"
     },
     {
       "id": "sala-009",
