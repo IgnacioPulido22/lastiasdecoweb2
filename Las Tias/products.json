@@ -951,8 +951,10 @@
       "description": "Manta grande, 190x150 cm",
       "price": 35000,
       "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🧣"
+      "color": "#ddd0bf",
+      "icon": "🧣",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20191614.png"
     },
     {
       "id": "sala-088",
@@ -3249,6 +3251,7 @@
     "sala-083": "default",
     "sala-084": "default",
     "sala-085": "default",
-    "sala-086": "default"
+    "sala-086": "default",
+    "sala-087": "default"
   }
 }
