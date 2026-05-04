@@ -331,8 +331,10 @@
       "description": "Borla decorativa para cortinas o sillones",
       "price": 11000,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "✨"
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20190836.png"
     },
     {
       "id": "sala-028",
@@ -3232,6 +3234,7 @@
     "sala-023": "default",
     "sala-026": "default",
     "sala-110": "default",
-    "sala-111": "default"
+    "sala-111": "default",
+    "sala-027": "default"
   }
 }
