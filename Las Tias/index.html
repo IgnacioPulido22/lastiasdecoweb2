@@ -1801,7 +1801,8 @@
     }
     @media (max-width: 900px) {
       .hero-inner { grid-template-columns: 1fr; }
-      .hero-visual { display: none; }
+      .hero-visual { display: block; width: 100%; aspect-ratio: 9/16; max-height: 70vh; margin: 0 auto; }
+      .hero-visual::after { display: none; }
       .nav-links { display: none; }
       .nav-mobile-toggle { display: flex; }
       .footer-top { grid-template-columns: 1fr; gap: 32px; }
@@ -1951,7 +1952,7 @@
       <div class="hero-visual">
         <div class="hero-video-wrap">
           <iframe
-            src="https://www.youtube.com/embed/Wo0qOTZjHy4?autoplay=1&mute=1&loop=1&playlist=Wo0qOTZjHy4&controls=0&rel=0&modestbranding=1&playsinline=1"
+            src="https://www.youtube.com/embed/nTErDokzLOQ?autoplay=1&mute=1&loop=1&playlist=nTErDokzLOQ&controls=0&rel=0&modestbranding=1&playsinline=1"
             allow="autoplay; encrypted-media"
             allowfullscreen
             title="Las Tías"></iframe>
