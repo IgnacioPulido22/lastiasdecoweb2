@@ -1660,8 +1660,10 @@
       "description": "Escurridor de platos, 44x29 cm",
       "price": 41000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🍽️"
+      "color": "#e8e4dc",
+      "icon": "🍽️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/SECAPLATOS%20BLACK.jpg"
     },
     {
       "id": "coc-037",
@@ -3148,6 +3150,7 @@
     "ilum-020": "default",
     "ilum-022": "default",
     "ilum-023": "default",
-    "ilum-021": "default"
+    "ilum-021": "default",
+    "coc-036": "default"
   }
 }
