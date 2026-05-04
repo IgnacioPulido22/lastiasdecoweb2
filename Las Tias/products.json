@@ -60,8 +60,10 @@
       "description": "Alfombra de vellón, 60x100 cm",
       "price": 27000,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🪡"
+      "color": "#e8ddd0",
+      "icon": "🪡",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ALFOMBRA%20VELLON%2060X100.png"
     },
     {
       "id": "sala-007",
