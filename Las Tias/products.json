@@ -2465,8 +2465,10 @@
       "description": "Velador bocha vidrio porcelana gris, 29 cm",
       "price": 55000,
       "badge": null,
-      "color": "#F0E8D8",
-      "icon": "💡"
+      "color": "#f0e8d8",
+      "icon": "💡",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/LAMPARA%20VELADOR%20BOCHA%20VIDRIO%20PORCELANA%20GRIS.jpg"
     },
     {
       "id": "ilum-022",
@@ -3145,6 +3147,7 @@
     "ilum-019": "default",
     "ilum-020": "default",
     "ilum-022": "default",
-    "ilum-023": "default"
+    "ilum-023": "default",
+    "ilum-021": "default"
   }
 }
