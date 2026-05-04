@@ -1741,8 +1741,10 @@
       "description": "Individual mimbre redondo, 35 cm diám.",
       "price": 10000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🍽️"
+      "color": "#e8e4dc",
+      "icon": "🍽️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193523.png"
     },
     {
       "id": "coc-039",
@@ -3354,6 +3356,7 @@
     "coc-046": "default",
     "coc-041": "default",
     "coc-040": "default",
-    "coc-039": "default"
+    "coc-039": "default",
+    "coc-038": "default"
   }
 }
