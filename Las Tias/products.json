@@ -2133,8 +2133,10 @@
       "description": "Espejo de baño con strass, 33x19 cm",
       "price": 20700,
       "badge": null,
-      "color": "#E8F0EE",
-      "icon": "🪞"
+      "color": "#e8f0ee",
+      "icon": "🪞",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193001.png"
     },
     {
       "id": "ban-014",
