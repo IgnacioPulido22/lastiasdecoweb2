@@ -229,8 +229,10 @@
       "description": "Almohadón rectangular Picasso bisón",
       "price": 35000,
       "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🛋️"
+      "color": "#ddd0bf",
+      "icon": "🛋️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20184641.png"
     },
     {
       "id": "sala-020",
