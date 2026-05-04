@@ -368,6 +368,21 @@
       color: rgba(168,132,63,0.4);
       letter-spacing: 0.1em;
     }
+    .hero-video-wrap {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+    }
+    .hero-video-wrap iframe {
+      position: absolute;
+      width: 100%;
+      height: 177.78%;
+      top: 50%;
+      left: 0;
+      transform: translateY(-50%);
+      border: none;
+      pointer-events: none;
+    }
     .hero-float-tag {
       position: absolute;
       top: 40px;
@@ -1934,6 +1949,13 @@
         </a>
       </div>
       <div class="hero-visual">
+        <div class="hero-video-wrap">
+          <iframe
+            src="https://www.youtube.com/embed/Wo0qOTZjHy4?autoplay=1&mute=1&loop=1&playlist=Wo0qOTZjHy4&controls=0&rel=0&modestbranding=1&playsinline=1"
+            allow="autoplay; encrypted-media"
+            allowfullscreen
+            title="Las Tías"></iframe>
+        </div>
         <div class="hero-float-tag">
           <p>280+</p>
           <p>Piezas seleccionadas</p>
