@@ -1462,7 +1462,7 @@
       "color": "#e8e4dc",
       "icon": "🍽️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20METAL%20ORO.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193709.png"
     },
     {
       "id": "coc-016",
@@ -2963,6 +2963,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193425.png"
+    },
+    {
+      "id": "coc-060",
+      "name": "Bandejas Caladas Dorada",
+      "category": "Cocina & Comedor",
+      "sectionId": "cocina",
+      "description": "Set 2 bandejas caladas plata, 34x24 y 28x19 cm",
+      "price": 60000,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8e4dc",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193709.png"
     }
   ],
   "gallery": {
@@ -3115,7 +3128,8 @@
     "arte-014": "Reproducción de litografía parisina estilo Belle Époque con motivos florales. Impresión sobre papel texturado. Marco ovalado de madera dorada con filete. Medidas: 30×40 cm. Muy decorativa.",
     "arte-015": "Móvil artístico de latón dorado con formas geométricas abstractas e hilo de nylon invisible. Se mueve con la brisa. Colgante de 80 cm. Ideal para dormitorios, espacios de meditación y jardines.",
     "arte-016": "Óleo original sobre tela de lino con texturas en relieve. Tonos terracota, siena y dorado con toques de negro. Técnica mixta con espátula. Firmado. Con certificado. Medidas: 80×100 cm. Sin marco.",
-    "arte-017": "Ilustración a tinta china sobre papel de algodón 300 g. Arquitectura neoclásica romana con fina línea técnica. Edición de 30 ejemplares numerada y firmada. Marco de aluminio negro. 30×40 cm."
+    "arte-017": "Ilustración a tinta china sobre papel de algodón 300 g. Arquitectura neoclásica romana con fina línea técnica. Edición de 30 ejemplares numerada y firmada. Marco de aluminio negro. 30×40 cm.",
+    "coc-060": "Set de 4 cuchillos para queso con mango de madera de oliva y hoja de acero inoxidable dorado. Incluye: espada, tenedor de 2 puntas, pala y cincel. Presentados en caja de madera grabada."
   },
   "svgMap": {
     "sala-001": "vase",
@@ -3374,6 +3388,7 @@
     "coc-039": "default",
     "coc-038": "default",
     "coc-030": "default",
-    "coc-029": "default"
+    "coc-029": "default",
+    "coc-060": "cutlery"
   }
 }
