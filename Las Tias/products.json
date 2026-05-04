@@ -216,8 +216,10 @@
       "description": "Almohadón rectangular lana con ochos tejidos",
       "price": 32500,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🛋️"
+      "color": "#e8ddd0",
+      "icon": "🛋️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20184630.png"
     },
     {
       "id": "sala-019",
