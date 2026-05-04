@@ -2620,8 +2620,10 @@
       "description": "Tira luces LED, 50x4 cm",
       "price": 42000,
       "badge": null,
-      "color": "#F0E8D8",
-      "icon": "✨"
+      "color": "#f0e8d8",
+      "icon": "✨",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20192157.png"
     },
     {
       "id": "arte-001",
@@ -3278,6 +3280,7 @@
     "sala-087": "default",
     "sala-028": "default",
     "sala-112": "default",
-    "sala-029": "default"
+    "sala-029": "default",
+    "ilum-029": "default"
   }
 }
