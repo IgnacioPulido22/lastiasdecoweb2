@@ -2670,8 +2670,10 @@
       "description": "Set 4 cuadros calados Torre de Pizza, 60x30 cm",
       "price": 36000,
       "badge": null,
-      "color": "#EDE9E1",
-      "icon": "🎨"
+      "color": "#ede9e1",
+      "icon": "🎨",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20192127.png"
     },
     {
       "id": "arte-005",
