@@ -297,8 +297,10 @@
       "description": "Almohadón con nudo decorativo blanco",
       "price": 31000,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🛋️"
+      "color": "#e8ddd0",
+      "icon": "🛋️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20184520.png"
     },
     {
       "id": "sala-026",
@@ -3190,6 +3192,7 @@
     "ilum-021": "default",
     "coc-036": "default",
     "coc-031": "default",
-    "ban-018": "default"
+    "ban-018": "default",
+    "sala-025": "default"
   }
 }
