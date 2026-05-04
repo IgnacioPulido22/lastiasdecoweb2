@@ -2726,8 +2726,10 @@
       "description": "Escultura Torre Eiffel plateada, 31x13 cm",
       "price": 50000,
       "badge": null,
-      "color": "#EDE9E1",
-      "icon": "🗼"
+      "color": "#ede9e1",
+      "icon": "🗼",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-03%20at%2016.36.02.jpeg"
     },
     {
       "id": "arte-016",
