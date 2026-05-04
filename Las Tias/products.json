@@ -2020,8 +2020,10 @@
       "description": "Cesto basura mármol negro, 21x25 cm",
       "price": 28000,
       "badge": null,
-      "color": "#E2EEEC",
-      "icon": "🗑️"
+      "color": "#e2eeec",
+      "icon": "🗑️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193136.png"
     },
     {
       "id": "ban-005",
