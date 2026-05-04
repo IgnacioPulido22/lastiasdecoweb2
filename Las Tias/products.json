@@ -2757,8 +2757,10 @@
       "description": "Escultura cadena plateada, 23x10 cm",
       "price": 20000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "✨"
+      "color": "#e8e4dc",
+      "icon": "✨",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20192058.png"
     },
     {
       "id": "arte-012",
