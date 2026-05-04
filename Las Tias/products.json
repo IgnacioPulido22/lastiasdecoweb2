@@ -1928,8 +1928,10 @@
       "description": "Kit baño cerámica negro, 4 piezas",
       "price": 41000,
       "badge": null,
-      "color": "#E8F0EE",
-      "icon": "🛁"
+      "color": "#e8f0ee",
+      "icon": "🛁",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-03%20at%2016.33.04%201.jpeg"
     },
     {
       "id": "ban-002",
