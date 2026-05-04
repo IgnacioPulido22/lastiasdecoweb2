@@ -2400,8 +2400,10 @@
       "description": "Lámpara mesa luxury plateada con vidrio, 28x51 cm",
       "price": 95000,
       "badge": null,
-      "color": "#EDE6D5",
-      "icon": "💡"
+      "color": "#ede6d5",
+      "icon": "💡",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Lámpara de mesa Luxury N8 PLATEADA CON VIDRIO.png"
     },
     {
       "id": "ilum-017",
