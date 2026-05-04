@@ -2242,8 +2242,10 @@
       "description": "Pesa de puerta decorativa",
       "price": 11000,
       "badge": null,
-      "color": "#D5E5D1",
-      "icon": "🪴"
+      "color": "#d5e5d1",
+      "icon": "🪴",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20192512.png"
     },
     {
       "id": "jard-005",
