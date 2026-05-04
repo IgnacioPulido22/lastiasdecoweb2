@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="50" fill="white"/>
+  <circle cx="50" cy="50" r="47" fill="none" stroke="#111" stroke-width="1.5"/>
+  <circle cx="50" cy="50" r="42" fill="none" stroke="#111" stroke-width="0.7"/>
+  <!-- Rama -->
+  <line x1="21" y1="42" x2="23" y2="63" stroke="#111" stroke-width="1.2"/>
+  <ellipse cx="25" cy="43" rx="4" ry="6.5" transform="rotate(-35 25 43)" fill="#111"/>
+  <ellipse cx="22" cy="50" rx="4" ry="6.5" transform="rotate(-10 22 50)" fill="#111"/>
+  <ellipse cx="24" cy="58" rx="4" ry="6.5" transform="rotate(20 24 58)" fill="#111"/>
+  <!-- Las Tias -->
+  <text x="55" y="52" text-anchor="middle"
+    font-family="Georgia,'Times New Roman',serif"
+    font-style="italic" font-size="23" fill="#111">Las Tias</text>
+  <!-- DECO -->
+  <text x="55" y="64" text-anchor="middle"
+    font-family="Arial,sans-serif"
+    font-size="9.5" letter-spacing="3" fill="#111">DECO</text>
+</svg>
