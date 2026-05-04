@@ -2137,8 +2137,10 @@
       "description": "Set completo de 5 peines",
       "price": 32000,
       "badge": null,
-      "color": "#E2EEEC",
-      "icon": "💇"
+      "color": "#e2eeec",
+      "icon": "💇",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-03%20at%2016.27.54.jpeg"
     },
     {
       "id": "jard-001",
@@ -3164,6 +3166,7 @@
     "ilum-023": "default",
     "ilum-021": "default",
     "coc-036": "default",
-    "coc-031": "default"
+    "coc-031": "default",
+    "ban-018": "default"
   }
 }
