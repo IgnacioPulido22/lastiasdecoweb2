@@ -275,8 +275,10 @@
       "description": "Almohadón corderoy cuadrado",
       "price": 40000,
       "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🛋️"
+      "color": "#ddd0bf",
+      "icon": "🛋️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20184400.png"
     },
     {
       "id": "sala-024",
@@ -3196,6 +3198,7 @@
     "coc-031": "default",
     "ban-018": "default",
     "sala-025": "default",
-    "sala-024": "default"
+    "sala-024": "default",
+    "sala-023": "default"
   }
 }
