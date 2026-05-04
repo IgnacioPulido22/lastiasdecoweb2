@@ -2305,8 +2305,10 @@
       "description": "Lámpara con lamparita granitos, 69x15 cm",
       "price": 130000,
       "badge": null,
-      "color": "#F2EAD8",
-      "icon": "💡"
+      "color": "#f2ead8",
+      "icon": "💡",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20192421.png"
     },
     {
       "id": "ilum-004",
