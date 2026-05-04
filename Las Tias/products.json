@@ -2390,8 +2390,10 @@
       "description": "Lámpara de sal Torre Eiffel plata",
       "price": 120000,
       "badge": null,
-      "color": "#EEE4D4",
-      "icon": "🪨"
+      "color": "#eee4d4",
+      "icon": "🪨",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20192247.png"
     },
     {
       "id": "ilum-011",
