@@ -164,8 +164,10 @@
       "description": "Almohadón rayas marrón, 40x40 cm",
       "price": 24000,
       "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🛋️"
+      "color": "#ddd0bf",
+      "icon": "🛋️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ALMOHADON%2040X40%20RAYA%20MARRON.png"
     },
     {
       "id": "sala-015",
