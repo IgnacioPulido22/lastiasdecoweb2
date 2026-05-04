@@ -318,8 +318,10 @@
       "description": "Almohadón de piel gris",
       "price": 40000,
       "badge": null,
-      "color": "#DDD5C8",
-      "icon": "🛋️"
+      "color": "#ddd5c8",
+      "icon": "🛋️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20184607.png"
     },
     {
       "id": "sala-027",
@@ -3203,6 +3205,7 @@
     "ban-018": "default",
     "sala-025": "default",
     "sala-024": "default",
-    "sala-023": "default"
+    "sala-023": "default",
+    "sala-026": "default"
   }
 }
