@@ -2908,6 +2908,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20191413.png"
+    },
+    {
+      "id": "coc-058",
+      "name": "Kit Asado",
+      "category": "Cocina & Comedor",
+      "sectionId": "cocina",
+      "description": "Kit Asado",
+      "price": 20998,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193232.png"
     }
   ],
   "gallery": {
@@ -3308,6 +3321,7 @@
     "sala-112": "default",
     "sala-029": "default",
     "ilum-029": "default",
-    "coc-049": "default"
+    "coc-049": "default",
+    "coc-058": "default"
   }
 }
