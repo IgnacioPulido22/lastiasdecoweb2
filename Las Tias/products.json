@@ -925,8 +925,10 @@
       "description": "Manta flor mocca, 120x200 cm",
       "price": 39800,
       "badge": null,
-      "color": "#E8DDD0",
-      "icon": "🧣"
+      "color": "#e8ddd0",
+      "icon": "🧣",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20191555.png"
     },
     {
       "id": "sala-086",
@@ -3243,6 +3245,7 @@
     "sala-111": "default",
     "sala-027": "default",
     "sala-083": "default",
-    "sala-084": "default"
+    "sala-084": "default",
+    "sala-085": "default"
   }
 }
