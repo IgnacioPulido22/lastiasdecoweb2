@@ -2859,6 +2859,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20190907.png"
+    },
+    {
+      "id": "sala-112",
+      "name": "Botella Decorativa 1 Lt.",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "Botella Decorativa 1 Lt.",
+      "price": 11000,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20191413.png"
     }
   ],
   "gallery": {
@@ -3255,6 +3268,7 @@
     "sala-085": "default",
     "sala-086": "default",
     "sala-087": "default",
-    "sala-028": "default"
+    "sala-028": "default",
+    "sala-112": "default"
   }
 }
