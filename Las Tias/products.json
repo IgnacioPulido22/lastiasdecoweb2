@@ -1272,8 +1272,10 @@
       "description": "Cesto laundry cuadrado negro, 58x29 cm",
       "price": 19000,
       "badge": null,
-      "color": "#DDD8D2",
-      "icon": "🧺"
+      "color": "#ddd8d2",
+      "icon": "🧺",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20201018.png"
     },
     {
       "id": "dorm-008",
