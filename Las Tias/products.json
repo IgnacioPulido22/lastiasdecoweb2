@@ -1763,8 +1763,10 @@
       "description": "Individual gris hilo redondo, 36 cm diám.",
       "price": 7000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🍽️"
+      "color": "#e8e4dc",
+      "icon": "🍽️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193503.png"
     },
     {
       "id": "coc-041",
@@ -3348,6 +3350,7 @@
     "coc-059": "default",
     "coc-047": "default",
     "coc-046": "default",
-    "coc-041": "default"
+    "coc-041": "default",
+    "coc-040": "default"
   }
 }
