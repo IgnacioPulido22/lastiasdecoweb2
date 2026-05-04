@@ -2426,8 +2426,10 @@
       "description": "Lámpara cerámica negro, 26x50 cm",
       "price": 85000,
       "badge": null,
-      "color": "#EEE4D4",
-      "icon": "💡"
+      "color": "#eee4d4",
+      "icon": "💡",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Lámpara cerámica N7 NEGRO.png"
     },
     {
       "id": "ilum-019",
@@ -3130,6 +3132,7 @@
     "coc-042": "default",
     "coc-043": "default",
     "coc-044": "default",
-    "coc-045": "default"
+    "coc-045": "default",
+    "ilum-018": "default"
   }
 }
