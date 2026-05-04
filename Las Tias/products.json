@@ -1578,8 +1578,10 @@
       "description": "Bandeja calada grande, 31x51 cm",
       "price": 35000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🍽️"
+      "color": "#e8e4dc",
+      "icon": "🍽️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20200624.png"
     },
     {
       "id": "coc-025",
@@ -3391,6 +3393,7 @@
     "coc-038": "default",
     "coc-030": "default",
     "coc-029": "default",
-    "coc-060": "cutlery"
+    "coc-060": "cutlery",
+    "coc-024": "default"
   }
 }
