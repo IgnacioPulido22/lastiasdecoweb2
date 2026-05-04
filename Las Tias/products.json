@@ -899,8 +899,10 @@
       "description": "Manta de piel bisón",
       "price": 45000,
       "badge": null,
-      "color": "#DDD0BF",
-      "icon": "🧣"
+      "color": "#ddd0bf",
+      "icon": "🧣",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20191520.png"
     },
     {
       "id": "sala-084",
@@ -3237,6 +3239,7 @@
     "sala-026": "default",
     "sala-110": "default",
     "sala-111": "default",
-    "sala-027": "default"
+    "sala-027": "default",
+    "sala-083": "default"
   }
 }
