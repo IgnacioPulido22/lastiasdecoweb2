@@ -1588,6 +1588,7 @@
       background: var(--cream);
       overflow: hidden;
       min-height: 480px;
+      position: relative;
     }
     .modal-img-wrap svg { display: block; height: 100%; min-height: 480px; }
     .modal-details {
@@ -1659,6 +1660,20 @@
       border-radius: 2px;
     }
     .modal-gallery-thumb:hover { border-color: var(--gold); }
+    .modal-img-wrap.zoomable { cursor: zoom-in; }
+    .modal-img-zoom-hint {
+      display: none;
+      position: absolute;
+      bottom: 10px; right: 10px;
+      background: rgba(0,0,0,0.45);
+      color: #fff;
+      font-size: 0.7rem;
+      padding: 4px 8px;
+      border-radius: 20px;
+      pointer-events: none;
+      gap: 4px;
+      align-items: center;
+    }
     /* lightbox for gallery */
     #gallery-lightbox {
       position: fixed; inset: 0;
@@ -1808,8 +1823,10 @@
       .nav-mobile-toggle { display: flex; }
       .footer-top { grid-template-columns: 1fr; gap: 32px; }
       .modal-inner { grid-template-columns: 1fr; max-height: 100dvh; overflow-y: auto; }
-      .modal-img-wrap { min-height: 260px; max-height: 260px; }
-      .modal-img-wrap svg { min-height: 260px; }
+      .modal-img-wrap { min-height: 0; max-height: 80vw; aspect-ratio: 1/1; }
+      .modal-img-wrap img { object-fit: contain !important; }
+      .modal-img-wrap svg { min-height: 0; height: 100%; }
+      .modal-img-zoom-hint { display: flex; }
       .modal-details { padding: 24px 20px 32px; }
       .btn-modal-add, .btn-modal-whatsapp { padding: 14px 20px; }
     }
@@ -3276,7 +3293,16 @@
       _modalProduct = p;
       _modalQty = 1;
 
-      document.getElementById('modalImg').innerHTML = getSVG(p);
+      const imgWrap = document.getElementById('modalImg');
+      imgWrap.innerHTML = getSVG(p) + '<span class="modal-img-zoom-hint" id="modalZoomHint">⛶ Ver</span>';
+      const mainImgSrc = p.img || PRODUCT_IMAGES[p.id];
+      if (mainImgSrc) {
+        imgWrap.classList.add('zoomable');
+        imgWrap.onclick = () => openImageFullscreen(mainImgSrc);
+      } else {
+        imgWrap.classList.remove('zoomable');
+        imgWrap.onclick = null;
+      }
       document.getElementById('modalCat').textContent = p.category;
 
       const badgeEl = document.getElementById('modalBadge');
@@ -3321,7 +3347,10 @@
     function openLightbox(productId, idx) {
       const photos = PRODUCT_GALLERY[productId] || [];
       if (!photos[idx]) return;
-      document.getElementById('gallery-lightbox-img').src = photos[idx];
+      openImageFullscreen(photos[idx]);
+    }
+    function openImageFullscreen(src) {
+      document.getElementById('gallery-lightbox-img').src = src;
       document.getElementById('gallery-lightbox').classList.add('open');
     }
     function closeLightbox() {
