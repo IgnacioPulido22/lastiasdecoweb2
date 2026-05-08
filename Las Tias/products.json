@@ -11,7 +11,7 @@
       "color": "#e8ddd0",
       "icon": "🪡",
       "price_old": 190000,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Alfonsina.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-06%20at%207.08.41%20PM%203.jpeg"
     },
     {
       "id": "sala-002",
@@ -24,7 +24,7 @@
       "color": "#ddd5c8",
       "icon": "🪡",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20205402.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-06%20at%207.08.43%20PM%201.jpeg"
     },
     {
       "id": "sala-003",
@@ -284,7 +284,7 @@
       "color": "#e5d9c8",
       "icon": "🛋️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_lfuq1qlfuq1qlfuq.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20184535.png"
     },
     {
       "id": "sala-025",
@@ -3013,6 +3013,7 @@
     "sala-021": "Cuenco de cerámica artesanal con esmalte interior en blanco brillante y exterior en crema mate con borde dorado. Fabricado en torno. Apto para uso decorativo. Diámetro: 22 cm.",
     "sala-022": "Lámpara de mesa con base de mármol Carrara natural y pantalla de lino crudo. Cable textil dorado. Incluye bombilla LED E27 cálida. Altura total: 52 cm. Interruptor en el cable.",
     "dorm-001": "Almohadón king de pluma y plumón natural con funda de algodón mercerizado 600 hilos. Relleno que se adapta a tu posición de descanso. Lavable en máquina hasta 40°C. Medidas: 90×70 cm.",
+    "dorm-002": "Espejo de tocador con marco ovalado de madera tallada con acabado dorado art-déco. Doble cara: normal y aumento ×5. Sistema giratorio 360°. Alto 65 cm, ancho 25 cm. Con base de mármol.",
     "dorm-003": "Velador con pantalla de seda cruda color marfil y base de mármol negro natural. Cable textil negro. Incluye bombilla LED E14 cálida 4W. Altura 42 cm. Interruptor en el cable. Elegancia máxima.",
     "dorm-004": "Perfumero de cristal facetado con tapón dorado macizo. Fragancia \"Noche de Viena\": ámbar, sándalo y vainilla. 50 ml de Eau de Parfum concentrado. Presentado en estuche de regalo con lazo dorado.",
     "dorm-005": "Set de 5 organizadores de acrílico transparente con bases doradas para tocador. Incluye: porta-joyería, porta-perfumes, bandeja, vasos y cajita con tapa. Fácil de limpiar. Diseño modular.",
@@ -3149,6 +3150,7 @@
     "sala-021": "bowl",
     "sala-022": "table_lamp",
     "dorm-001": "pillow_large",
+    "dorm-002": "mirror_oval",
     "dorm-003": "table_lamp",
     "dorm-004": "perfume",
     "dorm-005": "tray",
