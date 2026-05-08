@@ -115,7 +115,7 @@
       "color": "#ddd0bf",
       "icon": "🛋️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ALMOHADON%2040X40%20YUTE.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_bv5we9bv5we9bv5w.png"
     },
     {
       "id": "sala-011",
@@ -219,7 +219,7 @@
       "color": "#e8ddd0",
       "icon": "🛋️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20184630.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-08%20at%2015.22.07.jpeg"
     },
     {
       "id": "sala-019",
@@ -297,7 +297,7 @@
       "color": "#e8ddd0",
       "icon": "🛋️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20184520.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_asuwu0asuwu0asuw%201.png"
     },
     {
       "id": "sala-026",
@@ -427,7 +427,7 @@
       "color": "#ddd5c8",
       "icon": "🕯️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CANDELABRO%20PORTAVELA%20PLATA%2038CM.jpg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_aud0d2aud0d2aud0.png"
     },
     {
       "id": "sala-037",
@@ -453,7 +453,7 @@
       "color": "#ddd0bf",
       "icon": "🕯️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CANDELABROS%20FUME.jpg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_nqho6mnqho6mnqho.png"
     },
     {
       "id": "sala-039",
@@ -1208,19 +1208,6 @@
       "icon": "🛏️",
       "price_old": null,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20201202.png"
-    },
-    {
-      "id": "dorm-002",
-      "name": "Cortinas Gris/Blanca",
-      "category": "Dormitorio",
-      "sectionId": "dormitorio",
-      "description": "Cortinas gris y blanca",
-      "price": 54000,
-      "badge": null,
-      "color": "#e6e0da",
-      "icon": "🪟",
-      "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20201135.png"
     },
     {
       "id": "dorm-004",
@@ -3026,7 +3013,6 @@
     "sala-021": "Cuenco de cerámica artesanal con esmalte interior en blanco brillante y exterior en crema mate con borde dorado. Fabricado en torno. Apto para uso decorativo. Diámetro: 22 cm.",
     "sala-022": "Lámpara de mesa con base de mármol Carrara natural y pantalla de lino crudo. Cable textil dorado. Incluye bombilla LED E27 cálida. Altura total: 52 cm. Interruptor en el cable.",
     "dorm-001": "Almohadón king de pluma y plumón natural con funda de algodón mercerizado 600 hilos. Relleno que se adapta a tu posición de descanso. Lavable en máquina hasta 40°C. Medidas: 90×70 cm.",
-    "dorm-002": "Espejo de tocador con marco ovalado de madera tallada con acabado dorado art-déco. Doble cara: normal y aumento ×5. Sistema giratorio 360°. Alto 65 cm, ancho 25 cm. Con base de mármol.",
     "dorm-003": "Velador con pantalla de seda cruda color marfil y base de mármol negro natural. Cable textil negro. Incluye bombilla LED E14 cálida 4W. Altura 42 cm. Interruptor en el cable. Elegancia máxima.",
     "dorm-004": "Perfumero de cristal facetado con tapón dorado macizo. Fragancia \"Noche de Viena\": ámbar, sándalo y vainilla. 50 ml de Eau de Parfum concentrado. Presentado en estuche de regalo con lazo dorado.",
     "dorm-005": "Set de 5 organizadores de acrílico transparente con bases doradas para tocador. Incluye: porta-joyería, porta-perfumes, bandeja, vasos y cajita con tapa. Fácil de limpiar. Diseño modular.",
@@ -3163,7 +3149,6 @@
     "sala-021": "bowl",
     "sala-022": "table_lamp",
     "dorm-001": "pillow_large",
-    "dorm-002": "mirror_oval",
     "dorm-003": "table_lamp",
     "dorm-004": "perfume",
     "dorm-005": "tray",
