@@ -1823,8 +1823,7 @@
       .nav-mobile-toggle { display: flex; }
       .footer-top { grid-template-columns: 1fr; gap: 32px; }
       .modal-inner { grid-template-columns: 1fr; max-height: 100dvh; overflow-y: auto; }
-      .modal-img-wrap { min-height: 0; max-height: 80vw; aspect-ratio: 1/1; }
-      .modal-img-wrap img { object-fit: contain !important; }
+      .modal-img-wrap { min-height: 0 !important; height: 80vw !important; max-height: 80vw !important; }
       .modal-img-wrap svg { min-height: 0; height: 100%; }
       .modal-img-zoom-hint { display: flex; }
       .modal-details { padding: 24px 20px 32px; }
@@ -3294,14 +3293,20 @@
       _modalQty = 1;
 
       const imgWrap = document.getElementById('modalImg');
-      imgWrap.innerHTML = getSVG(p) + '<span class="modal-img-zoom-hint" id="modalZoomHint">⛶ Ver</span>';
+      imgWrap.innerHTML = getSVG(p);
+      imgWrap.onclick = null;
+      imgWrap.classList.remove('zoomable');
       const mainImgSrc = p.img || PRODUCT_IMAGES[p.id];
-      if (mainImgSrc) {
-        imgWrap.classList.add('zoomable');
-        imgWrap.onclick = () => openImageFullscreen(mainImgSrc);
-      } else {
-        imgWrap.classList.remove('zoomable');
-        imgWrap.onclick = null;
+      const imgEl = imgWrap.querySelector('img');
+      if (imgEl) {
+        imgEl.style.width = '100%';
+        imgEl.style.height = '100%';
+        imgEl.style.display = 'block';
+        imgEl.style.objectFit = window.innerWidth <= 900 ? 'contain' : 'cover';
+        if (mainImgSrc) {
+          imgEl.style.cursor = 'zoom-in';
+          imgEl.onclick = (e) => { e.stopPropagation(); openImageFullscreen(mainImgSrc); };
+        }
       }
       document.getElementById('modalCat').textContent = p.category;
 
