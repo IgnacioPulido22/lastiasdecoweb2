@@ -1766,7 +1766,7 @@
       "color": "#ede8e0",
       "icon": "🍽️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193523.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-11%20at%2019.42.14%201.jpeg"
     },
     {
       "id": "coc-040",
@@ -3270,6 +3270,7 @@
     "sala-096": "default",
     "sala-098": "default",
     "sala-097": "default",
-    "coc-041": "default"
+    "coc-041": "default",
+    "coc-039": "default"
   }
 }
