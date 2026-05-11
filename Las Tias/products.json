@@ -2946,19 +2946,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193232.png"
     },
     {
-      "id": "coc-059",
-      "name": "Pava Eléctrica",
-      "category": "Cocina & Comedor",
-      "sectionId": "cocina",
-      "description": "Pava Eléctrica",
-      "price": 40000,
-      "price_old": null,
-      "badge": null,
-      "color": "#e8ddd0",
-      "icon": "✨",
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193425.png"
-    },
-    {
       "id": "coc-060",
       "name": "Bandejas Caladas Dorada",
       "category": "Cocina & Comedor",
