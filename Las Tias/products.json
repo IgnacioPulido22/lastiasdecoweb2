@@ -999,7 +999,7 @@
       "color": "#ddd0bf",
       "icon": "🪑",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/MESA%20ROMBO%20CIRCULAR%20DORADA.jpg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-11%20at%2019.42.14%209.jpeg"
     },
     {
       "id": "sala-092",
@@ -3265,6 +3265,7 @@
     "coc-038": "default",
     "coc-040": "default",
     "coc-048": "default",
-    "coc-047": "default"
+    "coc-047": "default",
+    "sala-091": "default"
   }
 }
