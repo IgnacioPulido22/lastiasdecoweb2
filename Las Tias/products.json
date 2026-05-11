@@ -492,7 +492,7 @@
       "color": "#ddd0bf",
       "icon": "🍬",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FRASCO%20FUME.jpg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/caramelero.png"
     },
     {
       "id": "sala-042",
@@ -3265,6 +3265,7 @@
     "sala-062": "default",
     "sala-092": "default",
     "sala-093": "default",
-    "sala-094": "default"
+    "sala-094": "default",
+    "sala-041": "default"
   }
 }
