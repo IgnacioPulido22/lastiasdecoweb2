@@ -2542,7 +2542,7 @@
       "color": "#eee4d4",
       "icon": "💡",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Lámpara cerámica N7 NEGRO.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_ojkhraojkhraojkh.png"
     },
     {
       "id": "ilum-019",
@@ -3265,6 +3265,7 @@
     "sala-062": "default",
     "sala-092": "default",
     "sala-093": "default",
-    "sala-094": "default"
+    "sala-094": "default",
+    "ilum-018": "default"
   }
 }
