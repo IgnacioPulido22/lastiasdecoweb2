@@ -1012,7 +1012,7 @@
       "color": "#e5d9c8",
       "icon": "🖼️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/PORTARETRATO%2010X15.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_g9gbpog9gbpog9gb.png"
     },
     {
       "id": "sala-093",
@@ -3262,6 +3262,7 @@
     "arte-017": "botanical_print",
     "sala-060": "default",
     "sala-061": "default",
-    "sala-062": "default"
+    "sala-062": "default",
+    "sala-092": "default"
   }
 }
