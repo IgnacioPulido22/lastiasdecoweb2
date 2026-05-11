@@ -1051,7 +1051,7 @@
       "color": "#ddd0bf",
       "icon": "🖼️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Portarretrato%20Vintage%2013x18cm%20Deco%2014%20ORO.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20portarretrato%20vintage%20oro.jpeg"
     },
     {
       "id": "sala-096",
@@ -3276,6 +3276,7 @@
     "coc-038": "default",
     "coc-039": "default",
     "coc-041": "default",
-    "sala-097": "default"
+    "sala-097": "default",
+    "sala-095": "default"
   }
 }
