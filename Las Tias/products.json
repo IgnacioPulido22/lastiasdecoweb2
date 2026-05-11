@@ -193,7 +193,7 @@
       "color": "#e5d9c8",
       "icon": "🛋️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20184450.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/almohadon%20ultimo.png"
     },
     {
       "id": "sala-017",
@@ -492,7 +492,7 @@
       "color": "#ddd0bf",
       "icon": "🍬",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FRASCO%20FUME.jpg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/caramelero.png"
     },
     {
       "id": "sala-042",
@@ -2282,7 +2282,7 @@
       "color": "#d5e5d1",
       "icon": "🪴",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_if6sbdif6sbdif6s.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20192512.png"
     },
     {
       "id": "jard-005",
@@ -2295,7 +2295,7 @@
       "color": "#d8e8d4",
       "icon": "🪴",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_qyo2tzqyo2tzqyo2.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/pesa%20de%20puerta%201%201.png"
     },
     {
       "id": "jard-006",
@@ -2308,7 +2308,7 @@
       "color": "#d2e2ce",
       "icon": "🪴",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_z3yggsz3yggsz3yg.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/PESA%20PUERTA%202%202.png"
     },
     {
       "id": "ilum-001",
@@ -3265,6 +3265,7 @@
     "sala-062": "default",
     "sala-092": "default",
     "sala-093": "default",
-    "sala-094": "default"
+    "sala-094": "default",
+    "sala-041": "default"
   }
 }
