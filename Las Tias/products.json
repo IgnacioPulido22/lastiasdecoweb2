@@ -713,7 +713,7 @@
       "color": "#e8ddd0",
       "icon": "🫙",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FRASCO VIDRIO PLATA PEQUEÑO.jpg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_a265uja265uja265.png"
     },
     {
       "id": "sala-062",
@@ -3260,6 +3260,7 @@
     "arte-015": "default",
     "arte-016": "canvas_abstract",
     "arte-017": "botanical_print",
-    "sala-060": "default"
+    "sala-060": "default",
+    "sala-061": "default"
   }
 }
