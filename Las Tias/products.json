@@ -492,7 +492,7 @@
       "color": "#ddd0bf",
       "icon": "🍬",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/caramelero.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FRASCO%20FUME.jpg"
     },
     {
       "id": "sala-042",
@@ -2230,7 +2230,7 @@
       "color": "#e2eeec",
       "icon": "💇",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-03%20at%2016.27.54.jpeg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_ce68qwce68qwce68.png"
     },
     {
       "id": "jard-001",
@@ -3260,6 +3260,6 @@
     "arte-015": "default",
     "arte-016": "canvas_abstract",
     "arte-017": "botanical_print",
-    "sala-041": "default"
+    "ban-018": "default"
   }
 }
