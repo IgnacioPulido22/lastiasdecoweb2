@@ -2956,7 +2956,7 @@
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193425.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20pava%20azul.jpeg"
     },
     {
       "id": "coc-060",
@@ -3269,6 +3269,7 @@
     "sala-041": "default",
     "sala-091": "default",
     "ban-018": "default",
-    "coc-047": "default"
+    "coc-047": "default",
+    "coc-059": "default"
   }
 }
