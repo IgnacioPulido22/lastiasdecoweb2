@@ -1064,7 +1064,7 @@
       "color": "#e5d9c8",
       "icon": "🖼️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Portarretrato%20Vintage%2013x18cm%20Deco%2014%20ORO.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_gzhoaggzhoaggzho.png"
     },
     {
       "id": "sala-097",
@@ -3266,6 +3266,7 @@
     "sala-092": "default",
     "sala-093": "default",
     "sala-094": "default",
-    "sala-095": "default"
+    "sala-095": "default",
+    "sala-096": "default"
   }
 }
