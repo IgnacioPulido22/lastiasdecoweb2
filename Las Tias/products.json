@@ -1779,7 +1779,7 @@
       "color": "#e8e4dc",
       "icon": "🍽️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193503.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20indiv%20gris.jpeg"
     },
     {
       "id": "coc-041",
@@ -3271,6 +3271,7 @@
     "ban-018": "default",
     "coc-047": "default",
     "coc-059": "default",
-    "coc-048": "default"
+    "coc-048": "default",
+    "coc-040": "default"
   }
 }
