@@ -2555,7 +2555,7 @@
       "color": "#f2ead8",
       "icon": "💡",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Lámpara de mesa Design NEGRA PLATA.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_5zbqda5zbqda5zbq.png"
     },
     {
       "id": "ilum-020",
@@ -3280,6 +3280,7 @@
     "sala-095": "default",
     "sala-096": "default",
     "sala-098": "default",
-    "ilum-018": "default"
+    "ilum-018": "default",
+    "ilum-019": "default"
   }
 }
