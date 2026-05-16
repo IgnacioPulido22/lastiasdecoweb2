@@ -105,19 +105,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_bv5we9bv5we9bv5w.png"
     },
     {
-      "id": "sala-011",
-      "name": "Almohadón 45x70 Yute",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Almohadón de yute, 45x70 cm",
-      "price": 37000,
-      "badge": null,
-      "color": "#e5d9c8",
-      "icon": "🛋️",
-      "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_bv5we9bv5we9bv5w.png"
-    },
-    {
       "id": "sala-012",
       "name": "Almohadón 40x40 Raya Cruda",
       "category": "Sala & Living",
@@ -2986,7 +2973,6 @@
     "sala-007": "Alfombra de fibra natural yute y algodón trenzados a mano. Diseño bohemio con motivos étnicos en colores naturales. Antideslizante natural. Lavado en seco recomendado. Medida: 120×180 cm.",
     "sala-008": "Set de 3 marcos para fotos en madera de pino lacada en dorado. Tamaños: 10×15, 15×20 y 20×25 cm. Vidrio anti-reflejo incluido. Pueden colgarse en pared o apoyarse en estante. Diseño art-déco.",
     "sala-010": "Manta tejida en telar en mezcla de algodón egipcio y lino belga. Textura suave y liviana, perfecta para todas las estaciones. Flecos naturales en los extremos. Medidas: 130×170 cm.",
-    "sala-011": "Florero de vidrio soplado artesanalmente en tonos ámbar y miel. Forma orgánica irregular única en cada pieza. Ideal para ramas, pampas grass y flores silvestres. Altura 35 cm, base 12 cm.",
     "sala-012": "Set de 2 canastos de mimbre tejidos a mano en Bali. Diferentes tamaños para apilar o usar por separado. Con asa de cuero natural cosida a mano. Perfectos para mantas, revistas o accesorios.",
     "sala-013": "Reloj de pared de diseño minimalista con estructura de metal negro y detalles en dorado. Movimiento silencioso de cuarzo. Números romanos sutiles. Diámetro 45 cm. Requiere 1 pila AA (no incluida).",
     "sala-014": "Sujetalibros de mármol blanco con venas grises naturales y base de acero dorado. Set de 2 piezas. Peso suficiente para sujetar libros sin deslizarse. Medidas: 10×7×18 cm c/u.",
@@ -3121,7 +3107,6 @@
     "sala-007": "rug",
     "sala-008": "frame",
     "sala-010": "blanket",
-    "sala-011": "vase",
     "sala-012": "basket",
     "sala-013": "clock",
     "sala-014": "shelf",
