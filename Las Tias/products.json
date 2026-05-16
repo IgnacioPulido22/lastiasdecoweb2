@@ -2931,6 +2931,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-16%20at%204.03.55%20PM.jpeg"
+    },
+    {
+      "id": "sala-116",
+      "name": "Almohadón Lana Ochos Gris 60x60",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "a",
+      "price": 32000,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-16%20at%204.31.02%20PM%201.jpeg"
     }
   ],
   "gallery": {
@@ -3244,6 +3257,7 @@
     "sala-114": "default",
     "sala-115": "default",
     "sala-024": "default",
-    "sala-025": "default"
+    "sala-025": "default",
+    "sala-116": "default"
   }
 }
