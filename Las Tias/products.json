@@ -2844,8 +2844,8 @@
     {
       "id": "sala-112",
       "name": "Botella Decorativa 1 Lt.",
-      "category": "Sala & Living",
-      "sectionId": "sala",
+      "category": "Cocina & Comedor",
+      "sectionId": "cocina",
       "description": "Botella Decorativa 1 Lt.",
       "price": 11000,
       "price_old": null,
@@ -3259,6 +3259,7 @@
     "sala-024": "default",
     "sala-025": "default",
     "sala-116": "default",
-    "sala-028": "default"
+    "sala-028": "default",
+    "sala-112": "default"
   }
 }
