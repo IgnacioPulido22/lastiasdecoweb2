@@ -521,19 +521,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CESTAS%20BLANCA%20Y%20NEGRA%20X3.jpg"
     },
     {
-      "id": "sala-048",
-      "name": "Canasto Set x3 Cuadrado",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Canasto Set x3 Cuadrado",
-      "price": 33000,
-      "badge": null,
-      "color": "#ddd5c8",
-      "icon": "🧺",
-      "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CESTAS%20SET%20X%203%20CUADRADAS.jpg"
-    },
-    {
       "id": "sala-050",
       "name": "Espejo Circular Marco Negro 50cm",
       "category": "Sala & Living",
