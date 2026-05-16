@@ -1121,8 +1121,8 @@
     {
       "id": "dorm-006",
       "name": "Laundry Cuadrado Blanco",
-      "category": "Dormitorio",
-      "sectionId": "dormitorio",
+      "category": "Baño & Spa",
+      "sectionId": "bano",
       "description": "Cesto laundry cuadrado blanco, 58x29 cm",
       "price": 19000,
       "badge": null,
