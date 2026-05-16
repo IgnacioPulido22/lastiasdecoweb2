@@ -544,7 +544,7 @@
       "color": "#ddd0bf",
       "icon": "🪞",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_xt4skdxt4skdxt4s.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_n42ys5n42ys5n42y.png"
     },
     {
       "id": "sala-052",
@@ -3265,6 +3265,7 @@
     "sala-035": "default",
     "sala-058": "default",
     "ilum-030": "default",
-    "sala-117": "default"
+    "sala-117": "default",
+    "sala-051": "default"
   }
 }
