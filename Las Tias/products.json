@@ -1041,19 +1041,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/PUFF%20CUADRADO%20TELA.jpg"
     },
     {
-      "id": "sala-103",
-      "name": "Puff Redondo Tejido Natural",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Puff redondo con hilos natural, 40x60 cm",
-      "price": 85000,
-      "badge": "Destacado",
-      "color": "#ddd0bf",
-      "icon": "🛋️",
-      "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/PUFF%20HILOS%20COLOR%20NATURAL.jpg"
-    },
-    {
       "id": "sala-104",
       "name": "Puf Piel",
       "category": "Sala & Living",
