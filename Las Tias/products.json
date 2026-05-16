@@ -2944,6 +2944,18 @@
       "color": "#e8e4dc",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193709.png"
+    },
+    {
+      "id": "sala-113",
+      "name": "Manta/ pie de cama /mante",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "Manta/ pie de cama /mante",
+      "price": 35000,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨"
     }
   ],
   "gallery": {
@@ -3258,6 +3270,7 @@
     "ilum-019": "default",
     "ilum-020": "default",
     "sala-087": "default",
-    "sala-085": "default"
+    "sala-085": "default",
+    "sala-113": "default"
   }
 }
