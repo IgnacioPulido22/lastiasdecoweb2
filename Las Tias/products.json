@@ -289,8 +289,8 @@
     {
       "id": "sala-028",
       "name": "Botella Decorativa 1 Lt.",
-      "category": "Sala & Living",
-      "sectionId": "sala",
+      "category": "Cocina & Comedor",
+      "sectionId": "cocina",
       "description": "Botella decorativa vidrio 1 litro, 27 cm",
       "price": 11000,
       "badge": null,
@@ -3258,6 +3258,7 @@
     "sala-115": "default",
     "sala-024": "default",
     "sala-025": "default",
-    "sala-116": "default"
+    "sala-116": "default",
+    "sala-028": "default"
   }
 }
