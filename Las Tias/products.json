@@ -92,19 +92,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Almohadon%2050x70%20Copito%20Gris.png"
     },
     {
-      "id": "sala-009",
-      "name": "Almohadón 40x120",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Almohadón largo, 40x120 cm",
-      "price": 49500,
-      "badge": null,
-      "color": "#e8ddd0",
-      "icon": "🛋️",
-      "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Almohadon%2040x120.png"
-    },
-    {
       "id": "sala-010",
       "name": "Almohadón 40x40 Yute",
       "category": "Sala & Living",
@@ -2998,7 +2985,6 @@
     "sala-006": "Set de 3 portavelas de hierro forjado artesanalmente en alturas escalonadas: 15, 22 y 30 cm. Acabado negro con reflejos dorados envejecidos. Compatible con velas estándar de pilar. Base estable.",
     "sala-007": "Alfombra de fibra natural yute y algodón trenzados a mano. Diseño bohemio con motivos étnicos en colores naturales. Antideslizante natural. Lavado en seco recomendado. Medida: 120×180 cm.",
     "sala-008": "Set de 3 marcos para fotos en madera de pino lacada en dorado. Tamaños: 10×15, 15×20 y 20×25 cm. Vidrio anti-reflejo incluido. Pueden colgarse en pared o apoyarse en estante. Diseño art-déco.",
-    "sala-009": "Taza de cerámica artesanal elaborada en torno de alfarero. Esmaltado interior en blanco y exterior en tonos terracota y crema. Apta para microondas y lavavajillas. Capacidad: 350 ml.",
     "sala-010": "Manta tejida en telar en mezcla de algodón egipcio y lino belga. Textura suave y liviana, perfecta para todas las estaciones. Flecos naturales en los extremos. Medidas: 130×170 cm.",
     "sala-011": "Florero de vidrio soplado artesanalmente en tonos ámbar y miel. Forma orgánica irregular única en cada pieza. Ideal para ramas, pampas grass y flores silvestres. Altura 35 cm, base 12 cm.",
     "sala-012": "Set de 2 canastos de mimbre tejidos a mano en Bali. Diferentes tamaños para apilar o usar por separado. Con asa de cuero natural cosida a mano. Perfectos para mantas, revistas o accesorios.",
@@ -3134,7 +3120,6 @@
     "sala-006": "candle_set",
     "sala-007": "rug",
     "sala-008": "frame",
-    "sala-009": "bowl",
     "sala-010": "blanket",
     "sala-011": "vase",
     "sala-012": "basket",
