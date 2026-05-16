@@ -601,8 +601,8 @@
     {
       "id": "sala-058",
       "name": "Frasco con Tapa Labrado",
-      "category": "Sala & Living",
-      "sectionId": "sala",
+      "category": "Cocina & Comedor",
+      "sectionId": "cocina",
       "description": "Frasco decorativo con tapa labrado, 20x11 cm",
       "price": 12000,
       "badge": null,
@@ -3237,6 +3237,7 @@
     "sala-032": "default",
     "sala-031": "default",
     "sala-037": "default",
-    "sala-035": "default"
+    "sala-035": "default",
+    "sala-058": "default"
   }
 }
