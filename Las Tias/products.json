@@ -2931,6 +2931,18 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-16%20at%205.01.42%20PM.jpeg"
+    },
+    {
+      "id": "sala-117",
+      "name": "Espejo Recina Gris",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "1",
+      "price": 1,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨"
     }
   ],
   "gallery": {
@@ -3252,6 +3264,7 @@
     "sala-037": "default",
     "sala-035": "default",
     "sala-058": "default",
-    "ilum-030": "default"
+    "ilum-030": "default",
+    "sala-117": "default"
   }
 }
