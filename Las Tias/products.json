@@ -2930,6 +2930,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-16%20at%205.12.02%20PM.jpeg"
+    },
+    {
+      "id": "ilum-031",
+      "name": "Portavela/Fanal Hilo Natural",
+      "category": "Iluminación",
+      "sectionId": "iluminacion",
+      "description": "a",
+      "price": 232,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-16%20at%205.22.35%20PM.jpeg"
     }
   ],
   "gallery": {
@@ -3252,6 +3265,7 @@
     "ilum-030": "default",
     "sala-117": "default",
     "sala-051": "default",
-    "sala-118": "default"
+    "sala-118": "default",
+    "ilum-031": "default"
   }
 }
