@@ -157,19 +157,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Almohadon%2050x50%20Rombo%20Hilos%20Crudo.png"
     },
     {
-      "id": "sala-016",
-      "name": "Almohadón de España 60x60",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Almohadón importado, 60x60 cm",
-      "price": 44000,
-      "badge": "Destacado",
-      "color": "#e5d9c8",
-      "icon": "🛋️",
-      "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/almohadon%20ultimo.png"
-    },
-    {
       "id": "sala-017",
       "name": "Almohadón Picasso Blanco 40x40",
       "category": "Sala & Living",
@@ -2977,7 +2964,6 @@
     "sala-013": "Reloj de pared de diseño minimalista con estructura de metal negro y detalles en dorado. Movimiento silencioso de cuarzo. Números romanos sutiles. Diámetro 45 cm. Requiere 1 pila AA (no incluida).",
     "sala-014": "Sujetalibros de mármol blanco con venas grises naturales y base de acero dorado. Set de 2 piezas. Peso suficiente para sujetar libros sin deslizarse. Medidas: 10×7×18 cm c/u.",
     "sala-015": "Difusor de aromas de aceites esenciales naturales en fragancia Verbena Mediterránea. Incluye 8 palitos de rattan y frasco de vidrio. Intensidad ajustable según cantidad de palitos. Duración aprox. 8 semanas.",
-    "sala-016": "Bandeja decorativa de madera de paulownia lacada en blanco con borde dorado. Forma rectangular con esquinas redondeadas. Ideal para organizar objetos sobre mesa o repisa. Medidas: 40×30×4 cm.",
     "sala-017": "Cactus artificial de alta calidad con textura realista, en maceta de cerámica artesanal blanca. No requiere agua ni sol. Perfecto para espacios sin luz natural. Alto total: 45 cm. Libre de mantenimiento.",
     "sala-018": "Repisa flotante de madera de roble macizo con sistema de montaje oculto para aspecto limpio. Incluye tarugos y tornillos. Soporta hasta 15 kg. Largo: 60 cm, profundidad: 20 cm.",
     "sala-019": "Set de 4 portavelas de vidrio borosilicato soplado en diferentes tamaños (8, 12, 16 y 20 cm) con estructura de metal en dorado. Compatible con velas tea light y de pilar.",
@@ -3111,7 +3097,6 @@
     "sala-013": "clock",
     "sala-014": "shelf",
     "sala-015": "diffuser",
-    "sala-016": "tray",
     "sala-017": "cactus",
     "sala-018": "shelf",
     "sala-019": "candle_set",
