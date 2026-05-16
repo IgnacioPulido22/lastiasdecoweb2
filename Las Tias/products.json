@@ -336,7 +336,7 @@
       "color": "#e8ddd0",
       "icon": "🕯️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CANDELABROS%20BLANCOS%20X2.jpg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_6v9nwx6v9nwx6v9n.png"
     },
     {
       "id": "sala-033",
@@ -3260,6 +3260,7 @@
     "sala-025": "default",
     "sala-116": "default",
     "sala-028": "default",
-    "sala-112": "default"
+    "sala-112": "default",
+    "sala-032": "default"
   }
 }
