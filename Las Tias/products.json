@@ -2467,19 +2467,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_ojkhraojkhraojkh.png"
     },
     {
-      "id": "ilum-019",
-      "name": "Lámpara de Mesa Modern Plateada L9",
-      "category": "Iluminación",
-      "sectionId": "iluminacion",
-      "description": "Lámpara mesa modern plateada, 32x65 cm",
-      "price": 120000,
-      "badge": null,
-      "color": "#f2ead8",
-      "icon": "💡",
-      "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_5zbqda5zbqda5zbq.png"
-    },
-    {
       "id": "ilum-020",
       "name": "Lámpara de Mesa Design Negra/Plata",
       "category": "Iluminación",
@@ -3249,7 +3236,6 @@
     "sala-096": "default",
     "sala-098": "default",
     "ilum-018": "default",
-    "ilum-019": "default",
     "ilum-020": "default",
     "sala-087": "default",
     "sala-085": "default",
