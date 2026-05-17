@@ -2764,19 +2764,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESCULTURA%20ESFERA.jpg"
     },
     {
-      "id": "sala-110",
-      "name": "Borla Decorativa",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Borla Decorativa",
-      "price": 12500,
-      "price_old": null,
-      "badge": null,
-      "color": "#e8ddd0",
-      "icon": "✨",
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Borla%20decorativa%202.png"
-    },
-    {
       "id": "sala-111",
       "name": "Borla Decorativa",
       "category": "Sala & Living",
