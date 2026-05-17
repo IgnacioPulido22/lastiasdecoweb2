@@ -2917,6 +2917,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-16%20at%205.22.35%20PM.jpeg"
+    },
+    {
+      "id": "arte-021",
+      "name": "Esculturas blancas",
+      "category": "Arte & Cuadros",
+      "sectionId": "arte",
+      "description": "descripcion",
+      "price": 19999,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_xcpjjxxcpjjxxcpj.png"
     }
   ],
   "gallery": {
@@ -2941,6 +2954,9 @@
     "sala-111": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Borla%20decorativa%202.png",
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/borla%20decorativa%203.png"
+    ],
+    "arte-021": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_tfi37dtfi37dtfi3.png"
     ]
   },
   "details": {
@@ -3256,6 +3272,7 @@
     "sala-051": "default",
     "sala-118": "default",
     "ilum-031": "default",
-    "sala-111": "default"
+    "sala-111": "default",
+    "arte-021": "default"
   }
 }
