@@ -578,6 +578,7 @@
     .badge-envio-gratis  { background: #1E8449; color: #fff; }
     .badge-stock-limitado{ background: #D35400; color: #fff; }
     .badge-temporada     { background: #0E6655; color: #fff; }
+    .badge-agotado       { background: #555; color: #fff; }
     /* old price in card */
     .product-price-row { display:flex; align-items:baseline; gap:8px; }
     .product-price-old {
@@ -1634,6 +1635,7 @@
     .modal-badge-tag.badge-envio-gratis   { background: #1E8449; color: #fff; }
     .modal-badge-tag.badge-stock-limitado { background: #D35400; color: #fff; }
     .modal-badge-tag.badge-temporada      { background: #0E6655; color: #fff; }
+    .modal-badge-tag.badge-agotado        { background: #555; color: #fff; }
     .modal-badge-tag:empty { display: none; }
     /* old price in modal */
     .modal-price-wrap { display:flex; flex-direction:column; gap:2px; margin-bottom:20px; }
@@ -2246,6 +2248,7 @@
               <optgroup label="Stock">
                 <option value="Últimas unidades">Últimas unidades</option>
                 <option value="Stock limitado">Stock limitado</option>
+                <option value="Agotado">Agotado</option>
                 <option value="Envío gratis">Envío gratis</option>
               </optgroup>
             </select>
@@ -2698,7 +2701,8 @@
       'Nuevo':'nuevo','Destacado':'destacado','2x1':'2x1','3x2':'3x2',
       '50% OFF':'50off','30% OFF':'30off','20% OFF':'20off',
       'Oferta':'oferta','Últimas unidades':'ult-unidades','Exclusivo':'exclusivo',
-      'Envío gratis':'envio-gratis','Stock limitado':'stock-limitado','Temporada':'temporada'
+      'Envío gratis':'envio-gratis','Stock limitado':'stock-limitado','Temporada':'temporada',
+      'Agotado':'agotado'
     };
     function badgeCls(b) { return BADGE_CLASS_MAP[b] || b.toLowerCase().replace(/[^a-z0-9]/g,''); }
 
