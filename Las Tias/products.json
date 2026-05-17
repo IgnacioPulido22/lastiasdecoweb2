@@ -2930,6 +2930,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_xcpjjxxcpjjxxcpj.png"
+    },
+    {
+      "id": "arte-022",
+      "name": "Escultura Love",
+      "category": "Arte & Cuadros",
+      "sectionId": "arte",
+      "description": "descripcion",
+      "price": 20000,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_kg136lkg136lkg13.png"
     }
   ],
   "gallery": {
@@ -3273,6 +3286,7 @@
     "sala-118": "default",
     "ilum-031": "default",
     "sala-111": "default",
-    "arte-021": "default"
+    "arte-021": "default",
+    "arte-022": "default"
   }
 }
