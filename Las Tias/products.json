@@ -274,19 +274,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-08%20at%2016.06.29.jpeg"
     },
     {
-      "id": "sala-027",
-      "name": "Borla Decorativa",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Borla decorativa para cortinas o sillones",
-      "price": 11000,
-      "badge": null,
-      "color": "#e8ddd0",
-      "icon": "✨",
-      "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Borla%20Decorativa.png"
-    },
-    {
       "id": "sala-028",
       "name": "Botella Decorativa 1 Lt.",
       "category": "Cocina & Comedor",
