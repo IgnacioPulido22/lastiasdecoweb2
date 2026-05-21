@@ -2503,7 +2503,7 @@
       "color": "#f2ead8",
       "icon": "🪔",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FANAL%20CON%20LUZ.jpg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%203.15.07%20PM.jpeg"
     },
     {
       "id": "ilum-028",
@@ -3303,6 +3303,7 @@
     "ilum-031": "default",
     "sala-111": "default",
     "arte-021": "default",
-    "arte-022": "default"
+    "arte-022": "default",
+    "ilum-027": "default"
   }
 }
