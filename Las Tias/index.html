@@ -3614,9 +3614,8 @@
         document.getElementById('af-img-url').value = existingUrl;
         _adminImgBase64 = existingUrl ? null : (PRODUCT_IMAGES[p.id] || null);
         const allGal = PRODUCT_GALLERY[p.id] || [];
-        const galUrls = allGal.filter(s => !s.startsWith('data:'));
-        _adminGalBase64 = allGal.filter(s => s.startsWith('data:'));
-        document.getElementById('af-gal-urls').value = galUrls.join('\n');
+        _adminGalBase64 = [...allGal];
+        document.getElementById('af-gal-urls').value = '';
         syncMainImgUI(existingUrl || _adminImgBase64);
         syncGalleryUI(_adminGalBase64);
       } else {
