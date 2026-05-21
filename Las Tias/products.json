@@ -274,19 +274,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-08%20at%2016.06.29.jpeg"
     },
     {
-      "id": "sala-027",
-      "name": "Borla Decorativa",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Borla decorativa para cortinas o sillones",
-      "price": 11000,
-      "badge": null,
-      "color": "#e8ddd0",
-      "icon": "✨",
-      "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Borla%20Decorativa.png"
-    },
-    {
       "id": "sala-028",
       "name": "Botella Decorativa 1 Lt.",
       "category": "Cocina & Comedor",
@@ -2670,7 +2657,7 @@
       "color": "#ede9e1",
       "icon": "🗿",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESCULTURA%20HOMBRE%20PENSANTE.jpg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_ubli6gubli6gubli.png"
     },
     {
       "id": "arte-011",
@@ -2764,19 +2751,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESCULTURA%20ESFERA.jpg"
     },
     {
-      "id": "sala-110",
-      "name": "Borla Decorativa",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Borla Decorativa",
-      "price": 12500,
-      "price_old": null,
-      "badge": null,
-      "color": "#e8ddd0",
-      "icon": "✨",
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Borla%20decorativa%202.png"
-    },
-    {
       "id": "sala-111",
       "name": "Borla Decorativa",
       "category": "Sala & Living",
@@ -2787,7 +2761,7 @@
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/borla%20decorativa%203.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Borla%20Decorativa.png"
     },
     {
       "id": "sala-112",
@@ -2943,9 +2917,38 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-16%20at%205.22.35%20PM.jpeg"
+    },
+    {
+      "id": "arte-021",
+      "name": "Esculturas blancas",
+      "category": "Arte & Cuadros",
+      "sectionId": "arte",
+      "description": "descripcion",
+      "price": 19999,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_xcpjjxxcpjjxxcpj.png"
+    },
+    {
+      "id": "arte-022",
+      "name": "Escultura Love",
+      "category": "Arte & Cuadros",
+      "sectionId": "arte",
+      "description": "descripcion",
+      "price": 20000,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_kg136lkg136lkg13.png"
     }
   ],
   "gallery": {
+    "coc-048": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-11%20at%2019.42.14%206.jpeg"
+    ],
     "ban-008": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/DISPENSER%202%201.jpg"
     ],
@@ -2960,6 +2963,13 @@
     ],
     "ban-017": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-03%20at%2016.33.04%203.jpeg"
+    ],
+    "sala-111": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Borla%20decorativa%202.png",
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/borla%20decorativa%203.png"
+    ],
+    "arte-021": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_tfi37dtfi37dtfi3.png"
     ]
   },
   "details": {
@@ -3274,6 +3284,9 @@
     "sala-117": "default",
     "sala-051": "default",
     "sala-118": "default",
-    "ilum-031": "default"
+    "ilum-031": "default",
+    "sala-111": "default",
+    "arte-021": "default",
+    "arte-022": "default"
   }
 }
