@@ -2817,7 +2817,7 @@
     },
     {
       "id": "sala-113",
-      "name": "Manta/ pie de cama /mante",
+      "name": "Manta/Pie de cama/Mantel",
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Manta/ pie de cama /mante",
@@ -2980,6 +2980,9 @@
     "sala-005": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%204.56.17%20PM.jpeg",
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%204.22.49%20PM.jpeg"
+    ],
+    "sala-113": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%203.57.37%20PM.jpeg"
     ]
   },
   "details": {
