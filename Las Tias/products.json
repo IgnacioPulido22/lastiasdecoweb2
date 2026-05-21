@@ -612,19 +612,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%203.14.08%20PM%202.jpeg"
     },
     {
-      "id": "sala-060",
-      "name": "Frasco Vidrio Plata Mediano",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Frasco vidrio plata mediano, 9.5x10 cm",
-      "price": 17000,
-      "badge": null,
-      "color": "#ddd0bf",
-      "icon": "🫙",
-      "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_f7yc5hf7yc5hf7yc%201.png"
-    },
-    {
       "id": "sala-062",
       "name": "Frasco Vidrio Plata Set x3",
       "category": "Sala & Living",
@@ -3239,7 +3226,6 @@
     "arte-015": "default",
     "arte-016": "canvas_abstract",
     "arte-017": "botanical_print",
-    "sala-060": "default",
     "sala-062": "default",
     "sala-092": "default",
     "sala-093": "default",
