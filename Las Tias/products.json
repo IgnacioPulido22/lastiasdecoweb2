@@ -2800,7 +2800,7 @@
       "badge": null,
       "color": "#e8e4dc",
       "icon": "✨",
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193709.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%203.03.15%20PM.jpeg"
     },
     {
       "id": "sala-113",
@@ -3290,6 +3290,7 @@
     "ilum-031": "default",
     "sala-111": "default",
     "arte-021": "default",
-    "arte-022": "default"
+    "arte-022": "default",
+    "coc-060": "default"
   }
 }
