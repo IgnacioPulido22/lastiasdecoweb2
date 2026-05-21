@@ -1428,7 +1428,7 @@
       "color": "#ede8e0",
       "icon": "🍽️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20PLUMA%20DORADA.jpg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%203.00.43%20PM%201.jpeg"
     },
     {
       "id": "coc-024",
@@ -3291,6 +3291,7 @@
     "sala-111": "default",
     "arte-021": "default",
     "arte-022": "default",
-    "coc-060": "default"
+    "coc-060": "default",
+    "coc-023": "default"
   }
 }
