@@ -4049,7 +4049,11 @@
       try {
         const headers = { Accept: 'application/vnd.github.v3+json' };
         if (token) headers.Authorization = `token ${token}`;
-        const resp = await fetch(GH_API + '?t=' + Date.now(), { headers });
+        let resp = await fetch(GH_API + '?t=' + Date.now(), { headers });
+        if (resp.status === 401 && token) {
+          localStorage.removeItem('ltd_gh_token');
+          resp = await fetch(GH_API + '?t=' + Date.now(), { Accept: 'application/vnd.github.v3+json' });
+        }
         if (!resp.ok) throw new Error('Archivo no encontrado en GitHub');
         const json    = await resp.json();
         const decoded = decodeURIComponent(escape(atob(json.content.replace(/\n/g, ''))));
