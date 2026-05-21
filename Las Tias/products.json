@@ -540,7 +540,7 @@
       "sectionId": "sala",
       "description": "Espejo biselado grande, 60x120 cm",
       "price": 140000,
-      "badge": null,
+      "badge": "Agotado",
       "color": "#e5d9c8",
       "icon": "🪞",
       "price_old": null,
@@ -3277,6 +3277,7 @@
     "sala-059": "default",
     "coc-030": "default",
     "sala-104": "default",
-    "sala-079": "default"
+    "sala-079": "default",
+    "sala-052": "default"
   }
 }
