@@ -761,7 +761,7 @@
       "sectionId": "sala",
       "description": "Jarrón dorado con hojitas, 26x11 cm",
       "price": 45000,
-      "badge": "Destacado",
+      "badge": "Agotado",
       "color": "#ddd0bf",
       "icon": "🌸",
       "price_old": null,
@@ -3276,6 +3276,7 @@
     "sala-036": "default",
     "sala-059": "default",
     "coc-030": "default",
-    "sala-104": "default"
+    "sala-104": "default",
+    "sala-079": "default"
   }
 }
