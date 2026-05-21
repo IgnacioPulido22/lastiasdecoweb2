@@ -557,7 +557,7 @@
       "color": "#e8ddd0",
       "icon": "🪞",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_vgbixgvgbixgvgbi.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%203.06.02%20PM.jpeg"
     },
     {
       "id": "sala-055",
@@ -3292,6 +3292,7 @@
     "arte-021": "default",
     "arte-022": "default",
     "coc-060": "default",
-    "coc-023": "default"
+    "coc-023": "default",
+    "sala-053": "default"
   }
 }
