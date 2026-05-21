@@ -817,7 +817,7 @@
       "color": "#e5d9c8",
       "icon": "🧣",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20191533.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_uzzu44uzzu44uzzu.png"
     },
     {
       "id": "sala-085",
@@ -2946,9 +2946,6 @@
     }
   ],
   "gallery": {
-    "coc-048": [
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-11%20at%2019.42.14%206.jpeg"
-    ],
     "ban-008": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/DISPENSER%202%201.jpg"
     ],
@@ -2963,6 +2960,9 @@
     ],
     "ban-017": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-03%20at%2016.33.04%203.jpeg"
+    ],
+    "coc-048": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-11%20at%2019.42.14%206.jpeg"
     ],
     "sala-111": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Borla%20decorativa%202.png",
@@ -3287,6 +3287,7 @@
     "ilum-031": "default",
     "sala-111": "default",
     "arte-021": "default",
-    "arte-022": "default"
+    "arte-022": "default",
+    "sala-084": "default"
   }
 }
