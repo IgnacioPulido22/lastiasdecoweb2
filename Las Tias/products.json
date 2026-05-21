@@ -1775,7 +1775,7 @@
       "sectionId": "cocina",
       "description": "Set 6 tazas burbuja doble fondo, 10x9 cm",
       "price": 55000,
-      "badge": null,
+      "badge": "Agotado",
       "color": "#e8e4dc",
       "icon": "☕",
       "price_old": null,
@@ -3278,6 +3278,7 @@
     "coc-030": "default",
     "sala-104": "default",
     "sala-079": "default",
-    "sala-052": "default"
+    "sala-052": "default",
+    "coc-052": "default"
   }
 }
