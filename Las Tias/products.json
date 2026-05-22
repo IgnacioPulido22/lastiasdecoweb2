@@ -384,7 +384,7 @@
       "sectionId": "sala",
       "description": "Candelabro alto base fumé, 32x11 cm",
       "price": 29000,
-      "badge": null,
+      "badge": "Agotado",
       "color": "#ddd0bf",
       "icon": "🕯️",
       "price_old": null,
@@ -3280,6 +3280,7 @@
     "sala-079": "default",
     "sala-052": "default",
     "coc-052": "default",
-    "coc-022": "default"
+    "coc-022": "default",
+    "sala-038": "default"
   }
 }
