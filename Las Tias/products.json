@@ -1385,7 +1385,7 @@
       "sectionId": "cocina",
       "description": "Set 3 bandejas mimbre grass, 36-32-29 cm diám.",
       "price": 48000,
-      "badge": null,
+      "badge": "Agotado",
       "color": "#e8e4dc",
       "icon": "🍽️",
       "price_old": null,
@@ -3279,6 +3279,7 @@
     "sala-104": "default",
     "sala-079": "default",
     "sala-052": "default",
-    "coc-052": "default"
+    "coc-052": "default",
+    "coc-022": "default"
   }
 }
