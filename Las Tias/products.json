@@ -2451,7 +2451,7 @@
       "color": "#ede6d5",
       "icon": "🪔",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FANALES%20LABRADOS%20DORADOS.jpg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.44.36.jpeg"
     },
     {
       "id": "ilum-025",
@@ -3289,6 +3289,7 @@
     "sala-052": "default",
     "coc-052": "default",
     "coc-022": "default",
-    "sala-038": "default"
+    "sala-038": "default",
+    "ilum-024": "default"
   }
 }
