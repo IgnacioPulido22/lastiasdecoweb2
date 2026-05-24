@@ -1701,7 +1701,7 @@
       "color": "#e8e4dc",
       "icon": "🗂️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193333.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_ryl4ydryl4ydryl4.png"
     },
     {
       "id": "coc-047",
@@ -2975,6 +2975,9 @@
     "ilum-029": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.32.17.jpeg",
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.32.26.jpeg"
+    ],
+    "coc-046": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.39.01.jpeg"
     ]
   },
   "details": {
@@ -3307,6 +3310,7 @@
     "ilum-024": "default",
     "coc-057": "default",
     "coc-056": "default",
-    "ilum-029": "default"
+    "ilum-029": "default",
+    "coc-046": "default"
   }
 }
