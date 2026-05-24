@@ -2922,6 +2922,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%2013.57.50.jpeg"
+    },
+    {
+      "id": "coc-061",
+      "name": "Escurridor de Platos",
+      "category": "Cocina & Comedor",
+      "sectionId": "cocina",
+      "description": "Escurridor de Platos bambu",
+      "price": 41000,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.46.30.jpeg"
     }
   ],
   "gallery": {
@@ -3329,6 +3342,7 @@
     "coc-056": "default",
     "ilum-029": "default",
     "coc-046": "default",
-    "sala-109": "default"
+    "sala-109": "default",
+    "coc-061": "default"
   }
 }
