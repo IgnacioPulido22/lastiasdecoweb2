@@ -2948,6 +2948,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.46.57.jpeg"
+    },
+    {
+      "id": "sala-119",
+      "name": "Candelabro Portavela Madera",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "Candelabro Portavela Madera",
+      "price": 1,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_sflewmsflewmsfle.png"
     }
   ],
   "gallery": {
@@ -3357,6 +3370,7 @@
     "coc-046": "default",
     "sala-109": "default",
     "coc-061": "default",
-    "coc-062": "default"
+    "coc-062": "default",
+    "sala-119": "default"
   }
 }
