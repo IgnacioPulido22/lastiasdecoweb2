@@ -2909,6 +2909,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_kg136lkg136lkg13.png"
+    },
+    {
+      "id": "dorm-010",
+      "name": "Caja relojero Cuadrada Con Strass",
+      "category": "Dormitorio",
+      "sectionId": "dormitorio",
+      "description": "Caja relojero Cuadrada Con Strass",
+      "price": 20000,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%2013.57.50.jpeg"
     }
   ],
   "gallery": {
@@ -3148,7 +3161,7 @@
     "dorm-007": "jewelry_box",
     "dorm-008": "diffuser",
     "dorm-009": "frame",
-    "dorm-010": "curtains",
+    "dorm-010": "default",
     "dorm-011": "pillow_large",
     "dorm-012": "clothes_rack",
     "dorm-013": "candle",
