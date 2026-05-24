@@ -2991,6 +2991,10 @@
     ],
     "coc-046": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.39.01.jpeg"
+    ],
+    "sala-109": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2015.04.01.jpeg",
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_1mw8z71mw8z71mw8.png"
     ]
   },
   "details": {
@@ -3324,6 +3328,7 @@
     "coc-057": "default",
     "coc-056": "default",
     "ilum-029": "default",
-    "coc-046": "default"
+    "coc-046": "default",
+    "sala-109": "default"
   }
 }
