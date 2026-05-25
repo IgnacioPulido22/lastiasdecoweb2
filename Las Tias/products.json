@@ -2704,16 +2704,16 @@
     },
     {
       "id": "arte-020",
-      "name": "Escultura Esfera Grande",
+      "name": "Escultura Esfera Grande/Chica",
       "category": "Arte & Cuadros",
       "sectionId": "arte",
-      "description": "Escultura esfera grande decorativa, 17x17 cm",
+      "description": "Escultura esfera grande decorativa en distintos tamaños, Son por unidad",
       "price": 21000,
       "badge": null,
       "color": "#ede9e1",
       "icon": "🔮",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESCULTURA%20ESFERA.jpg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_dbqog9dbqog9dbqo.png"
     },
     {
       "id": "sala-111",
@@ -3372,6 +3372,7 @@
     "sala-109": "default",
     "coc-061": "default",
     "coc-062": "default",
-    "sala-119": "default"
+    "sala-119": "default",
+    "arte-020": "default"
   }
 }
