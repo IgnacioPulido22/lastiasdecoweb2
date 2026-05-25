@@ -2987,6 +2987,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_jvww4jjvww4jjvww.png"
+    },
+    {
+      "id": "jard-007",
+      "name": "Maceta Dorada 13CM",
+      "category": "Jardín & Exterior",
+      "sectionId": "jardin",
+      "description": "Maceta dorada, 13x11 cm. Pieza seleccionada con cuidado para tu hogar.",
+      "price": 21000,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_evpuseevpuseevpu.png"
     }
   ],
   "gallery": {
@@ -3073,6 +3086,9 @@
     ],
     "coc-019": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/580c938b-a2dd-4fff-80d6-ae21c74a2247.jfif"
+    ],
+    "jard-007": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/eeffb1d2-2f5b-49b7-9b7e-0130f1f1b6f4.jfif"
     ]
   },
   "details": {
@@ -3299,7 +3315,7 @@
     "jard-004": "tray",
     "jard-005": "outdoor_chair",
     "jard-006": "cactus",
-    "jard-007": "watering_can",
+    "jard-007": "default",
     "jard-008": "bowl",
     "jard-009": "lantern",
     "jard-010": "pillow",
