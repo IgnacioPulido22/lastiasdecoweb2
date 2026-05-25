@@ -3000,6 +3000,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_evpuseevpuseevpu.png"
+    },
+    {
+      "id": "sala-120",
+      "name": "Cortinas color Crema 1.40 x 2.10",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "Cortinas 140cm x 210cm",
+      "price": 1,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_av2pzxav2pzxav2p.png"
     }
   ],
   "gallery": {
@@ -3089,6 +3102,9 @@
     ],
     "jard-007": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/eeffb1d2-2f5b-49b7-9b7e-0130f1f1b6f4.jfif"
+    ],
+    "sala-120": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-25%20at%2014.13.12.jpeg"
     ]
   },
   "details": {
@@ -3430,6 +3446,7 @@
     "sala-119": "default",
     "arte-020": "default",
     "coc-063": "default",
-    "coc-064": "default"
+    "coc-064": "default",
+    "sala-120": "default"
   }
 }
