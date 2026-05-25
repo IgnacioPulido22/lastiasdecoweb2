@@ -2961,6 +2961,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_sflewmsflewmsfle.png"
+    },
+    {
+      "id": "coc-063",
+      "name": "Bandeja Resina con espejo",
+      "category": "Cocina & Comedor",
+      "sectionId": "cocina",
+      "description": "Bandeja de resina con espejo rectangular",
+      "price": 30000,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.43.54.jpeg"
     }
   ],
   "gallery": {
@@ -3038,6 +3051,9 @@
     ],
     "ilum-030": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.43.54.jpeg"
+    ],
+    "coc-063": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.37.56.jpeg"
     ]
   },
   "details": {
@@ -3376,6 +3392,7 @@
     "coc-061": "default",
     "coc-062": "default",
     "sala-119": "default",
-    "arte-020": "default"
+    "arte-020": "default",
+    "coc-063": "default"
   }
 }
