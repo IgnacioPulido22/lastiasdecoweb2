@@ -1350,7 +1350,7 @@
       "color": "#ede8e0",
       "icon": "🍽️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193850.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_bln59jbln59jbln5.png"
     },
     {
       "id": "coc-020",
@@ -3070,6 +3070,9 @@
     ],
     "coc-064": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/c7e74504-0d77-40c8-826c-16bef9f6dda9.jfif"
+    ],
+    "coc-019": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/580c938b-a2dd-4fff-80d6-ae21c74a2247.jfif"
     ]
   },
   "details": {
