@@ -2768,19 +2768,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20pava%20azul.jpeg"
     },
     {
-      "id": "coc-060",
-      "name": "Bandejas Caladas Dorada",
-      "category": "Cocina & Comedor",
-      "sectionId": "cocina",
-      "description": "Set 2 bandejas caladas plata, 34x24 y 28x19 cm",
-      "price": 60000,
-      "price_old": null,
-      "badge": null,
-      "color": "#e8e4dc",
-      "icon": "✨",
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%203.03.15%20PM.jpeg"
-    },
-    {
       "id": "sala-113",
       "name": "Manta/Pie de cama/Mantel",
       "category": "Sala & Living",
@@ -3449,7 +3436,6 @@
     "sala-111": "default",
     "arte-021": "default",
     "arte-022": "default",
-    "coc-060": "default",
     "coc-023": "default",
     "sala-053": "default",
     "sala-084": "default",
