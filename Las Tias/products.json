@@ -1233,7 +1233,7 @@
       "color": "#ede8e0",
       "icon": "🍽️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20bandeja%20hoja.jpeg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20OVALADA%20BLACA%20Y%20ORO.jpg"
     },
     {
       "id": "coc-010",
@@ -1246,7 +1246,7 @@
       "color": "#e8e4dc",
       "icon": "🍽️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20bandeja%20hoja.jpeg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20OVALADA%20BLACA%20Y%20ORO.jpg"
     },
     {
       "id": "coc-011",
@@ -1701,7 +1701,7 @@
       "color": "#e8e4dc",
       "icon": "🗂️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193333.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_ryl4ydryl4ydryl4%201.png"
     },
     {
       "id": "coc-047",
@@ -1828,8 +1828,10 @@
       "description": "Set 6 platos bambú chico",
       "price": 48000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🍽️"
+      "color": "#e8e4dc",
+      "icon": "🍽️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_js2syajs2syajs2s.png"
     },
     {
       "id": "coc-057",
@@ -1839,8 +1841,10 @@
       "description": "Set 6 platos bambú grande",
       "price": 60000,
       "badge": "Destacado",
-      "color": "#EDE8E0",
-      "icon": "🍽️"
+      "color": "#ede8e0",
+      "icon": "🍽️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_js2syajs2syajs2s.png"
     },
     {
       "id": "ban-001",
@@ -2490,7 +2494,7 @@
       "color": "#f0e8d8",
       "icon": "✨",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20192157.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_syz82nsyz82nsyz8.png"
     },
     {
       "id": "arte-001",
@@ -2918,6 +2922,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_sflewmsflewmsfle.png"
+    },
+    {
+      "id": "sala-119",
+      "name": "Cortinas Color Arena 1.40cm x 2.10cm+",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "Cortinas Arena 140cm x 210",
+      "price": 49998,
+      "price_old": 60000,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_av2pzxav2pzxav2p.png"
     }
   ],
   "gallery": {
@@ -2966,6 +2983,17 @@
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%203.14.08%20PM%203.jpeg",
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%203.14.09%20PM%202.jpeg",
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%203.14.09%20PM%203.jpeg"
+    ],
+    "sala-109": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_1mw8z71mw8z71mw8.png",
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_1mw8z71mw8z71mw8.png"
+    ],
+    "ilum-029": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.32.26.jpeg",
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.32.17.jpeg"
+    ],
+    "sala-119": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-26%20at%2010.36.44.jpeg"
     ]
   },
   "details": {
@@ -3295,6 +3323,12 @@
     "coc-052": "default",
     "coc-022": "default",
     "sala-038": "default",
-    "arte-023": "default"
+    "arte-023": "default",
+    "coc-046": "default",
+    "sala-109": "default",
+    "coc-056": "default",
+    "coc-057": "default",
+    "ilum-029": "default",
+    "sala-119": "default"
   }
 }
