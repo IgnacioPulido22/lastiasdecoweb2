@@ -1828,8 +1828,10 @@
       "description": "Set 6 platos bambú chico",
       "price": 48000,
       "badge": null,
-      "color": "#E8E4DC",
-      "icon": "🍽️"
+      "color": "#e8e4dc",
+      "icon": "🍽️",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_js2syajs2syajs2s.png"
     },
     {
       "id": "coc-057",
@@ -3301,6 +3303,7 @@
     "sala-038": "default",
     "arte-023": "default",
     "coc-046": "default",
-    "sala-109": "default"
+    "sala-109": "default",
+    "coc-056": "default"
   }
 }
