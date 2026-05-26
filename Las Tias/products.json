@@ -1233,7 +1233,7 @@
       "color": "#ede8e0",
       "icon": "🍽️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-25%20at%2014.12.29.jpeg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20OVALADA%20BLACA%20Y%20ORO.jpg"
     },
     {
       "id": "coc-010",
@@ -1246,7 +1246,7 @@
       "color": "#e8e4dc",
       "icon": "🍽️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-25%20at%2014.12.29.jpeg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20OVALADA%20BLACA%20Y%20ORO.jpg"
     },
     {
       "id": "coc-011",
@@ -1350,7 +1350,7 @@
       "color": "#ede8e0",
       "icon": "🍽️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_bln59jbln59jbln5.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193850.png"
     },
     {
       "id": "coc-020",
@@ -1701,7 +1701,7 @@
       "color": "#e8e4dc",
       "icon": "🗂️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_ryl4ydryl4ydryl4.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20193333.png"
     },
     {
       "id": "coc-047",
@@ -1828,10 +1828,8 @@
       "description": "Set 6 platos bambú chico",
       "price": 48000,
       "badge": null,
-      "color": "#e8e4dc",
-      "icon": "🍽️",
-      "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_ggob3zggob3zggob.png"
+      "color": "#E8E4DC",
+      "icon": "🍽️"
     },
     {
       "id": "coc-057",
@@ -1841,10 +1839,8 @@
       "description": "Set 6 platos bambú grande",
       "price": 60000,
       "badge": "Destacado",
-      "color": "#ede8e0",
-      "icon": "🍽️",
-      "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_eio0j8eio0j8eio0.png"
+      "color": "#EDE8E0",
+      "icon": "🍽️"
     },
     {
       "id": "ban-001",
@@ -1922,7 +1918,7 @@
       "color": "#e2eeec",
       "icon": "🗑️",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.39.19.jpeg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_hr63dahr63dahr63.png"
     },
     {
       "id": "ban-007",
@@ -2455,7 +2451,7 @@
       "color": "#ede6d5",
       "icon": "🪔",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.44.36.jpeg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FANALES%20LABRADOS%20DORADOS.jpg"
     },
     {
       "id": "ilum-025",
@@ -2494,7 +2490,7 @@
       "color": "#f0e8d8",
       "icon": "✨",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_syz82nsyz82nsyz8.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20192157.png"
     },
     {
       "id": "arte-001",
@@ -2600,12 +2596,12 @@
     },
     {
       "id": "arte-009",
-      "name": "Escultura Letra \"E\" (Solo plateado)",
+      "name": "Escultura Letra \"E\"",
       "category": "Arte & Cuadros",
       "sectionId": "arte",
       "description": "Escultura letra \"E\" decorativa, 14x11 cm",
       "price": 14000,
-      "badge": "Últimas unidades",
+      "badge": null,
       "color": "#e8e4dc",
       "icon": "✨",
       "price_old": null,
@@ -2613,12 +2609,12 @@
     },
     {
       "id": "arte-010",
-      "name": "Escultura Platón (Solo plateado)",
+      "name": "Escultura Platón",
       "category": "Arte & Cuadros",
       "sectionId": "arte",
       "description": "Escultura Platón dorado hombre, 16x13 cm",
       "price": 30000,
-      "badge": "Últimas unidades",
+      "badge": null,
       "color": "#ede9e1",
       "icon": "🗿",
       "price_old": null,
@@ -2661,7 +2657,7 @@
       "color": "#ede9e1",
       "icon": "🗼",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2015.04.20.jpeg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_e36j2ce36j2ce36j.png"
     },
     {
       "id": "arte-016",
@@ -2704,16 +2700,16 @@
     },
     {
       "id": "arte-020",
-      "name": "Escultura Esfera Grande/Chica",
+      "name": "Escultura Esfera Grande",
       "category": "Arte & Cuadros",
       "sectionId": "arte",
-      "description": "Escultura esfera grande decorativa en distintos tamaños, Son por unidad",
+      "description": "Escultura esfera grande decorativa, 17x17 cm",
       "price": 21000,
       "badge": null,
       "color": "#ede9e1",
       "icon": "🔮",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_dbqog9dbqog9dbqo.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESCULTURA%20ESFERA.jpg"
     },
     {
       "id": "sala-111",
@@ -2895,7 +2891,7 @@
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_pcg71qpcg71qpcg7.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_xcpjjxxcpjjxxcpj.png"
     },
     {
       "id": "arte-022",
@@ -2911,114 +2907,20 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_kg136lkg136lkg13.png"
     },
     {
-      "id": "dorm-010",
-      "name": "Caja relojero Cuadrada Con Strass",
-      "category": "Dormitorio",
-      "sectionId": "dormitorio",
-      "description": "Caja relojero Cuadrada Con Strass",
-      "price": 20000,
-      "price_old": null,
-      "badge": null,
-      "color": "#e8ddd0",
-      "icon": "✨",
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%2013.57.50.jpeg"
-    },
-    {
-      "id": "coc-061",
-      "name": "Escurridor de Platos",
-      "category": "Cocina & Comedor",
-      "sectionId": "cocina",
-      "description": "Escurridor de Platos bambu",
-      "price": 41000,
-      "price_old": null,
-      "badge": null,
-      "color": "#e8ddd0",
-      "icon": "✨",
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.46.30.jpeg"
-    },
-    {
-      "id": "coc-062",
-      "name": "Escurridor de platos cruzado",
-      "category": "Cocina & Comedor",
-      "sectionId": "cocina",
-      "description": "Escurridor de platos cruzado",
-      "price": 41000,
-      "price_old": null,
-      "badge": null,
-      "color": "#e8ddd0",
-      "icon": "✨",
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.46.57.jpeg"
-    },
-    {
-      "id": "sala-119",
-      "name": "Candelabro Portavela Madera",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Candelabro Portavela Madera",
-      "price": 1,
+      "id": "arte-023",
+      "name": "Escultura Ajedrez Madera",
+      "category": "Arte & Cuadros",
+      "sectionId": "arte",
+      "description": "Escultura de Ajedrez madera 21cm",
+      "price": 2,
       "price_old": null,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_sflewmsflewmsfle.png"
-    },
-    {
-      "id": "coc-063",
-      "name": "Bandeja Resina con espejo",
-      "category": "Cocina & Comedor",
-      "sectionId": "cocina",
-      "description": "Bandeja de resina con espejo rectangular",
-      "price": 30000,
-      "price_old": null,
-      "badge": null,
-      "color": "#e8ddd0",
-      "icon": "✨",
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.43.54.jpeg"
-    },
-    {
-      "id": "coc-064",
-      "name": "BANDEJAS CALADA PLATA SET X2",
-      "category": "Cocina & Comedor",
-      "sectionId": "cocina",
-      "description": "Bandejas caladas de plata x2 unidades",
-      "price": 1,
-      "price_old": null,
-      "badge": null,
-      "color": "#e8ddd0",
-      "icon": "✨",
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_jvww4jjvww4jjvww.png"
-    },
-    {
-      "id": "jard-007",
-      "name": "Maceta Dorada 13CM",
-      "category": "Jardín & Exterior",
-      "sectionId": "jardin",
-      "description": "Maceta dorada, 13x11 cm. Pieza seleccionada con cuidado para tu hogar.",
-      "price": 21000,
-      "price_old": null,
-      "badge": null,
-      "color": "#e8ddd0",
-      "icon": "✨",
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_evpuseevpuseevpu.png"
-    },
-    {
-      "id": "sala-120",
-      "name": "Cortinas color Crema 1.40 x 2.10",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Cortinas 140cm x 210cm",
-      "price": 1,
-      "price_old": null,
-      "badge": null,
-      "color": "#e8ddd0",
-      "icon": "✨",
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_av2pzxav2pzxav2p.png"
     }
   ],
   "gallery": {
-    "coc-048": [
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-11%20at%2019.42.14%206.jpeg"
-    ],
     "ban-008": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/DISPENSER%202%201.jpg"
     ],
@@ -3034,12 +2936,14 @@
     "ban-017": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-03%20at%2016.33.04%203.jpeg"
     ],
+    "coc-048": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-11%20at%2019.42.14%206.jpeg"
+    ],
     "sala-111": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Borla%20decorativa%202.png",
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/borla%20decorativa%203.png"
     ],
     "arte-021": [
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_xcpjjxxcpjjxxcpj.png",
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_tfi37dtfi37dtfi3.png"
     ],
     "sala-002": [
@@ -3062,49 +2966,6 @@
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%203.14.08%20PM%203.jpeg",
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%203.14.09%20PM%202.jpeg",
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%203.14.09%20PM%203.jpeg"
-    ],
-    "coc-021": [
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.59.50.jpeg",
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.59.50%201.jpeg",
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.59.50%202.jpeg"
-    ],
-    "arte-014": [
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.38.08.jpeg"
-    ],
-    "ilum-024": [
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FANALES%20LABRADOS%20DORADOS%201.jpg"
-    ],
-    "coc-023": [
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.42.59.jpeg"
-    ],
-    "ilum-029": [
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.32.17.jpeg",
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.32.26.jpeg"
-    ],
-    "coc-046": [
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.39.01.jpeg"
-    ],
-    "sala-109": [
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2015.04.01.jpeg",
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_1mw8z71mw8z71mw8.png"
-    ],
-    "ilum-030": [
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.43.54.jpeg"
-    ],
-    "coc-063": [
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.37.56.jpeg"
-    ],
-    "coc-064": [
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/c7e74504-0d77-40c8-826c-16bef9f6dda9.jfif"
-    ],
-    "coc-019": [
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/580c938b-a2dd-4fff-80d6-ae21c74a2247.jfif"
-    ],
-    "jard-007": [
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/eeffb1d2-2f5b-49b7-9b7e-0130f1f1b6f4.jfif"
-    ],
-    "sala-120": [
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-25%20at%2014.13.12.jpeg"
     ]
   },
   "details": {
@@ -3241,8 +3102,7 @@
     "arte-014": "Reproducción de litografía parisina estilo Belle Époque con motivos florales. Impresión sobre papel texturado. Marco ovalado de madera dorada con filete. Medidas: 30×40 cm. Muy decorativa.",
     "arte-015": "Móvil artístico de latón dorado con formas geométricas abstractas e hilo de nylon invisible. Se mueve con la brisa. Colgante de 80 cm. Ideal para dormitorios, espacios de meditación y jardines.",
     "arte-016": "Óleo original sobre tela de lino con texturas en relieve. Tonos terracota, siena y dorado con toques de negro. Técnica mixta con espátula. Firmado. Con certificado. Medidas: 80×100 cm. Sin marco.",
-    "arte-017": "Ilustración a tinta china sobre papel de algodón 300 g. Arquitectura neoclásica romana con fina línea técnica. Edición de 30 ejemplares numerada y firmada. Marco de aluminio negro. 30×40 cm.",
-    "coc-064": "(34x24 -28x19)  519g"
+    "arte-017": "Ilustración a tinta china sobre papel de algodón 300 g. Arquitectura neoclásica romana con fina línea técnica. Edición de 30 ejemplares numerada y firmada. Marco de aluminio negro. 30×40 cm."
   },
   "svgMap": {
     "sala-001": "vase",
@@ -3276,7 +3136,7 @@
     "dorm-007": "jewelry_box",
     "dorm-008": "diffuser",
     "dorm-009": "frame",
-    "dorm-010": "default",
+    "dorm-010": "curtains",
     "dorm-011": "pillow_large",
     "dorm-012": "clothes_rack",
     "dorm-013": "candle",
@@ -3331,7 +3191,7 @@
     "jard-004": "tray",
     "jard-005": "outdoor_chair",
     "jard-006": "cactus",
-    "jard-007": "default",
+    "jard-007": "watering_can",
     "jard-008": "bowl",
     "jard-009": "lantern",
     "jard-010": "pillow",
@@ -3435,18 +3295,6 @@
     "coc-052": "default",
     "coc-022": "default",
     "sala-038": "default",
-    "ilum-024": "default",
-    "coc-057": "default",
-    "coc-056": "default",
-    "ilum-029": "default",
-    "coc-046": "default",
-    "sala-109": "default",
-    "coc-061": "default",
-    "coc-062": "default",
-    "sala-119": "default",
-    "arte-020": "default",
-    "coc-063": "default",
-    "coc-064": "default",
-    "sala-120": "default"
+    "arte-023": "default"
   }
 }
