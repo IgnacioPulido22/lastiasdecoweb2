@@ -3013,6 +3013,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_46ble546ble546bl.png"
+    },
+    {
+      "id": "dorm-010",
+      "name": "Caja de relojero cuadrada con strass",
+      "category": "Dormitorio",
+      "sectionId": "dormitorio",
+      "description": "Caja Joyero Cuadrada chica con strass",
+      "price": 2,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_8f9l8w8f9l8w8f9l.png"
     }
   ],
   "gallery": {
@@ -3108,6 +3121,9 @@
     ],
     "sala-120": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2015.05.04.jpeg"
+    ],
+    "dorm-010": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/93bd2705-e40d-40d6-8302-7537821ac52d.jpg"
     ]
   },
   "details": {
@@ -3278,7 +3294,7 @@
     "dorm-007": "jewelry_box",
     "dorm-008": "diffuser",
     "dorm-009": "frame",
-    "dorm-010": "curtains",
+    "dorm-010": "default",
     "dorm-011": "pillow_large",
     "dorm-012": "clothes_rack",
     "dorm-013": "candle",
