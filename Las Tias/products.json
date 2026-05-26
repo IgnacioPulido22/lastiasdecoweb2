@@ -2948,6 +2948,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_evpuseevpuseevpu.png"
+    },
+    {
+      "id": "coc-061",
+      "name": "Bandeja Calada Plateada",
+      "category": "Cocina & Comedor",
+      "sectionId": "cocina",
+      "description": "Bandeja Calada color plata",
+      "price": 2,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_jvww4jjvww4jjvww.png"
     }
   ],
   "gallery": {
@@ -3354,6 +3367,7 @@
     "coc-057": "default",
     "ilum-029": "default",
     "sala-119": "default",
-    "arte-020": "default"
+    "arte-020": "default",
+    "coc-061": "default"
   }
 }
