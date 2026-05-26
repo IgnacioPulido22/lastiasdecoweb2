@@ -3013,6 +3013,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_8f9l8w8f9l8w8f9l.png"
+    },
+    {
+      "id": "coc-065",
+      "name": "Reloj Arena",
+      "category": "Cocina & Comedor",
+      "sectionId": "cocina",
+      "description": "a",
+      "price": 2,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%203.04.01%20PM.jpeg"
     }
   ],
   "gallery": {
@@ -3466,6 +3479,7 @@
     "coc-063": "default",
     "coc-064": "default",
     "sala-120": "default",
-    "sala-080": "default"
+    "sala-080": "default",
+    "coc-065": "default"
   }
 }
