@@ -770,8 +770,8 @@
     {
       "id": "sala-080",
       "name": "Maceta Plata 13cm",
-      "category": "Sala & Living",
-      "sectionId": "sala",
+      "category": "Jardín & Exterior",
+      "sectionId": "jardin",
       "description": "Maceta plateada, 13x11 cm",
       "price": 21000,
       "badge": null,
@@ -3467,6 +3467,7 @@
     "ilum-028": "default",
     "coc-063": "default",
     "coc-064": "default",
-    "sala-120": "default"
+    "sala-120": "default",
+    "sala-080": "default"
   }
 }
