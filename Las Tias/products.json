@@ -2459,7 +2459,7 @@
     },
     {
       "id": "ilum-025",
-      "name": "Fanal Grande",
+      "name": "Fanal Grande/Chico",
       "category": "Iluminación",
       "sectionId": "iluminacion",
       "description": "Fanal grande, 53x25 cm",
@@ -3136,6 +3136,9 @@
     ],
     "coc-014": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%203.03.15%20PM%201.jpeg"
+    ],
+    "ilum-025": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-26%20at%206.56.54%20PM.jpeg"
     ]
   },
   "details": {
@@ -3480,6 +3483,7 @@
     "coc-064": "default",
     "sala-120": "default",
     "sala-080": "default",
-    "coc-065": "default"
+    "coc-065": "default",
+    "ilum-025": "default"
   }
 }
