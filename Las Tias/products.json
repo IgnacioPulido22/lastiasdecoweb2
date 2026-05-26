@@ -2974,6 +2974,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.35.26.jpeg"
+    },
+    {
+      "id": "coc-063",
+      "name": "Escurridor de platos Blanco Bambu",
+      "category": "Cocina & Comedor",
+      "sectionId": "cocina",
+      "description": "Escurridor de platos",
+      "price": 2,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.46.30.jpeg"
     }
   ],
   "gallery": {
@@ -3406,6 +3419,7 @@
     "coc-061": "default",
     "coc-062": "default",
     "ilum-024": "default",
-    "ilum-028": "default"
+    "ilum-028": "default",
+    "coc-063": "default"
   }
 }
