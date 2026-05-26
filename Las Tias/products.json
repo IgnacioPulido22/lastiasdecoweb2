@@ -2713,7 +2713,7 @@
       "color": "#ede9e1",
       "icon": "🔮",
       "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESCULTURA%20ESFERA.jpg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_dbqog9dbqog9dbqo.png"
     },
     {
       "id": "sala-111",
@@ -3350,6 +3350,7 @@
     "coc-056": "default",
     "coc-057": "default",
     "ilum-029": "default",
-    "sala-119": "default"
+    "sala-119": "default",
+    "arte-020": "default"
   }
 }
