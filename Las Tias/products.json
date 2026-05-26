@@ -3039,6 +3039,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-26%20at%206.57.57%20PM.jpeg"
+    },
+    {
+      "id": "sala-121",
+      "name": "Florero Liso Alto",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "a",
+      "price": 1,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-26%20at%207.02.52%20PM.jpeg"
     }
   ],
   "gallery": {
@@ -3507,6 +3520,7 @@
     "sala-080": "default",
     "coc-065": "default",
     "ilum-025": "default",
-    "ilum-032": "default"
+    "ilum-032": "default",
+    "sala-121": "default"
   }
 }
