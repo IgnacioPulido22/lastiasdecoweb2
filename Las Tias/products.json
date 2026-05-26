@@ -2600,7 +2600,7 @@
     },
     {
       "id": "arte-009",
-      "name": "Escultura Letra \"E\"",
+      "name": "Escultura Letra \"E\" (solo plateado)",
       "category": "Arte & Cuadros",
       "sectionId": "arte",
       "description": "Escultura letra \"E\" decorativa, 14x11 cm",
@@ -3057,6 +3057,9 @@
     ],
     "ilum-028": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2015.00.58.jpeg"
+    ],
+    "arte-009": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/imagen_2026-05-26_105826751.png"
     ]
   },
   "details": {
