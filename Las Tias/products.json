@@ -3065,6 +3065,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-26%20at%207.03.35%20PM.jpeg"
+    },
+    {
+      "id": "sala-123",
+      "name": "Florero Labrado",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "a",
+      "price": 1,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-26%20at%207.05.34%20PM.jpeg"
     }
   ],
   "gallery": {
@@ -3535,6 +3548,7 @@
     "ilum-025": "default",
     "ilum-032": "default",
     "sala-121": "default",
-    "sala-122": "default"
+    "sala-122": "default",
+    "sala-123": "default"
   }
 }
