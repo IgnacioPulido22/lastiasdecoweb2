@@ -3011,7 +3011,8 @@
       "price_old": null,
       "badge": null,
       "color": "#e8ddd0",
-      "icon": "✨"
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_46ble546ble546bl.png"
     }
   ],
   "gallery": {
@@ -3104,6 +3105,9 @@
     ],
     "ilum-030": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.43.54.jpeg"
+    ],
+    "sala-120": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2015.05.04.jpeg"
     ]
   },
   "details": {
