@@ -1174,6 +1174,15 @@
       transition: all var(--transition);
     }
     .btn-admin-reset:hover { border-color: #e74c3c; color: #e74c3c; }
+    .btn-admin-export {
+      padding: 10px 16px;
+      border: 1px solid #2d7a4f;
+      color: #2d7a4f;
+      font-size: 0.72rem;
+      letter-spacing: 0.08em;
+      transition: all var(--transition);
+    }
+    .btn-admin-export:hover { background: #2d7a4f; color: #fff; }
 
     /* GitHub Sync bar */
     .admin-sync-bar {
@@ -2158,6 +2167,7 @@
           <option value="Arte & Cuadros">Arte & Cuadros</option>
         </select>
         <button class="btn-admin-reset" onclick="resetToDefaultProducts()">↺ Restaurar originales</button>
+        <button class="btn-admin-export" onclick="downloadProductsCSV()">⬇ Descargar Excel</button>
         <button class="btn-admin-new" onclick="openAdminForm(null)">+ Nuevo Producto</button>
       </div>
 
@@ -3730,6 +3740,25 @@
       localStorage.removeItem('ltd_images');
       localStorage.removeItem('ltd_gallery');
       location.reload();
+    }
+
+    function downloadProductsCSV() {
+      const rows = [['Nombre', 'Categoría', 'Precio tachado', 'Precio web']];
+      PRODUCTS.forEach(p => {
+        const name = (p.name || '').replace(/"/g, '""');
+        const cat  = (p.category || '').replace(/"/g, '""');
+        const old  = p.price_old != null ? p.price_old : '';
+        const web  = p.price != null ? p.price : '';
+        rows.push([`"${name}"`, `"${cat}"`, old, web]);
+      });
+      const csv = '﻿' + rows.map(r => r.join(',')).join('\r\n');
+      const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+      const url  = URL.createObjectURL(blob);
+      const a    = document.createElement('a');
+      a.href     = url;
+      a.download = 'catalogo_las_tias.csv';
+      a.click();
+      URL.revokeObjectURL(url);
     }
 
     /* ===========================
