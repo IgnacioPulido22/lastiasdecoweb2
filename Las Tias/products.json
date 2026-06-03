@@ -6,11 +6,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Alfombra tejida, 150x200 cm",
-      "price": 195,
+      "price": 190000,
       "badge": "Agotado",
       "color": "#e8ddd0",
       "icon": "🪡",
-      "price_old": 220,
+      "price_old": 220000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_stj7owstj7owstj7.png"
     },
     {
@@ -19,11 +19,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Diseño geométrico tejido, 155x200 cm",
-      "price": 190,
+      "price": 190000,
       "badge": null,
       "color": "#ddd5c8",
       "icon": "🪡",
-      "price_old": 220,
+      "price_old": 220000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_z2ap9bz2ap9bz2ap.png"
     },
     {
@@ -32,11 +32,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Alfombra circular, 100x100 cm",
-      "price": 27000,
+      "price": 30000,
       "badge": "Agotado",
       "color": "#e5d9c8",
       "icon": "🪡",
-      "price_old": null,
+      "price_old": 38000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-10%20at%2022.04.15.jpeg"
     },
     {
@@ -45,11 +45,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Alfombra a rayas, 150x200 cm",
-      "price": 20,
+      "price": 20000,
       "badge": null,
       "color": "#ddd0bf",
       "icon": "🪡",
-      "price_old": 30
+      "price_old": 30000
     },
     {
       "id": "sala-005",
@@ -57,11 +57,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Alfombra de vellón, 60x100 cm",
-      "price": 27000,
+      "price": 20000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "🪡",
-      "price_old": null,
+      "price_old": 30000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_34kueq34kueq34ku.png"
     },
     {
@@ -70,11 +70,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Almohadón suave copito, 50x50 cm",
-      "price": 30000,
+      "price": 27000,
       "badge": null,
       "color": "#e5d9c8",
       "icon": "🛋️",
-      "price_old": null,
+      "price_old": 35000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Almohadon%2050x50%20Copito%20Blanco.png"
     },
     {
@@ -83,11 +83,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Almohadón copito gris, 50x70 cm",
-      "price": 35900,
+      "price": 30000,
       "badge": null,
       "color": "#ddd5c8",
       "icon": "🛋️",
-      "price_old": null,
+      "price_old": 35000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Almohadon%2050x70%20Copito%20Gris.png"
     },
     {
@@ -96,11 +96,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Almohadón de yute tejido, 40x40 cm",
-      "price": 24000,
+      "price": 35000,
       "badge": null,
       "color": "#ddd0bf",
       "icon": "🛋️",
-      "price_old": null,
+      "price_old": 40000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_bv5we9bv5we9bv5w.png"
     },
     {
@@ -113,7 +113,7 @@
       "badge": null,
       "color": "#e8ddd0",
       "icon": "🛋️",
-      "price_old": null,
+      "price_old": 30000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Almohadon%2040x40%20Raya%20Cruda.png"
     },
     {
@@ -126,7 +126,7 @@
       "badge": null,
       "color": "#ddd5c8",
       "icon": "🛋️",
-      "price_old": null,
+      "price_old": 48000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_j9ur69j9ur69j9ur.png"
     },
     {
@@ -135,11 +135,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Almohadón rayas marrón, 40x40 cm",
-      "price": 24000,
+      "price": 30000,
       "badge": null,
       "color": "#ddd0bf",
       "icon": "🛋️",
-      "price_old": null,
+      "price_old": 40000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Almohadon%2040x40%20Raya%20Marron.png"
     },
     {
@@ -148,11 +148,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Almohadón con diseño rombo, 50x50 cm",
-      "price": 30000,
+      "price": 35000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "🛋️",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Almohadon%2050x50%20Rombo%20Hilos%20Crudo.png"
     },
     {
@@ -165,7 +165,7 @@
       "badge": null,
       "color": "#ddd5c8",
       "icon": "🛋️",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-08%20at%2015.35.08.jpeg"
     },
     {
@@ -174,11 +174,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Almohadón rectangular lana con ochos tejidos",
-      "price": 32500,
+      "price": 35000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "🛋️",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-08%20at%2015.22.07.jpeg"
     },
     {
@@ -191,7 +191,7 @@
       "badge": null,
       "color": "#ddd0bf",
       "icon": "🛋️",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-16%20at%204.30.54%20PM.jpeg"
     },
     {
@@ -200,11 +200,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Almohadón de piel bisón, 50x50 cm",
-      "price": 40000,
+      "price": 35000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "🛋️",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-08%20at%2016.06.29.jpeg"
     },
     {
@@ -213,11 +213,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Almohadón corderoy rectangular",
-      "price": 32000,
+      "price": 40000,
       "badge": null,
       "color": "#ddd5c8",
       "icon": "🛋️",
-      "price_old": null,
+      "price_old": 48000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_i8bf1fi8bf1fi8bf.png"
     },
     {
@@ -226,11 +226,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Almohadón corderoy cuadrado",
-      "price": 40000,
+      "price": 35000,
       "badge": null,
       "color": "#ddd0bf",
       "icon": "🛋️",
-      "price_old": null,
+      "price_old": 40000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_93997v93997v9399.png"
     },
     {
@@ -239,11 +239,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Almohadón con nudo decorativo negro",
-      "price": 31000,
+      "price": 30000,
       "badge": null,
       "color": "#e5d9c8",
       "icon": "🛋️",
-      "price_old": null,
+      "price_old": 40000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_4i3adn4i3adn4i3a.png"
     },
     {
@@ -252,11 +252,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Almohadón con nudo decorativo blanco",
-      "price": 31000,
+      "price": 30000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "🛋️",
-      "price_old": null,
+      "price_old": 40000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_m1djg8m1djg8m1dj.png"
     },
     {
@@ -265,11 +265,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Almohadón de piel gris",
-      "price": 40000,
+      "price": 35000,
       "badge": null,
       "color": "#ddd5c8",
       "icon": "🛋️",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-08%20at%2016.06.29.jpeg"
     },
     {
@@ -278,11 +278,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Botella decorativa vidrio 1 litro, 27 cm",
-      "price": 11000,
+      "price": 13000,
       "badge": null,
       "color": "#ddd0bf",
       "icon": "🫙",
-      "price_old": null,
+      "price_old": 20000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-06%20at%2018.05.11.jpeg"
     },
     {
@@ -291,11 +291,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Set 2 candelabros aluminio dorado, 26 y 37 cm",
-      "price": 60000,
+      "price": 55000,
       "badge": "Destacado",
       "color": "#e8ddd0",
       "icon": "🕯️",
-      "price_old": null,
+      "price_old": 70000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Candelabro%20Aluminio%20Dorado%20Set.png"
     },
     {
@@ -304,11 +304,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Set 2 candelabros negro, 10x7 cm",
-      "price": 9800,
+      "price": 15000,
       "badge": null,
       "color": "#ddd5c8",
       "icon": "🕯️",
-      "price_old": null,
+      "price_old": 20000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_umcgv1umcgv1umcg.png"
     },
     {
@@ -317,11 +317,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Set 2 candelabros blanco, 10x7 cm",
-      "price": 9800,
+      "price": 15000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "🕯️",
-      "price_old": null,
+      "price_old": 20000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_6v9nwx6v9nwx6v9n.png"
     },
     {
@@ -330,11 +330,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Candelabro dorado con caireles, 35x10 cm",
-      "price": 69000,
+      "price": 50000,
       "badge": "Destacado",
       "color": "#e5d9c8",
       "icon": "🕯️",
-      "price_old": null,
+      "price_old": 60000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CANDELABRO%20DORADO.jpg"
     },
     {
@@ -343,11 +343,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Candelabro portavela blanco y plata, 30 cm",
-      "price": 32000,
+      "price": 60000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "🕯️",
-      "price_old": null,
+      "price_old": 70000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_ob9pzhob9pzhob9p.png"
     },
     {
@@ -356,11 +356,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Candelabro portavela plateado, 38 cm",
-      "price": 33000,
+      "price": 60000,
       "badge": null,
       "color": "#ddd5c8",
       "icon": "🕯️",
-      "price_old": null,
+      "price_old": 70000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%203.15.07%20PM%201.jpeg"
     },
     {
@@ -369,11 +369,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Candelabro decorativo con strass, 14x9 cm",
-      "price": 29000,
+      "price": 30000,
       "badge": "Agotado",
       "color": "#e5d9c8",
       "icon": "🕯️",
-      "price_old": null,
+      "price_old": 40000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-16%20at%203.27.19%20PM.jpeg"
     },
     {
@@ -386,7 +386,7 @@
       "badge": "Agotado",
       "color": "#ddd0bf",
       "icon": "🕯️",
-      "price_old": null,
+      "price_old": 40000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_nqho6mnqho6mnqho.png"
     },
     {
@@ -395,11 +395,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Caramelera de cristal blanco, 14x10 cm",
-      "price": 11500,
+      "price": 11000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "🍬",
-      "price_old": null,
+      "price_old": 17000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CARAMELERA%20FRASCOS.jpg"
     },
     {
@@ -408,11 +408,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Caramelera vidrio fumé, 10x7 cm",
-      "price": 11500,
+      "price": 10000,
       "badge": null,
       "color": "#ddd5c8",
       "icon": "🍬",
-      "price_old": null,
+      "price_old": 16000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FRASCO%20FUME%20REDONDO.jpg"
     },
     {
@@ -421,11 +421,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Caramelera fumé punta, 10x8 cm",
-      "price": 11500,
+      "price": 10000,
       "badge": null,
       "color": "#ddd0bf",
       "icon": "🍬",
-      "price_old": null,
+      "price_old": 16000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/caramelero.png"
     },
     {
@@ -486,11 +486,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Canastos Yute con tapa",
-      "price": 81900,
+      "price": 135000,
       "badge": null,
       "color": "#ddd0bf",
       "icon": "🧺",
-      "price_old": null,
+      "price_old": 150000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CESTA%20YUTE%20CON%20TAPA.jpg"
     },
     {
@@ -499,11 +499,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Set 3 canastos rafia, 36-34-26 cm",
-      "price": 67000,
+      "price": 65000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "🧺",
-      "price_old": null,
+      "price_old": 75000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CESTAS%20BLANCA%20Y%20NEGRA%20X3.jpg"
     },
     {
@@ -516,7 +516,7 @@
       "badge": null,
       "color": "#e8ddd0",
       "icon": "🪞",
-      "price_old": null,
+      "price_old": 42000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESPEJO%20DE%20PARED%20BLACK.jpg"
     },
     {
@@ -529,7 +529,7 @@
       "badge": "Destacado",
       "color": "#ddd0bf",
       "icon": "🪞",
-      "price_old": null,
+      "price_old": 180000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_n42ys5n42ys5n42y.png"
     },
     {
@@ -542,7 +542,7 @@
       "badge": "Agotado",
       "color": "#e5d9c8",
       "icon": "🪞",
-      "price_old": null,
+      "price_old": 150000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_p5oo3cp5oo3cp5oo.png"
     },
     {
@@ -555,7 +555,7 @@
       "badge": null,
       "color": "#e8ddd0",
       "icon": "🪞",
-      "price_old": null,
+      "price_old": 35000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%203.06.02%20PM.jpeg"
     },
     {
@@ -568,7 +568,7 @@
       "badge": null,
       "color": "#ddd0bf",
       "icon": "🪞",
-      "price_old": null,
+      "price_old": 40000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESPEJOS%20SET%20X%203.jpg"
     },
     {
@@ -581,7 +581,7 @@
       "badge": null,
       "color": "#e5d9c8",
       "icon": "🪞",
-      "price_old": null,
+      "price_old": 40000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESPEJOS%20SET%20X%203%20BLANCOS.jpg"
     },
     {
@@ -590,11 +590,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Frasco decorativo con tapa labrado, 20x11 cm",
-      "price": 12000,
+      "price": 13000,
       "badge": null,
       "color": "#ddd5c8",
       "icon": "🫙",
-      "price_old": null,
+      "price_old": 18000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FRASCO%20CON%20TAPA.jpg"
     },
     {
@@ -620,7 +620,7 @@
       "badge": "Agotado",
       "color": "#ddd5c8",
       "icon": "🫙",
-      "price_old": null,
+      "price_old": 53000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_dk702ddk702ddk70.png"
     },
     {
@@ -633,7 +633,7 @@
       "badge": null,
       "color": "#e8ddd0",
       "icon": "🌸",
-      "price_old": null,
+      "price_old": 40000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20TRANSPARENTE%20LINEAS.jpg"
     },
     {
@@ -646,7 +646,7 @@
       "badge": null,
       "color": "#ddd0bf",
       "icon": "🌸",
-      "price_old": null,
+      "price_old": 40000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20CARAMEL.jpg"
     },
     {
@@ -655,11 +655,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Jarrón Rivoli, 26x11 cm",
-      "price": 40000,
+      "price": 30000,
       "badge": null,
       "color": "#e5d9c8",
       "icon": "🌸",
-      "price_old": null,
+      "price_old": 40000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20BLANCO%20Y%20PLATA.jpg"
     },
     {
@@ -672,7 +672,7 @@
       "badge": null,
       "color": "#e8ddd0",
       "icon": "🌸",
-      "price_old": null,
+      "price_old": 35000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20BLANCO%20Y%20PLATA%20ROMBOS.jpg"
     },
     {
@@ -685,7 +685,7 @@
       "badge": null,
       "color": "#ddd5c8",
       "icon": "🌸",
-      "price_old": null,
+      "price_old": 35000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20NEGRO%20O.jpg"
     },
     {
@@ -698,7 +698,7 @@
       "badge": null,
       "color": "#ddd0bf",
       "icon": "🌸",
-      "price_old": null,
+      "price_old": 36000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20FUME.jpg"
     },
     {
@@ -711,7 +711,7 @@
       "badge": null,
       "color": "#e5d9c8",
       "icon": "🌸",
-      "price_old": null,
+      "price_old": 36000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20CARAMEL%202.jpg"
     },
     {
@@ -724,7 +724,7 @@
       "badge": null,
       "color": "#e8ddd0",
       "icon": "🌸",
-      "price_old": null,
+      "price_old": 44000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20MIMBRE.jpg"
     },
     {
@@ -733,11 +733,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Jarrón Trocadero plata, 34x10 cm",
-      "price": 57000,
+      "price": 50000,
       "badge": null,
       "color": "#e5d9c8",
       "icon": "🌸",
-      "price_old": null,
+      "price_old": 60000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20PLATA%201.jpg"
     },
     {
@@ -750,7 +750,7 @@
       "badge": null,
       "color": "#ddd0bf",
       "icon": "🌸",
-      "price_old": null,
+      "price_old": 40000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20BLANCO.jpg"
     },
     {
@@ -759,11 +759,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Jarrón dorado con hojitas, 26x11 cm",
-      "price": 45000,
+      "price": 40000,
       "badge": "Agotado",
       "color": "#ddd0bf",
       "icon": "🌸",
-      "price_old": null,
+      "price_old": 50000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRON%20HOJITAS.jpg"
     },
     {
@@ -772,11 +772,11 @@
       "category": "Jardín & Exterior",
       "sectionId": "jardin",
       "description": "Maceta plateada, 13x11 cm",
-      "price": 21000,
+      "price": 20000,
       "badge": null,
       "color": "#e5d9c8",
       "icon": "🌿",
-      "price_old": null,
+      "price_old": 30000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/MACETA%20PLATA.jpg"
     },
     {
@@ -785,11 +785,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Manta de corderito suave",
-      "price": 40000,
+      "price": 30000,
       "badge": null,
       "color": "#e5d9c8",
       "icon": "🧣",
-      "price_old": null,
+      "price_old": 40000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_3gm5is3gm5is3gm5.png"
     },
     {
@@ -798,11 +798,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Manta flor mocca, 120x200 cm",
-      "price": 39800,
+      "price": 35000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "🧣",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-16%20at%203.55.05%20PM.jpeg"
     },
     {
@@ -815,7 +815,7 @@
       "badge": null,
       "color": "#ddd0bf",
       "icon": "🧣",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_9ridm89ridm89rid%201.png"
     },
     {
@@ -824,11 +824,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Matera cuero negra alta, 24x20 cm",
-      "price": 65000,
+      "price": 60000,
       "badge": "Destacado",
       "color": "#e5d9c8",
       "icon": "🧉",
-      "price_old": null,
+      "price_old": 70000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/MATERA%20CUERO%20NEGRA%20ALTA.jpg"
     },
     {
@@ -841,7 +841,7 @@
       "badge": null,
       "color": "#e8ddd0",
       "icon": "🧉",
-      "price_old": null,
+      "price_old": 70000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/MATERA%20CUERO%20NEGRA%20BAJA.jpg"
     },
     {
@@ -850,11 +850,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Matera cuero marrón, 20x20 cm",
-      "price": 65000,
+      "price": 60000,
       "badge": null,
       "color": "#ddd5c8",
       "icon": "🧉",
-      "price_old": null,
+      "price_old": 70000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/MATERA%20CUERO%20MARRON.jpg"
     },
     {
@@ -863,11 +863,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Mesa auxiliar redonda, 50 cm diám. x 45 cm alto",
-      "price": 70000,
+      "price": 60000,
       "badge": null,
       "color": "#ddd0bf",
       "icon": "🪑",
-      "price_old": null,
+      "price_old": 70000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20mesa%20redonda.png"
     },
     {
@@ -880,7 +880,7 @@
       "badge": null,
       "color": "#e5d9c8",
       "icon": "🖼️",
-      "price_old": null,
+      "price_old": 30000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_g9gbpog9gbpog9gb.png"
     },
     {
@@ -893,7 +893,7 @@
       "badge": null,
       "color": "#e8ddd0",
       "icon": "🖼️",
-      "price_old": null,
+      "price_old": 32000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_g9gbpog9gbpog9gb.png"
     },
     {
@@ -906,7 +906,7 @@
       "badge": null,
       "color": "#ddd5c8",
       "icon": "🖼️",
-      "price_old": null,
+      "price_old": 30000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_hirwt2hirwt2hirw.png"
     },
     {
@@ -919,7 +919,7 @@
       "badge": null,
       "color": "#ddd0bf",
       "icon": "🖼️",
-      "price_old": null,
+      "price_old": 28000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20portarretrato%20vintage%20oro.jpeg"
     },
     {
@@ -932,7 +932,7 @@
       "badge": null,
       "color": "#e5d9c8",
       "icon": "🖼️",
-      "price_old": null,
+      "price_old": 30000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20portarretrato%20vintage%20oro.jpeg"
     },
     {
@@ -945,7 +945,7 @@
       "badge": null,
       "color": "#e8ddd0",
       "icon": "🖼️",
-      "price_old": null,
+      "price_old": 28000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20portaretrato%20vintage%20plata.jpeg"
     },
     {
@@ -958,7 +958,7 @@
       "badge": null,
       "color": "#ddd5c8",
       "icon": "🖼️",
-      "price_old": null,
+      "price_old": 30000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20portaretrato%20vintage%20plata.jpeg"
     },
     {
@@ -971,7 +971,7 @@
       "badge": null,
       "color": "#ddd0bf",
       "icon": "🛋️",
-      "price_old": null,
+      "price_old": 50000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/PUFF%20CUADRADO%20CUERO.jpg"
     },
     {
@@ -984,7 +984,7 @@
       "badge": null,
       "color": "#e5d9c8",
       "icon": "🛋️",
-      "price_old": null,
+      "price_old": 50000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/PUFF%20CUADRADO%20TELA%20GRIS.jpg"
     },
     {
@@ -997,7 +997,7 @@
       "badge": null,
       "color": "#e8ddd0",
       "icon": "🛋️",
-      "price_old": null,
+      "price_old": 50000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/PUFF%20CUADRADO%20TELA.jpg"
     },
     {
@@ -1006,11 +1006,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Puf de piel blanco, 38x32 cm",
-      "price": 70000,
+      "price": 60000,
       "badge": "Agotado",
       "color": "#e5d9c8",
       "icon": "🛋️",
-      "price_old": null,
+      "price_old": 80000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/PUFF%20PELUDO.jpg"
     },
     {
@@ -1019,11 +1019,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Reloj de pared símil madera",
-      "price": 55000,
+      "price": 28000,
       "badge": null,
       "color": "#ddd5c8",
       "icon": "🕐",
-      "price_old": null,
+      "price_old": 38000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/RELOJ%20BLANCO%20CUADRADO.jpg"
     },
     {
@@ -1032,11 +1032,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Reloj Negro Redondo",
-      "price": 50000,
+      "price": 27000,
       "badge": null,
       "color": "#ddd0bf",
       "icon": "🕐",
-      "price_old": null,
+      "price_old": 37000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/RELOJ%20NEGRO%20REDONDO.jpg"
     },
     {
@@ -1045,11 +1045,11 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Reloj de arena línea blanca, 21x7 cm",
-      "price": 22000,
+      "price": 25000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "⏳",
-      "price_old": null,
+      "price_old": 35000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/RELOJ%20ARENA%20REDONDO.jpg"
     },
     {
@@ -1058,11 +1058,11 @@
       "category": "Dormitorio",
       "sectionId": "dormitorio",
       "description": "Caja joyero rectangular, 21x13x9 cm",
-      "price": 50000,
+      "price": 40000,
       "badge": null,
       "color": "#ddd8d2",
       "icon": "💍",
-      "price_old": null,
+      "price_old": 55000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CAJA%20JOYERO%20RECTANGULAR.jpg"
     },
     {
@@ -1075,7 +1075,7 @@
       "badge": null,
       "color": "#e8e2dc",
       "icon": "🧺",
-      "price_old": null,
+      "price_old": 27000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_l71f6fl71f6fl71f.png"
     },
     {
@@ -1088,7 +1088,7 @@
       "badge": null,
       "color": "#e6e0da",
       "icon": "🧺",
-      "price_old": null,
+      "price_old": 29000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_eym4g7eym4g7eym4.png"
     },
     {
@@ -1101,7 +1101,7 @@
       "badge": null,
       "color": "#ddd8d2",
       "icon": "🧺",
-      "price_old": null,
+      "price_old": 29000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-08%20at%2015.29.49.jpeg"
     },
     {
@@ -1114,7 +1114,7 @@
       "badge": null,
       "color": "#e8e2dc",
       "icon": "🧺",
-      "price_old": null,
+      "price_old": 26000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-08%20at%2015.29.40.jpeg"
     },
     {
@@ -1127,7 +1127,7 @@
       "badge": null,
       "color": "#e6e0da",
       "icon": "🧺",
-      "price_old": null,
+      "price_old": 26000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_81vjjy81vjjy81vj.png"
     },
     {
@@ -1140,7 +1140,7 @@
       "badge": null,
       "color": "#ede8e0",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 24000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/POSA%20FUENTES.jpg"
     },
     {
@@ -1153,7 +1153,7 @@
       "badge": null,
       "color": "#e8e4dc",
       "icon": "⚖️",
-      "price_old": null,
+      "price_old": 37000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BALANZA%20COCINA%20CUADRADA.jpg"
     },
     {
@@ -1166,7 +1166,7 @@
       "badge": null,
       "color": "#ede8e0",
       "icon": "⚖️",
-      "price_old": null,
+      "price_old": 37000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BALANZA%20COCINA%20REDONDA.jpg"
     },
     {
@@ -1175,11 +1175,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Balanza personal digital, 28x28 cm",
-      "price": 40000,
+      "price": 35000,
       "badge": null,
       "color": "#e8e4dc",
       "icon": "⚖️",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20194019.png"
     },
     {
@@ -1192,7 +1192,7 @@
       "badge": null,
       "color": "#ede8e0",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 35000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20BAMBU.jpg"
     },
     {
@@ -1205,7 +1205,7 @@
       "badge": null,
       "color": "#ede8e0",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 25000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20PLATO%20DORADO.jpg"
     },
     {
@@ -1218,7 +1218,7 @@
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 25000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20PLATO%20PLATEADO.jpg"
     },
     {
@@ -1231,7 +1231,7 @@
       "badge": null,
       "color": "#ede8e0",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 35000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20OVALADA%20BLACA%20Y%20ORO.jpg"
     },
     {
@@ -1244,7 +1244,7 @@
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 32000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20OVALADA%20BLACA%20Y%20ORO.jpg"
     },
     {
@@ -1253,11 +1253,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Bandeja ovalada con espejo, 25x36 cm",
-      "price": 60000,
+      "price": 50000,
       "badge": null,
       "color": "#ede8e0",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 65000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20ESPEJO%20OVALADA.jpg"
     },
     {
@@ -1270,7 +1270,7 @@
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 68000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20CIRCULAR%20CON%20ESPEJO%202.jpg"
     },
     {
@@ -1283,7 +1283,7 @@
       "badge": null,
       "color": "#ede8e0",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 68000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJA%20RECTANGULAR%20ESPEJO.jpg"
     },
     {
@@ -1292,11 +1292,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Set 2 bandejas caladas plata, 34x24 y 28x19 cm",
-      "price": 60000,
+      "price": 40000,
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 65000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20bandeja%20de%20oroo.jpeg"
     },
     {
@@ -1305,11 +1305,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Set 3 bandejas ovaladas doradas con espejo",
-      "price": 90000,
+      "price": 65000,
       "badge": "Destacado",
       "color": "#e8e4dc",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 76000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-16%20at%205.22.29%20PM%201.jpeg"
     },
     {
@@ -1318,11 +1318,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Bandejita dorada chica, 15x15 cm",
-      "price": 15000,
+      "price": 14000,
       "badge": null,
       "color": "#ede8e0",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 25000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_a78gdja78gdja78g.png"
     },
     {
@@ -1331,11 +1331,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Bandeja plateada ovalada, 18x25 cm",
-      "price": 30000,
+      "price": 25000,
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 35000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_guv219guv219guv2.png"
     },
     {
@@ -1344,11 +1344,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Set 2 bandejas bambú con asa aluminio, 41x30 y 38x26 cm",
-      "price": 37900,
+      "price": 35000,
       "badge": null,
       "color": "#ede8e0",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_bln59jbln59jbln5.png"
     },
     {
@@ -1361,7 +1361,7 @@
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 28000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20bandeja%20bambu.jpeg"
     },
     {
@@ -1370,11 +1370,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Bandejas circulares plato de sitio, 30 cm diám.",
-      "price": 19800,
+      "price": 16000,
       "badge": null,
       "color": "#ede8e0",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 28000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20bandeja%20circ%20negras.jpeg"
     },
     {
@@ -1383,11 +1383,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Set 3 bandejas mimbre grass, 36-32-29 cm diám.",
-      "price": 48000,
+      "price": 45000,
       "badge": "Agotado",
       "color": "#e8e4dc",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 60000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BANDEJAS%20MIMBRE.jpg"
     },
     {
@@ -1400,7 +1400,7 @@
       "badge": null,
       "color": "#ede8e0",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 40000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%203.00.43%20PM%201.jpeg"
     },
     {
@@ -1413,7 +1413,7 @@
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_8ttmgb8ttmgb8ttm.png"
     },
     {
@@ -1426,7 +1426,7 @@
       "badge": null,
       "color": "#ede8e0",
       "icon": "☕",
-      "price_old": null,
+      "price_old": 52000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CAFETERA%20NEGRA.jpg"
     },
     {
@@ -1435,11 +1435,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Cafetera émbolo bambú, 1/2 litro",
-      "price": 20000,
+      "price": 25000,
       "badge": null,
       "color": "#e8e4dc",
       "icon": "☕",
-      "price_old": null,
+      "price_old": 37000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CAFETERA%20BAMBU.jpg"
     },
     {
@@ -1448,11 +1448,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Coctelera acero inoxidable, 25x9 cm",
-      "price": 38000,
+      "price": 35000,
       "badge": null,
       "color": "#ede8e0",
       "icon": "🍹",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/COCTELERA%20PLATA.jpg"
     },
     {
@@ -1461,11 +1461,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Coctelera con base negra, 26x9 cm",
-      "price": 38000,
+      "price": 35000,
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🍹",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/COCTELERA%20PLATA%20Y%20NEGRO.jpg"
     },
     {
@@ -1478,7 +1478,7 @@
       "badge": null,
       "color": "#ede8e0",
       "icon": "🐾",
-      "price_old": null,
+      "price_old": 42000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_gl2nljgl2nljgl2n.png"
     },
     {
@@ -1491,7 +1491,7 @@
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🐾",
-      "price_old": null,
+      "price_old": 40000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-18%20at%203.05.04%20PM.jpeg"
     },
     {
@@ -1504,7 +1504,7 @@
       "badge": null,
       "color": "#ede8e0",
       "icon": "🐱",
-      "price_old": null,
+      "price_old": 32000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_1b09zf1b09zf1b09%201.png"
     },
     {
@@ -1513,11 +1513,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Set 6 copas doradas lisas, 21x6 cm",
-      "price": 40000,
+      "price": 42000,
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🥂",
-      "price_old": null,
+      "price_old": 55000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/COPAS%20CARAMEL.jpg"
     },
     {
@@ -1526,11 +1526,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Set 6 copas fumé lisas, 15x7 cm",
-      "price": 40000,
+      "price": 42000,
       "badge": null,
       "color": "#ede8e0",
       "icon": "🥂",
-      "price_old": null,
+      "price_old": 55000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/COPAS%20FUME%201.jpg"
     },
     {
@@ -1539,11 +1539,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Set 6 copas doradas labradas, 20x6 cm",
-      "price": 40000,
+      "price": 42000,
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🥂",
-      "price_old": null,
+      "price_old": 55000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/COPAS%20CARAMEL%203.jpg"
     },
     {
@@ -1552,11 +1552,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Set 6 copas fumé labradas, 20x6 cm",
-      "price": 40000,
+      "price": 42000,
       "badge": null,
       "color": "#ede8e0",
       "icon": "🥂",
-      "price_old": null,
+      "price_old": 55000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/COPAS%20FUME%202.jpg"
     },
     {
@@ -1569,7 +1569,7 @@
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 52000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/SECAPLATOS%20BLACK.jpg"
     },
     {
@@ -1578,11 +1578,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Frutera de cristal, 23x24 cm",
-      "price": 56000,
+      "price": 50000,
       "badge": "Destacado",
       "color": "#ede8e0",
       "icon": "🍎",
-      "price_old": null,
+      "price_old": 62000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FRUTERA%20VIDRIO.jpg"
     },
     {
@@ -1595,7 +1595,7 @@
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 15000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20indiv%20mad.jpeg"
     },
     {
@@ -1604,11 +1604,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Set 6 individuales mimbre, 35 cm diám.",
-      "price": 45000,
+      "price": 50000,
       "badge": null,
       "color": "#ede8e0",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 60000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20indiv%20mad%20x6.jpeg"
     },
     {
@@ -1621,7 +1621,7 @@
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 13000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20indiv%20gris%20x6.jpeg"
     },
     {
@@ -1634,7 +1634,7 @@
       "badge": null,
       "color": "#ede8e0",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 48000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20indiv%20gris.jpeg"
     },
     {
@@ -1643,11 +1643,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Jarra vidrio medidora, 14x9 cm",
-      "price": 11000,
+      "price": 12000,
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🫙",
-      "price_old": null,
+      "price_old": 22000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRA%20MEDIDORA.jpg"
     },
     {
@@ -1656,11 +1656,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Jarra térmica negra, 24x13 cm",
-      "price": 30000,
+      "price": 35000,
       "badge": null,
       "color": "#ede8e0",
       "icon": "☕",
-      "price_old": null,
+      "price_old": 40000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRA%20BLACK.jpg"
     },
     {
@@ -1669,11 +1669,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Jarra térmica blanca, 24x13 cm",
-      "price": 30000,
+      "price": 35000,
       "badge": null,
       "color": "#e8e4dc",
       "icon": "☕",
-      "price_old": null,
+      "price_old": 40000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/JARRA%20BLANCA.jpg"
     },
     {
@@ -1682,11 +1682,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Manopla agarradera para cocina",
-      "price": 19500,
+      "price": 18000,
       "badge": null,
       "color": "#ede8e0",
       "icon": "🍳",
-      "price_old": null,
+      "price_old": 27000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/MANOPLAS%20SILICONA%201.jpg"
     },
     {
@@ -1699,7 +1699,7 @@
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🗂️",
-      "price_old": null,
+      "price_old": 35000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_ryl4ydryl4ydryl4%201.png"
     },
     {
@@ -1712,7 +1712,7 @@
       "badge": null,
       "color": "#ede8e0",
       "icon": "🧹",
-      "price_old": null,
+      "price_old": 18000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20dish%20drying.jpeg"
     },
     {
@@ -1725,7 +1725,7 @@
       "badge": null,
       "color": "#e8e4dc",
       "icon": "☕",
-      "price_old": null,
+      "price_old": 55000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20pava%20negra.jpeg"
     },
     {
@@ -1734,11 +1734,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Kit de asado completo",
-      "price": 21000,
+      "price": 22000,
       "badge": null,
       "color": "#ede8e0",
       "icon": "🔥",
-      "price_old": null,
+      "price_old": 32000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-26%20at%207.06.51%20PM.jpeg"
     },
     {
@@ -1747,11 +1747,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Taza de café transparente, 6x6 cm",
-      "price": 21000,
+      "price": 22000,
       "badge": null,
       "color": "#e8e4dc",
       "icon": "☕",
-      "price_old": null,
+      "price_old": 32000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/TACITAS%20CAFE%20LABRADAS%20TRANSPARENTES.jpg"
     },
     {
@@ -1760,11 +1760,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Taza de café caramel, 6x6 cm",
-      "price": 21000,
+      "price": 22000,
       "badge": null,
       "color": "#ede8e0",
       "icon": "☕",
-      "price_old": null,
+      "price_old": 32000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/TACITAS%20CAFE%20CARAMEL.jpg"
     },
     {
@@ -1773,11 +1773,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Set 6 tazas burbuja doble fondo, 10x9 cm",
-      "price": 55000,
+      "price": 50000,
       "badge": "Agotado",
       "color": "#e8e4dc",
       "icon": "☕",
-      "price_old": null,
+      "price_old": 60000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/VASO%20BURBUJA.jpg"
     },
     {
@@ -1790,7 +1790,7 @@
       "badge": null,
       "color": "#ede8e0",
       "icon": "🥛",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/VASOS%20CARAMEL%20LABRADOS.jpg"
     },
     {
@@ -1803,7 +1803,7 @@
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🥛",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/VASOS%20CARAMEL.jpg"
     },
     {
@@ -1816,7 +1816,7 @@
       "badge": null,
       "color": "#ede8e0",
       "icon": "🥛",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/VASOS%20FUME%201.jpg"
     },
     {
@@ -1825,11 +1825,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Set 6 platos bambú chico",
-      "price": 48000,
+      "price": 45000,
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 60000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_js2syajs2syajs2s.png"
     },
     {
@@ -1838,11 +1838,11 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Set 6 platos bambú grande",
-      "price": 60000,
+      "price": 50000,
       "badge": "Destacado",
       "color": "#ede8e0",
       "icon": "🍽️",
-      "price_old": null,
+      "price_old": 65000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_js2syajs2syajs2s.png"
     },
     {
@@ -1855,7 +1855,7 @@
       "badge": null,
       "color": "#e8f0ee",
       "icon": "🛁",
-      "price_old": null,
+      "price_old": 50000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20bano%20negro.jpeg"
     },
     {
@@ -1864,11 +1864,11 @@
       "category": "Baño & Spa",
       "sectionId": "bano",
       "description": "Kit baño cerámica blanco y bambú, 3 piezas",
-      "price": 39000,
+      "price": 35000,
       "badge": null,
       "color": "#e2eeec",
       "icon": "🛁",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20banno%20blanco.jpeg"
     },
     {
@@ -1881,7 +1881,7 @@
       "badge": "Destacado",
       "color": "#e8f0ee",
       "icon": "🛁",
-      "price_old": null,
+      "price_old": 60000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/SET BAÑO BLACK.jpg"
     },
     {
@@ -1894,7 +1894,7 @@
       "badge": null,
       "color": "#e2eeec",
       "icon": "🗑️",
-      "price_old": null,
+      "price_old": 38000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_gfna85gfna85gfna.png"
     },
     {
@@ -1907,7 +1907,7 @@
       "badge": null,
       "color": "#e8f0ee",
       "icon": "🗑️",
-      "price_old": null,
+      "price_old": 38000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CESTO%20RESIDUOS%201.jpg"
     },
     {
@@ -1916,11 +1916,11 @@
       "category": "Baño & Spa",
       "sectionId": "bano",
       "description": "Cesto basura con tapa bambú, 21x28 cm",
-      "price": 38000,
+      "price": 35000,
       "badge": null,
       "color": "#e2eeec",
       "icon": "🗑️",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.39.19.jpeg"
     },
     {
@@ -1929,11 +1929,11 @@
       "category": "Baño & Spa",
       "sectionId": "bano",
       "description": "Dispenser de baño transparente",
-      "price": 7500,
+      "price": 9000,
       "badge": null,
       "color": "#e8f0ee",
       "icon": "🧴",
-      "price_old": null,
+      "price_old": 15000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/DISPENSER%201%201.jpg"
     },
     {
@@ -1942,11 +1942,11 @@
       "category": "Baño & Spa",
       "sectionId": "bano",
       "description": "Dispenser de baño celeste",
-      "price": 7500,
+      "price": 9000,
       "badge": null,
       "color": "#e2eeec",
       "icon": "🧴",
-      "price_old": null,
+      "price_old": 15000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/DISPENSER%202%201.jpg"
     },
     {
@@ -1959,7 +1959,7 @@
       "badge": null,
       "color": "#e8f0ee",
       "icon": "🧴",
-      "price_old": null,
+      "price_old": 21000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/DISPENSER%204%201.jpg"
     },
     {
@@ -1972,7 +1972,7 @@
       "badge": null,
       "color": "#e2eeec",
       "icon": "🧴",
-      "price_old": null,
+      "price_old": 20000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/DISPENSER%203%201.jpg"
     },
     {
@@ -1981,11 +1981,11 @@
       "category": "Baño & Spa",
       "sectionId": "bano",
       "description": "Escobilla de baño con base mármol",
-      "price": 22000,
+      "price": 20000,
       "badge": null,
       "color": "#e8f0ee",
       "icon": "🪣",
-      "price_old": null,
+      "price_old": 28000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESCOBILLA BAÑO MARMOL 1.jpg"
     },
     {
@@ -1998,7 +1998,7 @@
       "badge": null,
       "color": "#e2eeec",
       "icon": "🪣",
-      "price_old": null,
+      "price_old": 28000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESCOBILLA BAÑO METALIZADA 1.jpg"
     },
     {
@@ -2007,11 +2007,11 @@
       "category": "Baño & Spa",
       "sectionId": "bano",
       "description": "Espejo de baño con strass, 33x19 cm",
-      "price": 20700,
+      "price": 20000,
       "badge": null,
       "color": "#e8f0ee",
       "icon": "🪞",
-      "price_old": null,
+      "price_old": 30000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_prj0yxprj0yxprj0.png"
     },
     {
@@ -2020,11 +2020,11 @@
       "category": "Baño & Spa",
       "sectionId": "bano",
       "description": "Espejo baño con aumento y base, 29x22 cm",
-      "price": 25000,
+      "price": 23000,
       "badge": null,
       "color": "#e2eeec",
       "icon": "🪞",
-      "price_old": null,
+      "price_old": 35000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_hyxwfkhyxwfkhyxw.png"
     },
     {
@@ -2033,11 +2033,11 @@
       "category": "Baño & Spa",
       "sectionId": "bano",
       "description": "Espejo baño cuadrado doble faz con base, 28x15 cm",
-      "price": 16000,
+      "price": 17000,
       "badge": null,
       "color": "#e8f0ee",
       "icon": "🪞",
-      "price_old": null,
+      "price_old": 27000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_309r91309r91309r.png"
     },
     {
@@ -2046,11 +2046,11 @@
       "category": "Baño & Spa",
       "sectionId": "bano",
       "description": "Espejo baño circular bifaz con pie, 26x17 cm",
-      "price": 16000,
+      "price": 17000,
       "badge": null,
       "color": "#e2eeec",
       "icon": "🪞",
-      "price_old": null,
+      "price_old": 27000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_2591kf2591kf2591.png"
     },
     {
@@ -2063,7 +2063,7 @@
       "badge": null,
       "color": "#e8f0ee",
       "icon": "💇",
-      "price_old": null,
+      "price_old": 15000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-03%20at%2016.33.04%202.jpeg"
     },
     {
@@ -2076,7 +2076,7 @@
       "badge": null,
       "color": "#e2eeec",
       "icon": "💇",
-      "price_old": null,
+      "price_old": 43000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20peines.jpeg"
     },
     {
@@ -2089,7 +2089,7 @@
       "badge": null,
       "color": "#d8e8d4",
       "icon": "🚪",
-      "price_old": null,
+      "price_old": 22000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_dltpuhdltpuhdltp.png"
     },
     {
@@ -2102,7 +2102,7 @@
       "badge": null,
       "color": "#d2e2ce",
       "icon": "🚪",
-      "price_old": null,
+      "price_old": 20000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_dwns6ldwns6ldwns.png"
     },
     {
@@ -2111,11 +2111,11 @@
       "category": "Jardín & Exterior",
       "sectionId": "jardin",
       "description": "Burlete para puerta o ventana",
-      "price": 12000,
+      "price": 13000,
       "badge": null,
       "color": "#dae8d6",
       "icon": "🚪",
-      "price_old": null,
+      "price_old": 20000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/BURLETES.jpg"
     },
     {
@@ -2124,11 +2124,11 @@
       "category": "Jardín & Exterior",
       "sectionId": "jardin",
       "description": "Pesa de puerta decorativa",
-      "price": 11000,
+      "price": 12000,
       "badge": null,
       "color": "#d5e5d1",
       "icon": "🪴",
-      "price_old": null,
+      "price_old": 19000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_if6sbdif6sbdif6s.png"
     },
     {
@@ -2137,11 +2137,11 @@
       "category": "Jardín & Exterior",
       "sectionId": "jardin",
       "description": "Pesa de puerta yute, 20x20 cm",
-      "price": 20000,
+      "price": 18500,
       "badge": null,
       "color": "#d8e8d4",
       "icon": "🪴",
-      "price_old": null,
+      "price_old": 25000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_qyo2tzqyo2tzqyo2.png"
     },
     {
@@ -2154,7 +2154,7 @@
       "badge": null,
       "color": "#d2e2ce",
       "icon": "🪴",
-      "price_old": null,
+      "price_old": 27000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_z3yggsz3yggsz3yg.png"
     },
     {
@@ -2167,7 +2167,7 @@
       "badge": "Destacado",
       "color": "#f0e8d8",
       "icon": "💡",
-      "price_old": null,
+      "price_old": 170000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/LAMPARA%20LAS%20TIAS%20CON%20STRASS.jpg"
     },
     {
@@ -2180,7 +2180,7 @@
       "badge": null,
       "color": "#eee4d4",
       "icon": "💡",
-      "price_old": null,
+      "price_old": 130000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/LAMPARA%20CAIREL.jpg"
     },
     {
@@ -2189,11 +2189,11 @@
       "category": "Iluminación",
       "sectionId": "iluminacion",
       "description": "Lámpara con lamparita granitos, 69x15 cm",
-      "price": 130000,
+      "price": 120000,
       "badge": null,
       "color": "#f2ead8",
       "icon": "💡",
-      "price_old": null,
+      "price_old": 130000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_ctcc5ctcc5ctcc5c.png"
     },
     {
@@ -2206,7 +2206,7 @@
       "badge": null,
       "color": "#ede6d5",
       "icon": "💡",
-      "price_old": null,
+      "price_old": 170000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_xgw54hxgw54hxgw5.png"
     },
     {
@@ -2215,11 +2215,11 @@
       "category": "Iluminación",
       "sectionId": "iluminacion",
       "description": "Lámpara de mimbre, 39x32 cm",
-      "price": 29000,
+      "price": 30000,
       "badge": null,
       "color": "#f0e8d8",
       "icon": "💡",
-      "price_old": null,
+      "price_old": 42000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/LAMPARA%20MIMBRE.jpg"
     },
     {
@@ -2228,11 +2228,11 @@
       "category": "Iluminación",
       "sectionId": "iluminacion",
       "description": "Lámpara farol con luz, 23x16 cm",
-      "price": 25000,
+      "price": 28000,
       "badge": null,
       "color": "#eee4d4",
       "icon": "🪔",
-      "price_old": null,
+      "price_old": 39000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-16%20at%205.02.27%20PM.jpeg"
     },
     {
@@ -2241,11 +2241,11 @@
       "category": "Iluminación",
       "sectionId": "iluminacion",
       "description": "Lámpara centro de mesa, 27x13 cm",
-      "price": 50000,
+      "price": 45000,
       "badge": null,
       "color": "#f2ead8",
       "icon": "💡",
-      "price_old": null,
+      "price_old": 55000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/LAMPARA%20USB%20DORADA.jpg"
     },
     {
@@ -2254,11 +2254,11 @@
       "category": "Iluminación",
       "sectionId": "iluminacion",
       "description": "Lámpara centro de mesa con USB, 34x15 cm",
-      "price": 50000,
+      "price": 45000,
       "badge": null,
       "color": "#ede6d5",
       "icon": "💡",
-      "price_old": null,
+      "price_old": 55000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/LAMPARA%20USB%20PLATA.jpg"
     },
     {
@@ -2271,7 +2271,7 @@
       "badge": null,
       "color": "#f0e8d8",
       "icon": "🪨",
-      "price_old": null,
+      "price_old": 130000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_o3slooo3slooo3sl.png"
     },
     {
@@ -2284,7 +2284,7 @@
       "badge": null,
       "color": "#eee4d4",
       "icon": "🪨",
-      "price_old": null,
+      "price_old": 130000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_kmpn8pkmpn8pkmpn.png"
     },
     {
@@ -2297,7 +2297,7 @@
       "badge": null,
       "color": "#f2ead8",
       "icon": "💡",
-      "price_old": null,
+      "price_old": 115000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_huqer1huqer1huqe.png"
     },
     {
@@ -2310,7 +2310,7 @@
       "badge": null,
       "color": "#ede6d5",
       "icon": "💡",
-      "price_old": null,
+      "price_old": 120000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_9reiwd9reiwd9rei.png"
     },
     {
@@ -2323,7 +2323,7 @@
       "badge": null,
       "color": "#f0e8d8",
       "icon": "💡",
-      "price_old": null,
+      "price_old": 115000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_79g7ic79g7ic79g7.png"
     },
     {
@@ -2336,7 +2336,7 @@
       "badge": null,
       "color": "#eee4d4",
       "icon": "💡",
-      "price_old": null,
+      "price_old": 100000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_dljpuzdljpuzdljp.png"
     },
     {
@@ -2349,7 +2349,7 @@
       "badge": null,
       "color": "#f2ead8",
       "icon": "💡",
-      "price_old": null,
+      "price_old": 105000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_z1ufd5z1ufd5z1uf.png"
     },
     {
@@ -2362,7 +2362,7 @@
       "badge": null,
       "color": "#ede6d5",
       "icon": "💡",
-      "price_old": null,
+      "price_old": 105000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_9ja9pm9ja9pm9ja9.png"
     },
     {
@@ -2375,7 +2375,7 @@
       "badge": null,
       "color": "#f0e8d8",
       "icon": "💡",
-      "price_old": null,
+      "price_old": 95000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_i7lkezi7lkezi7lk.png"
     },
     {
@@ -2388,7 +2388,7 @@
       "badge": null,
       "color": "#eee4d4",
       "icon": "💡",
-      "price_old": null,
+      "price_old": 95000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_ojkhraojkhraojkh.png"
     },
     {
@@ -2401,7 +2401,7 @@
       "badge": "Destacado",
       "color": "#ede6d5",
       "icon": "💡",
-      "price_old": null,
+      "price_old": 115000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_5zbqda5zbqda5zbq.png"
     },
     {
@@ -2414,7 +2414,7 @@
       "badge": null,
       "color": "#f0e8d8",
       "icon": "💡",
-      "price_old": null,
+      "price_old": 68000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_3pvcnx3pvcnx3pvc.png"
     },
     {
@@ -2423,11 +2423,11 @@
       "category": "Iluminación",
       "sectionId": "iluminacion",
       "description": "Velador vidrio diamante, 38 cm",
-      "price": 70000,
+      "price": 69000,
       "badge": null,
       "color": "#eee4d4",
       "icon": "💡",
-      "price_old": null,
+      "price_old": 80000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_nw46e1nw46e1nw46.png"
     },
     {
@@ -2440,7 +2440,7 @@
       "badge": null,
       "color": "#f2ead8",
       "icon": "💡",
-      "price_old": null,
+      "price_old": 68000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_vvtpa9vvtpa9vvtp.png"
     },
     {
@@ -2453,7 +2453,7 @@
       "badge": "Destacado",
       "color": "#ede6d5",
       "icon": "🪔",
-      "price_old": null,
+      "price_old": 195000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.44.36.jpeg"
     },
     {
@@ -2466,7 +2466,7 @@
       "badge": null,
       "color": "#f0e8d8",
       "icon": "🪔",
-      "price_old": null,
+      "price_old": 160000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-26%20at%207.04.17%20PM.jpeg"
     },
     {
@@ -2479,7 +2479,7 @@
       "badge": null,
       "color": "#ede6d5",
       "icon": "🪔",
-      "price_old": null,
+      "price_old": 60000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/FANALES%20PLATA.jpg"
     },
     {
@@ -2488,11 +2488,11 @@
       "category": "Iluminación",
       "sectionId": "iluminacion",
       "description": "Tira luces LED, 50x4 cm",
-      "price": 42000,
+      "price": 38000,
       "badge": null,
       "color": "#f0e8d8",
       "icon": "✨",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_syz82nsyz82nsyz8.png"
     },
     {
@@ -2505,7 +2505,7 @@
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🙏",
-      "price_old": null,
+      "price_old": 40000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_m2gbv0m2gbv0m2gb.png"
     },
     {
@@ -2518,7 +2518,7 @@
       "badge": null,
       "color": "#ede9e1",
       "icon": "🙏",
-      "price_old": null,
+      "price_old": 42000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_lq0bwslq0bwslq0b.png"
     },
     {
@@ -2527,11 +2527,11 @@
       "category": "Arte & Cuadros",
       "sectionId": "arte",
       "description": "Figura buda blanco tornasol, 21 cm",
-      "price": 40000,
+      "price": 35000,
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🙏",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_5d6l15d6l15d6l15.png"
     },
     {
@@ -2540,11 +2540,11 @@
       "category": "Arte & Cuadros",
       "sectionId": "arte",
       "description": "Set 4 cuadros calados Torre de Pizza, 60x30 cm",
-      "price": 36000,
+      "price": 35000,
       "badge": null,
       "color": "#ede9e1",
       "icon": "🎨",
-      "price_old": null,
+      "price_old": 45000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Captura%20de%20pantalla%202026-05-04%20192127.png"
     },
     {
@@ -2557,7 +2557,7 @@
       "badge": null,
       "color": "#e8e4dc",
       "icon": "🎨",
-      "price_old": null,
+      "price_old": 60000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CUADROS%20PARIS.jpg"
     },
     {
@@ -2570,7 +2570,7 @@
       "badge": null,
       "color": "#ede9e1",
       "icon": "🎨",
-      "price_old": null,
+      "price_old": 50000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CUADROS%20CALADOS.jpg"
     },
     {
@@ -2582,7 +2582,8 @@
       "price": 42000,
       "badge": null,
       "color": "#E8E4DC",
-      "icon": "🎨"
+      "icon": "🎨",
+      "price_old": 52000
     },
     {
       "id": "arte-008",
@@ -2590,11 +2591,11 @@
       "category": "Arte & Cuadros",
       "sectionId": "arte",
       "description": "Set 4 cuadros astros natural, 43x31 cm",
-      "price": 42000,
+      "price": 40000,
       "badge": null,
       "color": "#ede9e1",
       "icon": "🎨",
-      "price_old": null,
+      "price_old": 50000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CUADROS%20SET%20X%204%20ASTROS.jpg"
     },
     {
@@ -2603,11 +2604,11 @@
       "category": "Arte & Cuadros",
       "sectionId": "arte",
       "description": "Escultura letra \"E\" decorativa, 14x11 cm",
-      "price": 14000,
+      "price": 15000,
       "badge": null,
       "color": "#e8e4dc",
       "icon": "✨",
-      "price_old": null,
+      "price_old": 25000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESCULTURA%20E%202.jpg"
     },
     {
@@ -2616,11 +2617,11 @@
       "category": "Arte & Cuadros",
       "sectionId": "arte",
       "description": "Escultura Platón dorado hombre, 16x13 cm",
-      "price": 30000,
+      "price": 25000,
       "badge": null,
       "color": "#ede9e1",
       "icon": "🗿",
-      "price_old": null,
+      "price_old": 35000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_ubli6gubli6gubli.png"
     },
     {
@@ -2633,7 +2634,7 @@
       "badge": null,
       "color": "#e8e4dc",
       "icon": "✨",
-      "price_old": null,
+      "price_old": 30000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_qtgowiqtgowiqtgo.png"
     },
     {
@@ -2646,7 +2647,7 @@
       "badge": null,
       "color": "#ede9e1",
       "icon": "🐘",
-      "price_old": null,
+      "price_old": 40000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_4m9rge4m9rge4m9r.png"
     },
     {
@@ -2659,7 +2660,7 @@
       "badge": null,
       "color": "#ede9e1",
       "icon": "🗼",
-      "price_old": null,
+      "price_old": 60000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2015.04.20.jpeg"
     },
     {
@@ -2672,7 +2673,7 @@
       "badge": null,
       "color": "#ede9e1",
       "icon": "♟️",
-      "price_old": null,
+      "price_old": 42000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESCULTURA%20AJEDREZ.jpg"
     },
     {
@@ -2681,11 +2682,11 @@
       "category": "Arte & Cuadros",
       "sectionId": "arte",
       "description": "Escultura corona reina, 18x13 cm",
-      "price": 35000,
+      "price": 32000,
       "badge": null,
       "color": "#e8e4dc",
       "icon": "👑",
-      "price_old": null,
+      "price_old": 42000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_l82fbel82fbel82f.png"
     },
     {
@@ -2694,11 +2695,11 @@
       "category": "Arte & Cuadros",
       "sectionId": "arte",
       "description": "Escultura pera grande decorativa, 23x15 cm",
-      "price": 35000,
+      "price": 32000,
       "badge": null,
       "color": "#ede9e1",
       "icon": "🍐",
-      "price_old": null,
+      "price_old": 42000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESCULTURA%20PERA.jpg"
     },
     {
@@ -2711,7 +2712,7 @@
       "badge": null,
       "color": "#ede9e1",
       "icon": "🔮",
-      "price_old": null,
+      "price_old": 41000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_dbqog9dbqog9dbqo.png"
     },
     {
@@ -2720,8 +2721,8 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Borla Decorativa",
-      "price": 12500,
-      "price_old": null,
+      "price": 13000,
+      "price_old": 19500,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -2733,8 +2734,8 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Botella Decorativa 1 Lt.",
-      "price": 11000,
-      "price_old": null,
+      "price": 13000,
+      "price_old": 20000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -2746,8 +2747,8 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Kit Asado",
-      "price": 20998,
-      "price_old": null,
+      "price": 22000,
+      "price_old": 32000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -2760,7 +2761,7 @@
       "sectionId": "cocina",
       "description": "Pava Eléctrica",
       "price": 40000,
-      "price_old": null,
+      "price_old": 55000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -2773,7 +2774,7 @@
       "sectionId": "sala",
       "description": "Manta/ pie de cama /mante",
       "price": 35000,
-      "price_old": null,
+      "price_old": 45000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -2786,7 +2787,7 @@
       "sectionId": "sala",
       "description": "a",
       "price": 10000,
-      "price_old": null,
+      "price_old": 18000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -2798,8 +2799,8 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "a",
-      "price": 35000,
-      "price_old": null,
+      "price": 20000,
+      "price_old": 30000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -2812,7 +2813,7 @@
       "sectionId": "sala",
       "description": "a",
       "price": 32000,
-      "price_old": null,
+      "price_old": 42000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -2824,8 +2825,8 @@
       "category": "Iluminación",
       "sectionId": "iluminacion",
       "description": "a",
-      "price": 121,
-      "price_old": null,
+      "price": 36000,
+      "price_old": 47000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -2837,8 +2838,8 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "1",
-      "price": 1,
-      "price_old": null,
+      "price": 35000,
+      "price_old": 45000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -2850,8 +2851,8 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "a",
-      "price": 2323,
-      "price_old": null,
+      "price": 68000,
+      "price_old": 79000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -2863,8 +2864,8 @@
       "category": "Iluminación",
       "sectionId": "iluminacion",
       "description": "a",
-      "price": 232,
-      "price_old": null,
+      "price": 35000,
+      "price_old": 45000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -2876,8 +2877,8 @@
       "category": "Arte & Cuadros",
       "sectionId": "arte",
       "description": "descripcion",
-      "price": 19999,
-      "price_old": null,
+      "price": 20000,
+      "price_old": 32000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -2890,7 +2891,7 @@
       "sectionId": "arte",
       "description": "descripcion",
       "price": 20000,
-      "price_old": null,
+      "price_old": 32000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -2902,8 +2903,8 @@
       "category": "Arte & Cuadros",
       "sectionId": "arte",
       "description": "Escultura de Ajedrez madera 21cm",
-      "price": 2,
-      "price_old": null,
+      "price": 42000,
+      "price_old": 53000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -2915,7 +2916,7 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Cortinas Arena 140cm x 210",
-      "price": 49998,
+      "price": 50000,
       "price_old": 60000,
       "badge": null,
       "color": "#e8ddd0",
@@ -2928,8 +2929,8 @@
       "category": "Jardín & Exterior",
       "sectionId": "jardin",
       "description": "Maceta de 13cm color dorada",
-      "price": 21000,
-      "price_old": null,
+      "price": 17000,
+      "price_old": 28000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -2941,8 +2942,8 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Bandeja Calada color plata",
-      "price": 2,
-      "price_old": null,
+      "price": 23000,
+      "price_old": 35000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -2954,8 +2955,8 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Bandeja Rectangular de resina con espejo",
-      "price": 2,
-      "price_old": null,
+      "price": 23000,
+      "price_old": 35000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -2967,8 +2968,8 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Escurridor de platos",
-      "price": 2,
-      "price_old": null,
+      "price": 40000,
+      "price_old": 52000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -2980,8 +2981,8 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Escurridor de platos",
-      "price": 1,
-      "price_old": null,
+      "price": 39000,
+      "price_old": 50000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -2993,8 +2994,8 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Lámpara Colgante Bambu  doble foco",
-      "price": 2,
-      "price_old": null,
+      "price": 42000,
+      "price_old": 55000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -3006,8 +3007,8 @@
       "category": "Dormitorio",
       "sectionId": "dormitorio",
       "description": "Caja Joyero Cuadrada chica con strass",
-      "price": 2,
-      "price_old": null,
+      "price": 43000,
+      "price_old": 55000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -3019,8 +3020,8 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "a",
-      "price": 2,
-      "price_old": null,
+      "price": 20000,
+      "price_old": 32000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -3032,8 +3033,8 @@
       "category": "Iluminación",
       "sectionId": "iluminacion",
       "description": "aa",
-      "price": 1,
-      "price_old": null,
+      "price": 21000,
+      "price_old": 29000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -3045,8 +3046,8 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "a",
-      "price": 1,
-      "price_old": null,
+      "price": 35000,
+      "price_old": 45000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -3058,8 +3059,8 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "a",
-      "price": 1,
-      "price_old": null,
+      "price": 35000,
+      "price_old": 45000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
@@ -3071,8 +3072,8 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "a",
-      "price": 1,
-      "price_old": null,
+      "price": 35000,
+      "price_old": 45000,
       "badge": null,
       "color": "#e8ddd0",
       "icon": "✨",
