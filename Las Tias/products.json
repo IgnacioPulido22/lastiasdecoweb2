@@ -2237,7 +2237,7 @@
     },
     {
       "id": "sala-042",
-      "name": "Canasta Blanca",
+      "name": "Canasta Paper x3",
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Tejido blanco en estructura firme que organiza con elegancia. Lo natural en su versión más luminosa.",
@@ -3566,6 +3566,7 @@
     "coc-058": "default",
     "sala-046": "default",
     "sala-045": "default",
-    "sala-043": "default"
+    "sala-043": "default",
+    "sala-042": "default"
   }
 }
