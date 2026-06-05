@@ -1729,19 +1729,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-26%20at%206.57.57%20PM.jpeg"
     },
     {
-      "id": "ilum-029",
-      "name": "Luces LED Tira",
-      "category": "Iluminación",
-      "sectionId": "iluminacion",
-      "description": "Tira de LEDs para iluminar repisas, cabeceras o muebles. El acento de luz que transforma cualquier espacio.",
-      "price": 38000,
-      "badge": null,
-      "color": "#f0e8d8",
-      "icon": "✨",
-      "price_old": 45000,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_syz82nsyz82nsyz8.png"
-    },
-    {
       "id": "ilum-031",
       "name": "Portavela/Fanal Hilo Natural",
       "category": "Iluminación",
@@ -3146,10 +3133,6 @@
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_1mw8z71mw8z71mw8.png",
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_1mw8z71mw8z71mw8.png"
     ],
-    "ilum-029": [
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.32.26.jpeg",
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.32.17.jpeg"
-    ],
     "sala-119": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-26%20at%2010.36.44.jpeg"
     ],
@@ -3567,7 +3550,6 @@
     "sala-109": "default",
     "coc-056": "default",
     "coc-057": "default",
-    "ilum-029": "default",
     "sala-119": "default",
     "arte-020": "default",
     "coc-061": "default",
