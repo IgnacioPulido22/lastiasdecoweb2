@@ -3079,6 +3079,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%206.38.47%20PM.jpg"
+    },
+    {
+      "id": "dorm-011",
+      "name": "Candelabro",
+      "category": "Dormitorio",
+      "sectionId": "dormitorio",
+      "description": "a",
+      "price": 0,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%2018.56.22.jpg"
     }
   ],
   "gallery": {
@@ -3224,6 +3237,9 @@
     ],
     "arte-023": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%206.42.08%20PM.jpg"
+    ],
+    "dorm-011": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%2018.56.22.jpg"
     ]
   },
   "details": {
@@ -3395,7 +3411,7 @@
     "dorm-008": "diffuser",
     "dorm-009": "frame",
     "dorm-010": "default",
-    "dorm-011": "pillow_large",
+    "dorm-011": "default",
     "dorm-012": "clothes_rack",
     "dorm-013": "candle",
     "dorm-014": "rug",
