@@ -3206,6 +3206,9 @@
     ],
     "arte-020": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-26%20at%207.09.03%20PM.jpeg"
+    ],
+    "sala-046": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%206.23.54%20PM.jpg"
     ]
   },
   "details": {
@@ -3557,6 +3560,7 @@
     "sala-122": "default",
     "sala-123": "default",
     "coc-049": "default",
-    "coc-058": "default"
+    "coc-058": "default",
+    "sala-046": "default"
   }
 }
