@@ -3079,19 +3079,6 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%206.38.47%20PM.jpg"
-    },
-    {
-      "id": "dorm-011",
-      "name": "Candelabro",
-      "category": "Dormitorio",
-      "sectionId": "dormitorio",
-      "description": "a",
-      "price": 0,
-      "price_old": null,
-      "badge": null,
-      "color": "#e8ddd0",
-      "icon": "✨",
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%2018.56.22.jpg"
     }
   ],
   "gallery": {
@@ -3237,9 +3224,6 @@
     ],
     "arte-023": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%206.42.08%20PM.jpg"
-    ],
-    "dorm-011": [
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%2018.56.22.jpg"
     ]
   },
   "details": {
@@ -3275,7 +3259,6 @@
     "dorm-008": "Difusor ultrasónico de aceite esencial con fragancia \"Noche Estrellada\": jazmín, sándalo y cedro. Frasco de vidrio ámbar con 8 palitos de rattan. Intensidad ajustable. 150 ml. Duración: 6-8 semanas.",
     "dorm-009": "Marco para foto con madera de fresno natural y detalles dorados en las esquinas. Vidrio mineral antireflejo. Medidas: para foto 15×20 cm. Se puede colgar o apoyar. Diseño atemporal.",
     "dorm-010": "Par de cortinas de voile 100% algodón. Tejido semitransparente que filtra la luz suavemente. Con jareta superior para barral. Medidas por paño: 135×240 cm. Lavable en máquina a 30°C.",
-    "dorm-011": "Topper de memory foam viscoelástico de 7 cm de espesor con cobertor de algodón jersey. Talla queen (160×200 cm). Alivia puntos de presión. Incluye funda con cremallera lavable. Firmeza media-blanda.",
     "dorm-012": "Perchero de bambú sostenible con sistema de rieles deslizantes en acero inoxidable. Capacidad para 20 perchas. Ruedas con freno. Dimensiones montado: 110×45×170 cm. Armado en 10 minutos.",
     "dorm-013": "Vela de soja orgánica con fragancia \"Madreselva en Flor\": flores blancas, musgo y fondo almizclado. Pabilo de algodón sin toxinas. Tiempo de combustión: 50 horas. Contenedor de cerámica reutilizable.",
     "dorm-014": "Alfombra de pelo largo (5 cm) en fibra acrílica suave como cachemira. Color gris perla. Superficie peluda ultrasuave al tacto. Antideslizante incluido. Medidas: 80×150 cm. Aspirar regularmente.",
@@ -3411,7 +3394,6 @@
     "dorm-008": "diffuser",
     "dorm-009": "frame",
     "dorm-010": "default",
-    "dorm-011": "default",
     "dorm-012": "clothes_rack",
     "dorm-013": "candle",
     "dorm-014": "rug",
