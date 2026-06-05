@@ -2250,7 +2250,7 @@
     },
     {
       "id": "sala-043",
-      "name": "Canasta Paper",
+      "name": "Canasta Paper x3",
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Papel tejido con estructura y textura que organiza cualquier espacio con un toque artesanal muy actual.",
@@ -3565,6 +3565,7 @@
     "coc-049": "default",
     "coc-058": "default",
     "sala-046": "default",
-    "sala-045": "default"
+    "sala-045": "default",
+    "sala-043": "default"
   }
 }
