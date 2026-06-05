@@ -3079,6 +3079,19 @@
       "icon": "🕐",
       "price_old": 37000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/RELOJ%20NEGRO%20REDONDO.jpg"
+    },
+    {
+      "id": "sala-124",
+      "name": "Organizador Bambu Plegable",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "Bambú plegable que organiza el espacio de manera versátil. Se adapta a la cocina",
+      "price": 25000,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%206.38.47%20PM.jpg"
     }
   ],
   "gallery": {
@@ -3573,6 +3586,7 @@
     "sala-046": "default",
     "sala-045": "default",
     "sala-043": "default",
-    "sala-042": "default"
+    "sala-042": "default",
+    "sala-124": "default"
   }
 }
