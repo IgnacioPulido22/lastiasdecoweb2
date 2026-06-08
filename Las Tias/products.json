@@ -1237,8 +1237,8 @@
     {
       "id": "coc-046",
       "name": "Organizador Bambú Plegable",
-      "category": "Cocina & Comedor",
-      "sectionId": "cocina",
+      "category": "Sala & Living",
+      "sectionId": "sala",
       "description": "Bambú plegable que organiza el espacio de manera versátil. Se adapta a la cocina y al dormitorio.",
       "price": 25000,
       "badge": null,
@@ -1729,19 +1729,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-26%20at%206.57.57%20PM.jpeg"
     },
     {
-      "id": "ilum-029",
-      "name": "Luces LED Tira",
-      "category": "Iluminación",
-      "sectionId": "iluminacion",
-      "description": "Tira de LEDs para iluminar repisas, cabeceras o muebles. El acento de luz que transforma cualquier espacio.",
-      "price": 38000,
-      "badge": null,
-      "color": "#f0e8d8",
-      "icon": "✨",
-      "price_old": 45000,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_syz82nsyz82nsyz8.png"
-    },
-    {
       "id": "ilum-031",
       "name": "Portavela/Fanal Hilo Natural",
       "category": "Iluminación",
@@ -1943,11 +1930,11 @@
       "sectionId": "sala",
       "description": "Patrones geométricos tejidos que equilibran tradición y modernidad. Perfecta para darle carácter al living.",
       "price": 190000,
-      "badge": null,
+      "badge": "Agotado",
       "color": "#ddd5c8",
       "icon": "🪡",
       "price_old": 220000,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_z2ap9bz2ap9bz2ap.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_n9rbxun9rbxun9rb.jpg"
     },
     {
       "id": "sala-115",
@@ -2232,11 +2219,12 @@
       "badge": null,
       "color": "#ddd0bf",
       "icon": "🪡",
-      "price_old": 30000
+      "price_old": 30000,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_oh6fuxoh6fuxoh6f.jpg"
     },
     {
       "id": "sala-042",
-      "name": "Canasta Blanca",
+      "name": "Canasta Paper x3",
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Tejido blanco en estructura firme que organiza con elegancia. Lo natural en su versión más luminosa.",
@@ -2249,7 +2237,7 @@
     },
     {
       "id": "sala-043",
-      "name": "Canasta Paper",
+      "name": "Canasta Forrado con lienzo x3",
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Papel tejido con estructura y textura que organiza cualquier espacio con un toque artesanal muy actual.",
@@ -2275,7 +2263,7 @@
     },
     {
       "id": "sala-045",
-      "name": "Canasto Yute",
+      "name": "Canasto Yute x3",
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Yute natural en formato canasto. El material del momento para organizar con calidez orgánica.",
@@ -2314,7 +2302,7 @@
     },
     {
       "id": "sala-046",
-      "name": "Canastos Yute con tapa",
+      "name": "Canastos Yute con tapa x3",
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Yute natural con tapa para esconder el orden. Organización impecable con estética cálida y orgánica.",
@@ -2917,7 +2905,7 @@
       "sectionId": "sala",
       "description": "Formato más amplio con bisel refinado para retratos y las fotos que más querés mostrar.",
       "price": 22000,
-      "badge": null,
+      "badge": "Agotado",
       "color": "#e8ddd0",
       "icon": "🖼️",
       "price_old": 32000,
@@ -3078,6 +3066,19 @@
       "icon": "🕐",
       "price_old": 37000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/RELOJ%20NEGRO%20REDONDO.jpg"
+    },
+    {
+      "id": "sala-124",
+      "name": "Organizador Bambu Plegable",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "Bambú plegable que organiza el espacio de manera versátil. Se adapta a la cocina",
+      "price": 25000,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%206.38.47%20PM.jpg"
     }
   ],
   "gallery": {
@@ -3205,6 +3206,24 @@
     ],
     "arte-020": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-26%20at%207.09.03%20PM.jpeg"
+    ],
+    "sala-046": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%206.23.54%20PM.jpg"
+    ],
+    "sala-045": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%206.24.06%20PM.jpg"
+    ],
+    "sala-117": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%206.35.12%20PM.jpg"
+    ],
+    "sala-084": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%206.36.02%20PM.jpg"
+    ],
+    "sala-092": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%206.39.33%20PM.jpg"
+    ],
+    "arte-023": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%206.42.08%20PM.jpg"
     ]
   },
   "details": {
@@ -3240,7 +3259,6 @@
     "dorm-008": "Difusor ultrasónico de aceite esencial con fragancia \"Noche Estrellada\": jazmín, sándalo y cedro. Frasco de vidrio ámbar con 8 palitos de rattan. Intensidad ajustable. 150 ml. Duración: 6-8 semanas.",
     "dorm-009": "Marco para foto con madera de fresno natural y detalles dorados en las esquinas. Vidrio mineral antireflejo. Medidas: para foto 15×20 cm. Se puede colgar o apoyar. Diseño atemporal.",
     "dorm-010": "Par de cortinas de voile 100% algodón. Tejido semitransparente que filtra la luz suavemente. Con jareta superior para barral. Medidas por paño: 135×240 cm. Lavable en máquina a 30°C.",
-    "dorm-011": "Topper de memory foam viscoelástico de 7 cm de espesor con cobertor de algodón jersey. Talla queen (160×200 cm). Alivia puntos de presión. Incluye funda con cremallera lavable. Firmeza media-blanda.",
     "dorm-012": "Perchero de bambú sostenible con sistema de rieles deslizantes en acero inoxidable. Capacidad para 20 perchas. Ruedas con freno. Dimensiones montado: 110×45×170 cm. Armado en 10 minutos.",
     "dorm-013": "Vela de soja orgánica con fragancia \"Madreselva en Flor\": flores blancas, musgo y fondo almizclado. Pabilo de algodón sin toxinas. Tiempo de combustión: 50 horas. Contenedor de cerámica reutilizable.",
     "dorm-014": "Alfombra de pelo largo (5 cm) en fibra acrílica suave como cachemira. Color gris perla. Superficie peluda ultrasuave al tacto. Antideslizante incluido. Medidas: 80×150 cm. Aspirar regularmente.",
@@ -3376,7 +3394,6 @@
     "dorm-008": "diffuser",
     "dorm-009": "frame",
     "dorm-010": "default",
-    "dorm-011": "pillow_large",
     "dorm-012": "clothes_rack",
     "dorm-013": "candle",
     "dorm-014": "rug",
@@ -3538,7 +3555,6 @@
     "sala-109": "default",
     "coc-056": "default",
     "coc-057": "default",
-    "ilum-029": "default",
     "sala-119": "default",
     "arte-020": "default",
     "coc-061": "default",
@@ -3556,6 +3572,11 @@
     "sala-122": "default",
     "sala-123": "default",
     "coc-049": "default",
-    "coc-058": "default"
+    "coc-058": "default",
+    "sala-046": "default",
+    "sala-045": "default",
+    "sala-043": "default",
+    "sala-042": "default",
+    "sala-124": "default"
   }
 }
