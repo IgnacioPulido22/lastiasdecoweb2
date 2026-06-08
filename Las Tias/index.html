@@ -3451,7 +3451,16 @@
       } catch(e) {}
     }
 
+    function sortProducts() {
+      PRODUCTS.sort((a, b) => {
+        const s = (a.sectionId || '').localeCompare(b.sectionId || '', 'es');
+        if (s !== 0) return s;
+        return (a.name || '').localeCompare(b.name || '', 'es');
+      });
+    }
+
     function saveProductsToStorage() {
+      sortProducts();
       try {
         localStorage.setItem('ltd_products', JSON.stringify(PRODUCTS));
         localStorage.setItem('ltd_images',   JSON.stringify(PRODUCT_IMAGES));
@@ -4109,6 +4118,7 @@
         const data    = JSON.parse(decoded);
         if (!data.products?.length) throw new Error('Datos vacíos');
         PRODUCTS         = data.products;
+        sortProducts();
         if (data.gallery) {
           Object.assign(PRODUCT_GALLERY, data.gallery);
         }
