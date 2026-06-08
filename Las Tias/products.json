@@ -1235,19 +1235,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/MANOPLAS%20SILICONA%201.jpg"
     },
     {
-      "id": "coc-046",
-      "name": "Organizador Bambú Plegable",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Bambú plegable que organiza el espacio de manera versátil. Se adapta a la cocina y al dormitorio.",
-      "price": 25000,
-      "badge": null,
-      "color": "#e8e4dc",
-      "icon": "🗂️",
-      "price_old": 35000,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_ryl4ydryl4ydryl4%201.png"
-    },
-    {
       "id": "coc-047",
       "name": "Paño Escurridor",
       "category": "Cocina & Comedor",
@@ -2223,19 +2210,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_oh6fuxoh6fuxoh6f.jpg"
     },
     {
-      "id": "sala-042",
-      "name": "Canasta Paper x3",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Tejido blanco en estructura firme que organiza con elegancia. Lo natural en su versión más luminosa.",
-      "price": 81900,
-      "badge": null,
-      "color": "#e5d9c8",
-      "icon": "🧺",
-      "price_old": null,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CESTA%20BLANCA%20Y%20NATURAL.jpg"
-    },
-    {
       "id": "sala-043",
       "name": "Canasta Forrado con lienzo x3",
       "category": "Sala & Living",
@@ -2247,6 +2221,19 @@
       "icon": "🧺",
       "price_old": null,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CESTA%20PAPER.jpg"
+    },
+    {
+      "id": "sala-042",
+      "name": "Canasta Paper x3",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "Tejido blanco en estructura firme que organiza con elegancia. Lo natural en su versión más luminosa.",
+      "price": 81900,
+      "badge": null,
+      "color": "#e5d9c8",
+      "icon": "🧺",
+      "price_old": null,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/CESTA%20BLANCA%20Y%20NATURAL.jpg"
     },
     {
       "id": "sala-044",
@@ -2886,6 +2873,32 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20mesa%20redonda.png"
     },
     {
+      "id": "sala-124",
+      "name": "Organizador Bambu Plegable",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "Bambú plegable que organiza el espacio de manera versátil. Se adapta a la cocina",
+      "price": 25000,
+      "price_old": null,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%206.38.47%20PM.jpg"
+    },
+    {
+      "id": "coc-046",
+      "name": "Organizador Bambú Plegable",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "Bambú plegable que organiza el espacio de manera versátil. Se adapta a la cocina y al dormitorio.",
+      "price": 25000,
+      "badge": null,
+      "color": "#e8e4dc",
+      "icon": "🗂️",
+      "price_old": 35000,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_ryl4ydryl4ydryl4%201.png"
+    },
+    {
       "id": "sala-092",
       "name": "Portarretrato Biselado 10x15",
       "category": "Sala & Living",
@@ -3066,19 +3079,6 @@
       "icon": "🕐",
       "price_old": 37000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/RELOJ%20NEGRO%20REDONDO.jpg"
-    },
-    {
-      "id": "sala-124",
-      "name": "Organizador Bambu Plegable",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Bambú plegable que organiza el espacio de manera versátil. Se adapta a la cocina",
-      "price": 25000,
-      "price_old": null,
-      "badge": null,
-      "color": "#e8ddd0",
-      "icon": "✨",
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%206.38.47%20PM.jpg"
     }
   ],
   "gallery": {
