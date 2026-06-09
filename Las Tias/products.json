@@ -99,9 +99,10 @@
       "description": "La ciudad que nunca duerme en cuatro escenas urbanas. Para los fanáticos de Nueva York y el arte con personalidad.",
       "price": 42000,
       "badge": null,
-      "color": "#E8E4DC",
+      "color": "#e8e4dc",
       "icon": "🎨",
-      "price_old": 52000
+      "price_old": 52000,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%206.44.50%20PM.jpg"
     },
     {
       "id": "arte-023",
@@ -1115,7 +1116,7 @@
       "color": "#ede8e0",
       "icon": "🍽️",
       "price_old": 48000,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20indiv%20gris.jpeg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20indiv%20gris%20x6.jpg"
     },
     {
       "id": "coc-040",
@@ -1128,11 +1129,11 @@
       "color": "#e8e4dc",
       "icon": "🍽️",
       "price_old": 13000,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20indiv%20gris%20x6.jpeg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20indiv%20gris.jpg"
     },
     {
       "id": "coc-039",
-      "name": "Individual Mimbre Set x6",
+      "name": "Individual Yute Set x6",
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Set completo para vestir la mesa con naturalidad. Mimbre que encaja perfecto en cualquier estilo.",
@@ -1145,7 +1146,7 @@
     },
     {
       "id": "coc-038",
-      "name": "Individual Mimbre x1",
+      "name": "Individual Yute x1",
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "El toque natural y artesanal en la mesa. Protege y decora en una sola pieza de mimbre redondo.",
@@ -1214,7 +1215,7 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "Todo lo necesario para un asado bien equipado. El regalo perfecto para los amantes de la parrilla.",
-      "price": 22000,
+      "price": 24000,
       "price_old": 32000,
       "badge": null,
       "color": "#e8ddd0",
@@ -1240,7 +1241,7 @@
       "category": "Cocina & Comedor",
       "sectionId": "cocina",
       "description": "El aliado de la cocina para secar platos y superficies con eficiencia. Funcional con buen diseño.",
-      "price": 9000,
+      "price": 10000,
       "badge": null,
       "color": "#ede8e0",
       "icon": "🧹",
@@ -1917,7 +1918,7 @@
       "sectionId": "sala",
       "description": "Patrones geométricos tejidos que equilibran tradición y modernidad. Perfecta para darle carácter al living.",
       "price": 190000,
-      "badge": "Agotado",
+      "badge": null,
       "color": "#ddd5c8",
       "icon": "🪡",
       "price_old": 220000,
@@ -2228,7 +2229,7 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Tejido blanco en estructura firme que organiza con elegancia. Lo natural en su versión más luminosa.",
-      "price": 81900,
+      "price": 78999,
       "badge": null,
       "color": "#e5d9c8",
       "icon": "🧺",
@@ -2254,7 +2255,7 @@
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Yute natural en formato canasto. El material del momento para organizar con calidez orgánica.",
-      "price": 60000,
+      "price": 65000,
       "badge": null,
       "color": "#e5d9c8",
       "icon": "🧺",
@@ -2493,7 +2494,7 @@
       "color": "#e5d9c8",
       "icon": "🪞",
       "price_old": 40000,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESPEJOS%20SET%20X%203%20BLANCOS.jpg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESPEJOS%20SET%20X%203.jpg"
     },
     {
       "id": "sala-050",
@@ -2532,7 +2533,7 @@
       "color": "#ddd0bf",
       "icon": "🪞",
       "price_old": 40000,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESPEJOS%20SET%20X%203.jpg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESPEJOS%20SET%20X%203%20BLANCOS.jpg"
     },
     {
       "id": "sala-117",
@@ -3133,10 +3134,6 @@
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_1mw8z71mw8z71mw8.png",
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_1mw8z71mw8z71mw8.png"
     ],
-    "ilum-029": [
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.32.26.jpeg",
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.32.17.jpeg"
-    ],
     "sala-119": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-26%20at%2010.36.44.jpeg"
     ],
@@ -3224,6 +3221,10 @@
     ],
     "arte-023": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%206.42.08%20PM.jpg"
+    ],
+    "ilum-029": [
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.32.26.jpeg",
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-22%20at%2014.32.17.jpeg"
     ]
   },
   "details": {
@@ -3259,6 +3260,7 @@
     "dorm-008": "Difusor ultrasónico de aceite esencial con fragancia \"Noche Estrellada\": jazmín, sándalo y cedro. Frasco de vidrio ámbar con 8 palitos de rattan. Intensidad ajustable. 150 ml. Duración: 6-8 semanas.",
     "dorm-009": "Marco para foto con madera de fresno natural y detalles dorados en las esquinas. Vidrio mineral antireflejo. Medidas: para foto 15×20 cm. Se puede colgar o apoyar. Diseño atemporal.",
     "dorm-010": "Par de cortinas de voile 100% algodón. Tejido semitransparente que filtra la luz suavemente. Con jareta superior para barral. Medidas por paño: 135×240 cm. Lavable en máquina a 30°C.",
+    "dorm-011": "Topper de memory foam viscoelástico de 7 cm de espesor con cobertor de algodón jersey. Talla queen (160×200 cm). Alivia puntos de presión. Incluye funda con cremallera lavable. Firmeza media-blanda.",
     "dorm-012": "Perchero de bambú sostenible con sistema de rieles deslizantes en acero inoxidable. Capacidad para 20 perchas. Ruedas con freno. Dimensiones montado: 110×45×170 cm. Armado en 10 minutos.",
     "dorm-013": "Vela de soja orgánica con fragancia \"Madreselva en Flor\": flores blancas, musgo y fondo almizclado. Pabilo de algodón sin toxinas. Tiempo de combustión: 50 horas. Contenedor de cerámica reutilizable.",
     "dorm-014": "Alfombra de pelo largo (5 cm) en fibra acrílica suave como cachemira. Color gris perla. Superficie peluda ultrasuave al tacto. Antideslizante incluido. Medidas: 80×150 cm. Aspirar regularmente.",
@@ -3394,6 +3396,7 @@
     "dorm-008": "diffuser",
     "dorm-009": "frame",
     "dorm-010": "default",
+    "dorm-011": "pillow_large",
     "dorm-012": "clothes_rack",
     "dorm-013": "candle",
     "dorm-014": "rug",
@@ -3577,6 +3580,8 @@
     "sala-045": "default",
     "sala-043": "default",
     "sala-042": "default",
-    "sala-124": "default"
+    "sala-124": "default",
+    "sala-056": "default",
+    "sala-055": "default"
   }
 }
