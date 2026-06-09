@@ -1131,19 +1131,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20indiv%20gris.jpg"
     },
     {
-      "id": "coc-039",
-      "name": "Individual Mimbre Set x6",
-      "category": "Cocina & Comedor",
-      "sectionId": "cocina",
-      "description": "Set completo para vestir la mesa con naturalidad. Mimbre que encaja perfecto en cualquier estilo.",
-      "price": 50000,
-      "badge": null,
-      "color": "#ede8e0",
-      "icon": "🍽️",
-      "price_old": 60000,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20indiv%20mad%20x6.jpeg"
-    },
-    {
       "id": "coc-038",
       "name": "Individual Mimbre x1",
       "category": "Cocina & Comedor",
@@ -1155,6 +1142,19 @@
       "icon": "🍽️",
       "price_old": 15000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20indiv%20mad.jpeg"
+    },
+    {
+      "id": "coc-039",
+      "name": "Individual Yute Set x6",
+      "category": "Cocina & Comedor",
+      "sectionId": "cocina",
+      "description": "Set completo para vestir la mesa con naturalidad. Mimbre que encaja perfecto en cualquier estilo.",
+      "price": 50000,
+      "badge": null,
+      "color": "#ede8e0",
+      "icon": "🍽️",
+      "price_old": 60000,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20indiv%20mad%20x6.jpeg"
     },
     {
       "id": "coc-044",
