@@ -1131,19 +1131,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20indiv%20gris.jpg"
     },
     {
-      "id": "coc-038",
-      "name": "Individual Mimbre x1",
-      "category": "Cocina & Comedor",
-      "sectionId": "cocina",
-      "description": "El toque natural y artesanal en la mesa. Protege y decora en una sola pieza de mimbre redondo.",
-      "price": 10000,
-      "badge": null,
-      "color": "#e8e4dc",
-      "icon": "🍽️",
-      "price_old": 15000,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20indiv%20mad.jpeg"
-    },
-    {
       "id": "coc-039",
       "name": "Individual Yute Set x6",
       "category": "Cocina & Comedor",
@@ -1155,6 +1142,19 @@
       "icon": "🍽️",
       "price_old": 60000,
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20indiv%20mad%20x6.jpeg"
+    },
+    {
+      "id": "coc-038",
+      "name": "Individual Yute x1",
+      "category": "Cocina & Comedor",
+      "sectionId": "cocina",
+      "description": "El toque natural y artesanal en la mesa. Protege y decora en una sola pieza de mimbre redondo.",
+      "price": 10000,
+      "badge": null,
+      "color": "#e8e4dc",
+      "icon": "🍽️",
+      "price_old": 15000,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/a%20indiv%20mad.jpeg"
     },
     {
       "id": "coc-044",
