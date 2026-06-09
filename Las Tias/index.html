@@ -3091,16 +3091,21 @@
       },
 
       buildWhatsAppMsg() {
+        const eBag   = '🛍️'; // 🛍️
+        const ePkg   = '📦';       // 📦
+        const eMoney = '💰';       // 💰
+        const eBill  = '💵';       // 💵
+        const bullet = '•';             // •
+        const sep    = '━'.repeat(20);  // ━━━━━━━━━━━━━━━━━━━━
         const lines = this.items.map(i => {
           const unitStr = formatPrice(i.price);
           const subStr  = formatPrice(i.price * i.qty);
           if (i.qty > 1) {
-            return `▫️ ${i.name}\n📦 ${i.qty} unidades × ${unitStr} = ${subStr}`;
+            return `${bullet} ${i.name}\n${ePkg} ${i.qty} unidades × ${unitStr} = ${subStr}`;
           }
-          return `▫️ ${i.name}\n💰 ${unitStr}`;
+          return `${bullet} ${i.name}\n${eMoney} ${unitStr}`;
         }).join('\n\n');
-        const sep = '━━━━━━━━━━━━━━━━━━━━';
-        return `🛍️ PEDIDO - LAS TÍAS DECORACIÓN\n\n${lines}\n\n${sep}\n💵 TOTAL: ${formatPrice(this.getTotal())}\n${sep}\n\n¡Hola! Me gustaría confirmar disponibilidad y coordinar el envío. ¡Muchas gracias!`;
+        return `${eBag} PEDIDO - LAS TÍAS DECORACIÓN\n\n${lines}\n\n${sep}\n${eBill} TOTAL: ${formatPrice(this.getTotal())}\n${sep}\n\n¡Hola! Me gustaría confirmar disponibilidad y coordinar el envío. ¡Muchas gracias!`;
       },
 
       openWhatsApp() {
