@@ -2532,7 +2532,7 @@
       "color": "#ddd0bf",
       "icon": "🪞",
       "price_old": 40000,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESPEJOS%20SET%20X%203.jpg"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/ESPEJOS%20SET%20X%203%20BLANCOS.jpg"
     },
     {
       "id": "sala-117",
@@ -3580,6 +3580,7 @@
     "sala-043": "default",
     "sala-042": "default",
     "sala-124": "default",
-    "sala-056": "default"
+    "sala-056": "default",
+    "sala-055": "default"
   }
 }
