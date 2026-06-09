@@ -3046,17 +3046,23 @@
       },
 
       buildWhatsAppMsg() {
-        const lines = this.items.map(i =>
-          `- ${i.name} x${i.qty} — ${formatPrice(i.price * i.qty)}`
-        ).join('\n');
-        return `🛍️ *PEDIDO - LAS TÍAS DECORACIÓN*\n\n*Productos:*\n${lines}\n\n*Total: ${formatPrice(this.getTotal())}*\n\n---\n¡Hola! Me gustaría confirmar disponibilidad y coordinar el envío. ¡Muchas gracias!`;
+        const lines = this.items.map(i => {
+          const unitStr = formatPrice(i.price);
+          const subStr  = formatPrice(i.price * i.qty);
+          if (i.qty > 1) {
+            return `• *${i.name}*\n   ${i.qty} unidades × ${unitStr} = *${subStr}*`;
+          }
+          return `• *${i.name}*\n   ${unitStr}`;
+        }).join('\n');
+        const sep = '━━━━━━━━━━━━━━━━━━━━';
+        return `🛍️ *PEDIDO - LAS TÍAS DECORACIÓN*\n\n${lines}\n\n${sep}\n💰 *TOTAL: ${formatPrice(this.getTotal())}*\n${sep}\n\n¡Hola! Me gustaría confirmar disponibilidad y coordinar el envío. ¡Muchas gracias!`;
       },
 
       openWhatsApp() {
         if (this.items.length === 0) return;
         const msg = this.buildWhatsAppMsg();
         const encoded = encodeURIComponent(msg);
-        window.open(`https://wa.me/5491XXXXXXXXX?text=${encoded}`, '_blank');
+        window.open(`https://wa.me/5491154786424?text=${encoded}`, '_blank');
       },
 
       render() {
