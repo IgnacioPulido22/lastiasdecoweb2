@@ -3011,7 +3011,11 @@
        CART STATE
     =========================== */
     const cart = {
-      items: [],
+      items: JSON.parse(localStorage.getItem('ltd_cart') || '[]'),
+
+      save() {
+        localStorage.setItem('ltd_cart', JSON.stringify(this.items));
+      },
 
       addItem(product) {
         const existing = this.items.find(i => i.id === product.id);
@@ -3020,6 +3024,7 @@
         } else {
           this.items.push({ ...product, qty: 1 });
         }
+        this.save();
         this.render();
         animateBadge();
         showToast(`"${product.name}" agregado al carrito`);
@@ -3027,6 +3032,7 @@
 
       removeItem(id) {
         this.items = this.items.filter(i => i.id !== id);
+        this.save();
         this.render();
       },
 
@@ -3034,6 +3040,7 @@
         const item = this.items.find(i => i.id === id);
         if (!item) return;
         item.qty = Math.max(1, item.qty + delta);
+        this.save();
         this.render();
       },
 
