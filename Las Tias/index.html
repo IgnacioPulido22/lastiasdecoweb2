@@ -651,6 +651,44 @@
       50% { transform: scale(1.08); }
       100% { background: none; color: var(--dark); transform: scale(1); }
     }
+    .btn-add-cart.picker-mode {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      padding: 5px 6px;
+      cursor: default;
+    }
+    .qty-btn {
+      width: 22px; height: 22px;
+      display: flex; align-items: center; justify-content: center;
+      border: 1px solid var(--gold);
+      cursor: pointer;
+      font-size: 1rem;
+      line-height: 1;
+      user-select: none;
+      flex-shrink: 0;
+      transition: background var(--transition), color var(--transition);
+    }
+    .qty-btn:hover { background: var(--gold); color: var(--white); }
+    .qty-display {
+      min-width: 1.4em;
+      text-align: center;
+      font-size: 0.8rem;
+      font-weight: 700;
+    }
+    .qty-ok {
+      padding: 3px 7px;
+      background: var(--gold);
+      color: var(--white);
+      cursor: pointer;
+      font-size: 0.62rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      user-select: none;
+      white-space: nowrap;
+    }
+    .qty-ok:hover { opacity: 0.85; }
 
     /* ===========================
        CART DRAWER
@@ -3224,11 +3262,41 @@
     }
 
     function handleAddToCart(btn, productId) {
+      if (btn.classList.contains('picker-mode')) return;
+      btn.classList.add('picker-mode');
+      btn.dataset.qty = '1';
+      btn.innerHTML = `<span class="qty-btn" onclick="event.stopPropagation();adjQty(this.parentElement,-1)">−</span><span class="qty-display">1</span><span class="qty-btn" onclick="event.stopPropagation();adjQty(this.parentElement,1)">+</span><span class="qty-ok" onclick="event.stopPropagation();confirmQty(this.parentElement,'${productId}')">Agregar</span>`;
+      btn._timer = setTimeout(() => resetQtyPicker(btn), 6000);
+    }
+
+    function adjQty(btn, delta) {
+      clearTimeout(btn._timer);
+      const q = Math.max(1, parseInt(btn.dataset.qty) + delta);
+      btn.dataset.qty = q;
+      btn.querySelector('.qty-display').textContent = q;
+      btn._timer = setTimeout(() => resetQtyPicker(btn), 6000);
+    }
+
+    function confirmQty(btn, productId) {
+      clearTimeout(btn._timer);
       const product = PRODUCTS.find(p => p.id === productId);
       if (!product) return;
-      btn.classList.add('adding');
-      setTimeout(() => btn.classList.remove('adding'), 400);
-      cart.addItem(product);
+      const qty = parseInt(btn.dataset.qty);
+      const existing = cart.items.find(i => i.id === product.id);
+      if (existing) { existing.qty += qty; }
+      else { cart.items.push({ ...product, qty }); }
+      cart.save();
+      cart.render();
+      animateBadge();
+      showToast(`"${product.name}"${qty > 1 ? ` ×${qty}` : ''} agregado al carrito`);
+      resetQtyPicker(btn);
+    }
+
+    function resetQtyPicker(btn) {
+      clearTimeout(btn._timer);
+      btn.classList.remove('picker-mode');
+      btn.dataset.qty = '1';
+      btn.textContent = '+ Agregar';
     }
 
     /* ===========================
