@@ -99,9 +99,10 @@
       "description": "La ciudad que nunca duerme en cuatro escenas urbanas. Para los fanáticos de Nueva York y el arte con personalidad.",
       "price": 42000,
       "badge": null,
-      "color": "#E8E4DC",
+      "color": "#e8e4dc",
       "icon": "🎨",
-      "price_old": 52000
+      "price_old": 52000,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-06-05%20at%206.44.50%20PM.jpg"
     },
     {
       "id": "arte-023",
