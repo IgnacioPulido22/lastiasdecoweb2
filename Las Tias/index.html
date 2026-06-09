@@ -3091,21 +3091,21 @@
       },
 
       buildWhatsAppMsg() {
-        const eBag   = '🛍️'; // 🛍️
-        const ePkg   = '📦';       // 📦
-        const eMoney = '💰';       // 💰
-        const eBill  = '💵';       // 💵
-        const bullet = '•';             // •
-        const sep    = '━'.repeat(20);  // ━━━━━━━━━━━━━━━━━━━━
+        const eBag   = '\uD83D\uDECD\uFE0F';
+        const ePkg   = '\uD83D\uDCE6';
+        const eMoney = '\uD83D\uDCB0';
+        const eBill  = '\uD83D\uDCB5';
+        const bullet = '\u2022';
+        const sep    = '\u2501'.repeat(20);
         const lines = this.items.map(i => {
           const unitStr = formatPrice(i.price);
           const subStr  = formatPrice(i.price * i.qty);
           if (i.qty > 1) {
-            return `${bullet} ${i.name}\n${ePkg} ${i.qty} unidades × ${unitStr} = ${subStr}`;
+            return `${bullet} ${i.name}\n${ePkg} ${i.qty} unidades \u00D7 ${unitStr} = ${subStr}`;
           }
           return `${bullet} ${i.name}\n${eMoney} ${unitStr}`;
         }).join('\n\n');
-        return `${eBag} PEDIDO - LAS TÍAS DECORACIÓN\n\n${lines}\n\n${sep}\n${eBill} TOTAL: ${formatPrice(this.getTotal())}\n${sep}\n\n¡Hola! Me gustaría confirmar disponibilidad y coordinar el envío. ¡Muchas gracias!`;
+        return `${eBag} PEDIDO - LAS T\u00CDAS DECORACI\u00D3N\n\n${lines}\n\n${sep}\n${eBill} TOTAL: ${formatPrice(this.getTotal())}\n${sep}\n\n\u00A1Hola! Me gustar\u00EDa confirmar disponibilidad y coordinar el env\u00EDo. \u00A1Muchas gracias!`;
       },
 
       openWhatsApp() {
