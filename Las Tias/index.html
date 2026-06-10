@@ -3109,6 +3109,9 @@
         const msg = this.buildWhatsAppMsg();
         const encoded = encodeURIComponent(msg);
         window.open(`https://wa.me/5491154786424?text=${encoded}`, '_blank');
+        this.items = [];
+        this.save();
+        this.render();
       },
 
       render() {
