@@ -1221,6 +1221,16 @@
       transition: all var(--transition);
     }
     .btn-admin-export:hover { background: #2d7a4f; color: #fff; }
+    .btn-admin-catalog {
+      padding: 8px 16px;
+      border: 1px solid var(--gold);
+      color: var(--gold-dark);
+      font-size: 0.78rem;
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      transition: background var(--transition), color var(--transition);
+    }
+    .btn-admin-catalog:hover { background: var(--gold); color: var(--white); }
 
     /* GitHub Sync bar */
     .admin-sync-bar {
@@ -2207,6 +2217,7 @@
         </select>
         <button class="btn-admin-reset" onclick="resetToDefaultProducts()">↺ Restaurar originales</button>
         <button class="btn-admin-export" onclick="downloadProductsCSV()">⬇ Descargar Excel</button>
+        <button class="btn-admin-catalog" onclick="downloadCatalog()">⬇ Catálogo PDF</button>
         <button class="btn-admin-new" onclick="openAdminForm(null)">+ Nuevo Producto</button>
       </div>
 
@@ -3853,6 +3864,89 @@
       a.download = 'catalogo_las_tias.csv';
       a.click();
       URL.revokeObjectURL(url);
+    }
+
+    /* ===========================
+       CATALOG PDF DOWNLOAD
+    =========================== */
+    function downloadCatalog() {
+      const doc = window.open('', '_blank');
+      if (!doc) { alert('Permitir ventanas emergentes para descargar el catálogo.'); return; }
+
+      const bySection = {};
+      SECTIONS.forEach(s => { bySection[s.id] = []; });
+      PRODUCTS.forEach(p => { if (bySection[p.sectionId]) bySection[p.sectionId].push(p); });
+
+      const fecha = new Date().toLocaleDateString('es-AR', { year: 'numeric', month: 'long', day: 'numeric' });
+
+      let sectionsHtml = '';
+      SECTIONS.forEach((sec, i) => {
+        const prods = bySection[sec.id] || [];
+        if (!prods.length) return;
+        const cards = prods.map(p => {
+          const imgEl = p.img
+            ? `<img class="pi" src="${p.img}" alt="${p.name.replace(/"/g,'&quot;')}">`
+            : `<div class="pp">${p.icon || '✨'}</div>`;
+          const oldEl = p.price_old
+            ? `<s class="po">$${p.price_old.toLocaleString('es-AR')}</s>`
+            : '';
+          return `<div class="pc">${imgEl}<div class="pf"><div class="pn">${p.name}</div>${oldEl}<div class="pr">$${(p.price||0).toLocaleString('es-AR')}</div></div></div>`;
+        }).join('');
+        sectionsHtml += `<div class="${i > 0 ? 'sb' : ''}"><div class="sh"><h2>${sec.title}</h2></div><div class="pg">${cards}</div></div>`;
+      });
+
+      const html = `<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Catálogo Las Tías — ${fecha}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Jost',sans-serif;color:#1A1A1A;background:#fff}
+.bar{position:fixed;top:0;left:0;right:0;background:#1A1A1A;color:#fff;display:flex;align-items:center;justify-content:space-between;padding:12px 24px;font-size:13px;z-index:9999}
+.bar button{background:#C9A96E;color:#fff;border:none;padding:9px 22px;font-size:12px;font-weight:500;cursor:pointer;letter-spacing:.08em;font-family:'Jost',sans-serif}
+.bar button:hover{background:#A8843F}
+.wrap{margin-top:50px}
+.cover{min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#F8F6F2;page-break-after:always;text-align:center;gap:20px}
+.cover h1{font-family:'Cormorant Garamond',Georgia,serif;font-size:64px;font-weight:600;letter-spacing:.04em}
+.cover p{font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:#6B6B6B}
+.line{width:72px;height:1px;background:#C9A96E}
+.sb{page-break-before:always}
+.sh{padding:28px 48px 20px;border-bottom:1px solid #E0DDD8;margin-bottom:28px}
+.sh h2{font-family:'Cormorant Garamond',Georgia,serif;font-size:34px;font-weight:400;font-style:italic}
+.pg{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;padding:0 48px 48px}
+.pc{border:1px solid #E0DDD8;background:#FAFAF8;overflow:hidden;break-inside:avoid}
+.pi{width:100%;aspect-ratio:1;object-fit:cover;display:block;background:#F0EDE7}
+.pp{width:100%;aspect-ratio:1;background:#F0EDE7;display:flex;align-items:center;justify-content:center;font-size:44px}
+.pf{padding:12px 14px}
+.pn{font-family:'Cormorant Garamond',Georgia,serif;font-size:14px;font-weight:500;line-height:1.4;margin-bottom:6px}
+.po{font-size:11px;color:#aaa;display:block;margin-bottom:2px}
+.pr{font-size:14px;font-weight:600;color:#C9A96E}
+@media print{.bar{display:none!important}.wrap{margin-top:0}.cover{min-height:100vh}}
+</style>
+</head>
+<body>
+<div class="bar">
+  <span>Catálogo Las Tías &mdash; ${fecha}</span>
+  <button onclick="window.print()">&#11015; Guardar como PDF</button>
+</div>
+<div class="wrap">
+  <div class="cover">
+    <div class="line"></div>
+    <h1>Las T&iacute;as</h1>
+    <p>Cat&aacute;logo de Decoraci&oacute;n</p>
+    <div class="line"></div>
+    <p style="font-size:12px;letter-spacing:.06em">${fecha}</p>
+  </div>
+  ${sectionsHtml}
+</div>
+</body>
+</html>`;
+
+      doc.document.write(html);
+      doc.document.close();
     }
 
     /* ===========================
