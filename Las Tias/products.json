@@ -969,7 +969,7 @@
       "sectionId": "cocina",
       "description": "Diseño elevado con dos cuencos para perros grandes. Funcional y mucho más elegante que los comederos convencionales.",
       "price": 32000,
-      "badge": null,
+      "badge": "Agotado",
       "color": "#ede8e0",
       "icon": "🐾",
       "price_old": 42000,
@@ -3583,6 +3583,7 @@
     "sala-124": "default",
     "sala-056": "default",
     "sala-055": "default",
-    "sala-047": "default"
+    "sala-047": "default",
+    "coc-029": "default"
   }
 }
