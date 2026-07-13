@@ -2282,7 +2282,7 @@
       "sectionId": "sala",
       "description": "Tejido en rafia con contraste blanco y negro. Tres tamaños para ordenar con mucha personalidad.",
       "price": 65000,
-      "badge": null,
+      "badge": "Agotado",
       "color": "#e8ddd0",
       "icon": "🧺",
       "price_old": 75000,
@@ -3582,6 +3582,7 @@
     "sala-042": "default",
     "sala-124": "default",
     "sala-056": "default",
-    "sala-055": "default"
+    "sala-055": "default",
+    "sala-047": "default"
   }
 }
