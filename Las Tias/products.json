@@ -2160,7 +2160,7 @@
     },
     {
       "id": "sala-026",
-      "name": "Almohadón Piel Gris",
+      "name": "Almohadón Piel Gris 50x50",
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "Cobertura suave en gris. Sofisticación y confort para sillones, sofás y cabeceras.",
@@ -3565,6 +3565,7 @@
     "coc-053": "default",
     "coc-055": "default",
     "ilum-022": "default",
-    "sala-023": "default"
+    "sala-023": "default",
+    "sala-026": "default"
   }
 }
