@@ -1779,7 +1779,7 @@
       "color": "#eee4d4",
       "icon": "💡",
       "price_old": 80000,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_nw46e1nw46e1nw46.png"
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-07-25%20at%2011.58.38%20AM.jpg"
     },
     {
       "id": "jard-003",
@@ -3563,6 +3563,7 @@
     "coc-050": "default",
     "coc-054": "default",
     "coc-053": "default",
-    "coc-055": "default"
+    "coc-055": "default",
+    "ilum-022": "default"
   }
 }
