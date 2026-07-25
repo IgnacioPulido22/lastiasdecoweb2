@@ -3306,7 +3306,8 @@
     "sala-099": "Medida  (36alto x 38 ancho)",
     "sala-100": "Medida  (36alto x 38 ancho)",
     "sala-104": "Medida  (40alto x 60diam.)",
-    "coc-051": "Medida (6alto x 6diam.)"
+    "coc-051": "Medida (6alto x 6diam.)",
+    "coc-050": "Medida (6alto x 6diam.)"
   },
   "svgMap": {
     "sala-001": "vase",
@@ -3555,6 +3556,7 @@
     "sala-090": "default",
     "sala-099": "default",
     "sala-100": "default",
-    "coc-051": "default"
+    "coc-051": "default",
+    "coc-050": "default"
   }
 }
