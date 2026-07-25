@@ -3302,7 +3302,8 @@
     "sala-091": "Medida 50CM DIAM X 45CM ALTO",
     "jard-004": "Medida 20×20 cm",
     "jard-006": "Medida 20×20 cm",
-    "jard-005": "Medida 20×20 cm"
+    "jard-005": "Medida 20×20 cm",
+    "sala-099": "Medida  (36alto x 38 ancho)"
   },
   "svgMap": {
     "sala-001": "vase",
@@ -3548,6 +3549,7 @@
     "sala-073": "default",
     "sala-089": "default",
     "sala-088": "default",
-    "sala-090": "default"
+    "sala-090": "default",
+    "sala-099": "default"
   }
 }
