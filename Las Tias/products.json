@@ -3295,7 +3295,8 @@
     "dorm-009": "Medida (48CM ALTO X 44CM DIAM. )",
     "dorm-008": "Medida (48alto x 44diam.)",
     "jard-007": "Medida (13alto x 11diam.)",
-    "sala-080": "Medida (13alto x 11diam.)"
+    "sala-080": "Medida (13alto x 11diam.)",
+    "sala-089": "Medida (20 de alto x 25 de diametro)"
   },
   "svgMap": {
     "sala-001": "vase",
@@ -3538,6 +3539,7 @@
     "sala-065": "default",
     "sala-068": "default",
     "sala-066": "default",
-    "sala-073": "default"
+    "sala-073": "default",
+    "sala-089": "default"
   }
 }
