@@ -49,6 +49,66 @@
     ul { list-style: none; }
 
     /* ===========================
+       PRELOADER
+    =========================== */
+    #page-loader {
+      position: fixed;
+      inset: 0;
+      z-index: 99999;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 22px;
+      background: var(--white);
+      transition: opacity 0.5s ease, visibility 0.5s ease;
+    }
+    #page-loader.hidden {
+      opacity: 0;
+      visibility: hidden;
+      pointer-events: none;
+    }
+    .loader-logo {
+      font-family: var(--font-serif);
+      font-size: 30px;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      color: var(--dark);
+    }
+    .loader-tagline {
+      margin-top: -14px;
+      font-size: 11px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--gray);
+    }
+    .loader-progress {
+      width: 220px;
+      height: 3px;
+      background: var(--gray-light);
+      border-radius: 2px;
+      overflow: hidden;
+    }
+    .loader-progress-fill {
+      height: 100%;
+      width: 0%;
+      background: var(--gold);
+      transition: width 0.3s ease;
+    }
+    .loader-phrase {
+      font-family: var(--font-serif);
+      font-style: italic;
+      font-size: 15px;
+      color: var(--gray);
+      text-align: center;
+      max-width: 280px;
+      min-height: 22px;
+      transition: opacity 0.4s ease;
+    }
+    .loader-phrase.fade { opacity: 0; }
+    body.is-loading { overflow: hidden; }
+
+    /* ===========================
        NAVBAR
     =========================== */
     #navbar {
@@ -1973,7 +2033,17 @@
     }
   </style>
 </head>
-<body>
+<body class="is-loading">
+
+  <!-- ===========================
+       PRELOADER
+  =========================== -->
+  <div id="page-loader">
+    <div class="loader-logo">LAS TÍAS</div>
+    <div class="loader-tagline">Decoración</div>
+    <div class="loader-progress"><div class="loader-progress-fill" id="loader-progress-fill"></div></div>
+    <div class="loader-phrase" id="loader-phrase"></div>
+  </div>
 
   <!-- ===========================
        NAVBAR
@@ -4218,7 +4288,71 @@ body{font-family:'Jost',sans-serif;color:#1A1A1A;background:#fff}
     /* ===========================
        INIT
     =========================== */
+    const LOADER_PHRASES = [
+      'Los pequeños detalles hacen grandes cambios',
+      'Cada rincón merece su propia historia',
+      'La decoración transforma un espacio en un hogar',
+      'Piezas únicas para momentos únicos',
+      'Vistiendo tu hogar con cariño',
+    ];
+
+    function startLoaderPhrases() {
+      const el = document.getElementById('loader-phrase');
+      if (!el) return () => {};
+      let i = 0;
+      el.textContent = LOADER_PHRASES[0];
+      const interval = setInterval(() => {
+        el.classList.add('fade');
+        setTimeout(() => {
+          i = (i + 1) % LOADER_PHRASES.length;
+          el.textContent = LOADER_PHRASES[i];
+          el.classList.remove('fade');
+        }, 400);
+      }, 2400);
+      return () => clearInterval(interval);
+    }
+
+    function hidePageLoader() {
+      const loader = document.getElementById('page-loader');
+      if (!loader) return;
+      loader.classList.add('hidden');
+      document.body.classList.remove('is-loading');
+      setTimeout(() => loader.remove(), 600);
+    }
+
+    // Forces every product image to load now (bypassing lazy-loading) and
+    // resolves once they're all done — or after timeoutMs, whichever first,
+    // so a slow connection can't leave the loader stuck forever.
+    function waitForCatalogImages(timeoutMs = 9000) {
+      const container = document.getElementById('catalog');
+      const imgs = container ? Array.from(container.querySelectorAll('img')) : [];
+      const fillEl = document.getElementById('loader-progress-fill');
+      const total = imgs.length;
+      if (!total) return Promise.resolve();
+
+      let loaded = 0;
+      const updateProgress = () => {
+        if (fillEl) fillEl.style.width = `${Math.round((loaded / total) * 100)}%`;
+      };
+      updateProgress();
+
+      const promises = imgs.map(img => {
+        img.loading = 'eager';
+        if (img.complete) { loaded++; return Promise.resolve(); }
+        return new Promise(resolve => {
+          const done = () => { loaded++; updateProgress(); resolve(); };
+          img.addEventListener('load', done, { once: true });
+          img.addEventListener('error', done, { once: true });
+        });
+      });
+
+      const allDone = Promise.all(promises).then(() => { if (fillEl) fillEl.style.width = '100%'; });
+      const timeout = new Promise(resolve => setTimeout(resolve, timeoutMs));
+      return Promise.race([allDone, timeout]);
+    }
+
     document.addEventListener('DOMContentLoaded', async () => {
+      const stopPhrases = startLoaderPhrases();
       loadProductsFromStorage();
       buildCatalog();
       cart.render();
@@ -4229,7 +4363,13 @@ body{font-family:'Jost',sans-serif;color:#1A1A1A;background:#fff}
       // Fetch latest catalog from GitHub in background, re-render if updated
       const updated = await pullFromGitHub(false);
       if (updated) buildCatalog();
+      await waitForCatalogImages();
+      stopPhrases();
+      hidePageLoader();
     });
+
+    // Absolute safety net in case something above never settles
+    window.addEventListener('load', () => setTimeout(hidePageLoader, 15000));
   </script>
 </body>
 </html>
