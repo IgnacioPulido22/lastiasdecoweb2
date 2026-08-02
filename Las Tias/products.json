@@ -1372,7 +1372,7 @@
       "sectionId": "cocina",
       "description": "El dorado en la mesa transforma cualquier bebida en una experiencia elegante y especial.",
       "price": 35000,
-      "badge": null,
+      "badge": "Agotado",
       "color": "#ede8e0",
       "icon": "🥛",
       "price_old": 45000,
@@ -1800,7 +1800,7 @@
       "category": "Jardín & Exterior",
       "sectionId": "jardin",
       "description": "Largo y resistente para entradas principales. El primer saludo cálido del hogar a quien llega.",
-      "price": 13000,
+      "price": 15000,
       "badge": null,
       "color": "#d2e2ce",
       "icon": "🚪",
@@ -1813,7 +1813,7 @@
       "category": "Jardín & Exterior",
       "sectionId": "jardin",
       "description": "Set de cinco felpudos premium para abastecer distintas entradas o regalar. Calidad a muy buen precio.",
-      "price": 15000,
+      "price": 18000,
       "badge": null,
       "color": "#d8e8d4",
       "icon": "🚪",
@@ -2043,7 +2043,7 @@
     },
     {
       "id": "sala-023",
-      "name": "Almohadón Corderoy Cuadrado 40x40",
+      "name": "Almohadón Corderoy Cuadrado 50x50",
       "category": "Sala & Living",
       "sectionId": "sala",
       "description": "La textura acanalada del corderoy en formato cuadrado. Suave al tacto y elegante a la vista.",
@@ -3132,7 +3132,7 @@
     ],
     "sala-109": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_1mw8z71mw8z71mw8.png",
-      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/Gemini_Generated_Image_1mw8z71mw8z71mw8.png"
+      "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-07-24%20at%209.02.29%20PM.jpg"
     ],
     "sala-119": [
       "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/WhatsApp%20Image%202026-05-26%20at%2010.36.44.jpeg"
