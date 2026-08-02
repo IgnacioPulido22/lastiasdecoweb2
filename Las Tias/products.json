@@ -1372,7 +1372,7 @@
       "sectionId": "cocina",
       "description": "El dorado en la mesa transforma cualquier bebida en una experiencia elegante y especial.",
       "price": 35000,
-      "badge": null,
+      "badge": "Agotado",
       "color": "#ede8e0",
       "icon": "🥛",
       "price_old": 45000,
