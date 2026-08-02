@@ -1263,15 +1263,6 @@
       transition: background var(--transition);
     }
     .btn-admin-new:hover { background: var(--gold-dark); }
-    .btn-admin-reset {
-      padding: 10px 16px;
-      border: 1px solid var(--gray-light);
-      color: var(--gray);
-      font-size: 0.72rem;
-      letter-spacing: 0.08em;
-      transition: all var(--transition);
-    }
-    .btn-admin-reset:hover { border-color: #e74c3c; color: #e74c3c; }
     .btn-admin-export {
       padding: 10px 16px;
       border: 1px solid #2d7a4f;
@@ -2285,7 +2276,6 @@
           <option value="Iluminación">Iluminación</option>
           <option value="Arte & Cuadros">Arte & Cuadros</option>
         </select>
-        <button class="btn-admin-reset" onclick="resetToDefaultProducts()">↺ Restaurar originales</button>
         <button class="btn-admin-export" onclick="downloadProductsCSV()">⬇ Descargar Excel</button>
         <button class="btn-admin-catalog" onclick="downloadCatalog()">⬇ Catálogo PDF</button>
         <button class="btn-admin-new" onclick="openAdminForm(null)">+ Nuevo Producto</button>
@@ -3800,14 +3790,6 @@
       renderAdminTable();
       showToast(`"${p.name}" eliminado`);
       syncToGitHub(false);
-    }
-
-    function resetToDefaultProducts() {
-      if (!confirm('¿Restaurar el catálogo original?\nSe perderán todos los cambios personalizados.')) return;
-      localStorage.removeItem('ltd_products');
-      localStorage.removeItem('ltd_images');
-      localStorage.removeItem('ltd_gallery');
-      location.reload();
     }
 
     function downloadProductsCSV() {
