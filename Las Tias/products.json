@@ -3095,6 +3095,19 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/762736490_1692112008717315_712184294010961264_n.jpg"
     },
     {
+      "id": "sala-107",
+      "name": "Reloj Linea Moderna Negro",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "Clásico redondo en negro de diseño atemporal. Funcional y decorativo para cualquier pared.",
+      "price": 30000,
+      "badge": null,
+      "color": "#ddd0bf",
+      "icon": "🕐",
+      "price_old": 40000,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/RELOJ%20NEGRO%20REDONDO.jpg"
+    },
+    {
       "id": "sala-128",
       "name": "Reloj Linea Negro & Bambu",
       "category": "Sala & Living",
@@ -3145,19 +3158,6 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/763670887_1398886518829091_8193718013655691518_n.jpg"
-    },
-    {
-      "id": "sala-107",
-      "name": "Reloj Negro Redondo",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Clásico redondo en negro de diseño atemporal. Funcional y decorativo para cualquier pared.",
-      "price": 27000,
-      "badge": null,
-      "color": "#ddd0bf",
-      "icon": "🕐",
-      "price_old": 37000,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/RELOJ%20NEGRO%20REDONDO.jpg"
     }
   ],
   "gallery": {
@@ -3652,6 +3652,7 @@
     "sala-127": "default",
     "sala-128": "default",
     "sala-129": "default",
-    "sala-130": "default"
+    "sala-130": "default",
+    "sala-107": "default"
   }
 }
