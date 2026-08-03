@@ -3082,6 +3082,19 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/RELOJ%20BLANCO%20CUADRADO.jpg"
     },
     {
+      "id": "sala-130",
+      "name": "Reloj Kensington",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "Medida 50 diam",
+      "price": 47000,
+      "price_old": 60000,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/762736490_1692112008717315_712184294010961264_n.jpg"
+    },
+    {
       "id": "sala-128",
       "name": "Reloj Linea Negro & Bambu",
       "category": "Sala & Living",
@@ -3635,6 +3648,7 @@
     "sala-126": "default",
     "sala-127": "default",
     "sala-128": "default",
-    "sala-129": "default"
+    "sala-129": "default",
+    "sala-130": "default"
   }
 }
