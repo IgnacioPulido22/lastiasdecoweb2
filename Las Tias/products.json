@@ -3121,6 +3121,19 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/763088909_1725853035318129_5160251211526583184_n.jpg"
     },
     {
+      "id": "sala-129",
+      "name": "Reloj Linea Vintage",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "Medida 40x32cm",
+      "price": 47000,
+      "price_old": 70000,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/763670887_1398886518829091_8193718013655691518_n.jpg"
+    },
+    {
       "id": "sala-107",
       "name": "Reloj Negro Redondo",
       "category": "Sala & Living",
@@ -3621,6 +3634,7 @@
     "sala-125": "default",
     "sala-126": "default",
     "sala-127": "default",
-    "sala-128": "default"
+    "sala-128": "default",
+    "sala-129": "default"
   }
 }
