@@ -3095,6 +3095,19 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/764215887_1633178681568453_6681256150448124598_n.jpg"
     },
     {
+      "id": "sala-127",
+      "name": "Reloj Linea Silver",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "Medida 30 diam",
+      "price": 40000,
+      "price_old": 60000,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/763088909_1725853035318129_5160251211526583184_n.jpg"
+    },
+    {
       "id": "sala-107",
       "name": "Reloj Negro Redondo",
       "category": "Sala & Living",
@@ -3593,6 +3606,7 @@
     "sala-023": "default",
     "sala-026": "default",
     "sala-125": "default",
-    "sala-126": "default"
+    "sala-126": "default",
+    "sala-127": "default"
   }
 }
