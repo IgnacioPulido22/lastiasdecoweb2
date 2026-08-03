@@ -3082,6 +3082,19 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/RELOJ%20BLANCO%20CUADRADO.jpg"
     },
     {
+      "id": "sala-128",
+      "name": "Reloj Linea Negro & Bambu",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "Medida 45 diam",
+      "price": 45000,
+      "price_old": 60000,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/762892261_1413136080709778_4253436461156793659_n.jpg"
+    },
+    {
       "id": "sala-126",
       "name": "Reloj Linea Silver",
       "category": "Sala & Living",
@@ -3607,6 +3620,7 @@
     "sala-026": "default",
     "sala-125": "default",
     "sala-126": "default",
-    "sala-127": "default"
+    "sala-127": "default",
+    "sala-128": "default"
   }
 }
