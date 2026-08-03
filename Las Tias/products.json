@@ -3069,19 +3069,6 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/762511951_1687800292308957_2718722576695273665_n.jpg"
     },
     {
-      "id": "sala-106",
-      "name": "Reloj Blanco Cuadrado",
-      "category": "Sala & Living",
-      "sectionId": "sala",
-      "description": "Diseño cuadrado en blanco cálido que se integra naturalmente en cualquier pared del hogar.",
-      "price": 28000,
-      "badge": null,
-      "color": "#ddd5c8",
-      "icon": "🕐",
-      "price_old": 38000,
-      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/RELOJ%20BLANCO%20CUADRADO.jpg"
-    },
-    {
       "id": "sala-130",
       "name": "Reloj Kensington",
       "category": "Sala & Living",
@@ -3093,6 +3080,19 @@
       "color": "#e8ddd0",
       "icon": "✨",
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/762736490_1692112008717315_712184294010961264_n.jpg"
+    },
+    {
+      "id": "sala-106",
+      "name": "Reloj Linea Moderna Blanco",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "Diseño cuadrado en blanco cálido que se integra naturalmente en cualquier pared del hogar.",
+      "price": 30000,
+      "badge": null,
+      "color": "#ddd5c8",
+      "icon": "🕐",
+      "price_old": 40000,
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/RELOJ%20BLANCO%20CUADRADO.jpg"
     },
     {
       "id": "sala-107",
@@ -3653,6 +3653,7 @@
     "sala-128": "default",
     "sala-129": "default",
     "sala-130": "default",
-    "sala-107": "default"
+    "sala-107": "default",
+    "sala-106": "default"
   }
 }
