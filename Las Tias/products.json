@@ -3056,6 +3056,19 @@
       "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/RELOJ%20ARENA%20REDONDO.jpg"
     },
     {
+      "id": "sala-125",
+      "name": "Reloj Arena Plata",
+      "category": "Sala & Living",
+      "sectionId": "sala",
+      "description": "Reloj de Arena Plateado",
+      "price": 23000,
+      "price_old": 30000,
+      "badge": null,
+      "color": "#e8ddd0",
+      "icon": "✨",
+      "img": "https://raw.githubusercontent.com/IgnacioPulido22/lastiasdecoweb2/master/Las%20Tias/images/762511951_1687800292308957_2718722576695273665_n.jpg"
+    },
+    {
       "id": "sala-106",
       "name": "Reloj Blanco Cuadrado",
       "category": "Sala & Living",
@@ -3566,6 +3579,7 @@
     "coc-055": "default",
     "ilum-022": "default",
     "sala-023": "default",
-    "sala-026": "default"
+    "sala-026": "default",
+    "sala-125": "default"
   }
 }
